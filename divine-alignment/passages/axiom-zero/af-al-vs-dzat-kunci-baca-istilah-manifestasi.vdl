@@ -1,0 +1,18 @@
+package soul.axiom-zero.af-al-vs-dzat-kunci-baca-istilah-manifestasi
+
+synthesis synthesis-manusia-sebagai-location-of-manifestation-makna {
+    body {
+        Manusia sebagai *location of manifestation* — makna literalnya adalah tempat sesuatu diwujudkan oleh Allah. Bukan shared wujud. Allah tidak "muncul jadi" manusia; Allah *menyebabkan* manusia berwujud (majazi), dan manusia adalah lokasi tempat penyebaban itu terjadi — bukan lokasi tempat substansi Allah muncul.
+    }
+}
+
+revelation revelation-qs-fatir-35-16-17 {
+    cites [soul.revelation.quran.35.16-17]
+    body {
+        QS. Fatir [35]:16-17 —
+        > *"In yasha' yuzhibkum wa ya'ti bi-khalqin jadid, wa ma dzalika 'alallahi bi 'aziz"*
+        > *(Jika Dia menghendaki, niscaya Dia membinasakan kamu dan mendatangkan makhluk yang baru. Dan yang demikian itu bagi Allah tidaklah sulit).*
+        >
+        > **Tafsir Ibnu Katsir:** Ayat ini adalah penegasan tentang keluasan kekuasaan Allah dan kelancaran penciptaan-Nya. Jika Allah menghendaki, Dia bisa membinasakan seluruh manusia seketika, lalu menggantinya dengan makhluk yang baru, dan itu tidak sulit bagi-Nya sama sekali. Ini menunjukkan bahwa Allah Maha Berkuasa atas segala sesuatu (Qadir 'ala kulli syai). Kekuasaan-Nya meliputi segalanya — memunculkan dari tiada, memusnahkan kembali ke tiada, mengganti satu makhluk dengan makhluk lain — semuanya terjadi dengan mudah bagi-Nya. Ini menjadi dasar pemahaman bahwa Af'al-Nya (perbuatan-perbuatan Allah) meliputi segala sesuatu tanpa itu berarti Dzat-Nya (Esensi-Nya) menyebar atau menempati dalam segala sesuatu. Allah berkuasa penuh tanpa perlu "hadir secara substansial" di dalam makhluk-makhluk-Nya. [Catatan audit 2026-10-26: koordinat sebelumnya salah tulis sebagai QS. Al-Baqarah [2]:20 dan lafaz "yabda' khalqan jadid" bukan riwayat Hafs — dikoreksi ke QS. Fatir [35]:16-17 dengan lafaz "wa ya'ti bi-khalqin jadid" (KOORDINAT_AYAT_SALAH, audit ronde 3).]
+    }
+}

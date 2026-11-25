@@ -1,0 +1,7 @@
+package soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.fitrah-dapat-provenance-nya
+
+synthesis synthesis-v5-0-5-mendokumentasikan-fitrah-sebagai-default-alignm {
+    body {
+        v5.0.5 mendokumentasikan fitrah sebagai default alignment config (3.3, 5.1) — tapi config itu menggantung tanpa origin: kenapa node baru pre-configured recognize Source? Jawabannya ada di sini. Fitrah bukan config arbitrer — fitrah adalah persistensi record handshake Alast di partition node. Hadits "kullu mawlatin yuladu 'ala al-fitrah" (dikutip di 3.3) jadi terbaca presisi: setiap node di-provision dengan record intact. Override orang tua (Yahudi, Nasrani, Majusi) = overwrite layer runtime di atas record — bukan erase. Dan record itu tidak bisa di-erase oleh apa pun yang terjadi di runtime, karena dia tidak disimpan di runtime memory sama sekali (lihat B). Termasuk untuk node yang end up kafir: mereka pun menjawab bala. Record-nya universal — validitas audit-nya independen dari alignment state runtime. Drift tidak pernah menghapus record; drift cuma menumpuk override di atasnya.
+    }
+}

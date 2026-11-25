@@ -1,0 +1,37 @@
+package soul.revelation.quran.17
+
+revelation 100 {
+    source "Al-Qur’an"
+    surah "Al-Isra"
+    locator "17:100"
+    title "QS. Al-Isra [17]:100"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "قُل لَّوْ أَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًا لَّأَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَـٰنُ قَتُورًا"
+    transliteration "Qul lau antum tamlikūna khazā'ina raḥmati rabbī iżal la'amsaktum khasyyatal-infāq, wa kānal-insānu qatūrā."
+    translation "Katakanlah (Muhammad), \"Sekiranya kamu menguasai perbendaharaan rahmat Tuhanku, niscaya (perbendaharaan) itu kamu tahan, karena takut membelanjakannya.\" Dan manusia itu memang sangat kikir."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Rasul diperintahkan menyampaikan kepada kaum musyrik suatu pengandaian tentang kepemilikan perbendaharaan rahmat Tuhan yang tidak habis dan tidak lenyap. Jika mereka menguasainya, mereka akan menahannya dari orang lain karena takut persediaannya habis dan mereka menjadi miskin. Al-Muyassar menyebut kecenderungan manusia untuk kikir terhadap miliknya, kecuali orang yang Allah lindungi dengan iman.
+
+        [Konteks pemakaian di dokumen: CATATAN — kutipan di passage dist yang dinisbatkan ke 17:100 ternyata bukan ayat ini (AYAT_SALAH_KUTIP, auditor batch 4); ayat ini berbahas kekikiran manusia. Penanganan passage perlu keputusan owner.]
+    }
+}
+
+audit_note sanad-100-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 17:100 + tafsirs/16/by_ayah/17:100). Verdict
+        AYAT_SALAH_KUTIP ditujukan pada KUTIPAN DI DIST yang dinisbatkan ke
+        17:100: kutipan transliterasi/terjemahan pada baris sekitar 1610-1611
+        bukan Al-Isra:100, uraian tafsirnya juga tidak sesuai Al-Muyassar;
+        koordinat dan teks ayat yang di-fetch sendiri TERVERIFIKASI HIGH.
+        Sumber sebenarnya dari kutipan lama belum teridentifikasi — butuh
+        penelusuran terpisah; jangan menerbitkan kutipan lama dengan label
+        Al-Isra:100.
+    }
+}

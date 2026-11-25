@@ -1,0 +1,34 @@
+package soul.revelation.quran.55
+
+revelation 26-27 {
+    source "Al-Qur’an"
+    surah "Ar-Rahman"
+    locator "55:26-27"
+    title "QS. Ar-Rahman [55]:26-27"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "كُلُّ مَنْ عَلَيْهَا فَانٍ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ"
+    transliteration "Kullu man 'alaihā fān. Wa yabqā wajhu rabbika żul-jalāli wal-ikrām."
+    translation "Semua yang ada di bumi itu akan binasa, tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Seluruh makhluk di muka bumi akan binasa, sedangkan wajah Tuhan yang memiliki keagungan, kebesaran, karunia, dan kemurahan tetap kekal. Al-Muyassar menetapkan sifat wajah bagi Allah sesuai dengan keagungan-Nya, tanpa penyerupaan dan tanpa menentukan bagaimana sifat tersebut.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pembedaan kefanaan makhluk dan kekekalan Allah ("Dua Kelas Wujud" adalah sintesis framework); redaksi tafsir yang diatribusikan ke Ibnu Katsir di dist belum terverifikasi dan bukan isi Al-Muyassar.]
+    }
+}
+
+audit_note sanad-26-27-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks kedua ayat diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 55:26 dan 55:27, Al-Tafsir al-Muyassar (resource 16)
+        dari tafsirs/16/by_ayah 55:26 dan 55:27 (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Arab dan terjemahan masing-masing
+        ayat digabung dengan satu spasi. Tafsir kedua endpoint merupakan satu
+        penjelasan gabungan yang sama; atribusi tafsir wajah sebagai Dzat ke
+        Ibnu Katsir di dist belum terverifikasi, bukan diputus salah.
+    }
+}

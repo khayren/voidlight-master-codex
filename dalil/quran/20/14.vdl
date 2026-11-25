@@ -1,0 +1,31 @@
+package soul.revelation.quran.20
+
+revelation 14 {
+    source "Al-Qur’an"
+    surah "Taha"
+    locator "20:14"
+    title "QS. Thaha [20]:14"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ"
+    transliteration "Innanī anallāhu lā ilāha illā anā fa'budnī wa aqimiṣ-ṣalāta liżikrī."
+    translation "Sungguh, Aku ini Allah, tidak ada tuhan selain Aku, maka sembahlah Aku dan laksanakanlah salat untuk mengingat Aku."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menegaskan bahwa tidak ada yang berhak disembah selain Dia dan tidak ada sekutu bagi-Nya. Karena itu, sembahlah Dia semata dan tegakkan salat untuk mengingat-Nya di dalamnya.
+
+        [Konteks pemakaian di dokumen: ayat ini jadi provenance amal shalat (13.1); istilah "provenance" adalah pemetaan dokumen, bukan redaksi Al-Muyassar.]
+    }
+}
+
+audit_note sanad-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar.
+        Verdict AYAT_TERVERIFIKASI, konfidensi HIGH. Tanpa koreksi editorial.
+        Makki per metadata surah. Sumber: api.quran.com verse 20:14 +
+        tafsirs/16.
+    }
+}

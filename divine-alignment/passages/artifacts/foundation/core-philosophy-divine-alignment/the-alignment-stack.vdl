@@ -1,0 +1,43 @@
+package soul.alignment.foundation.core-philosophy-divine-alignment.the-alignment-stack
+
+synthesis synthesis-islam-adalah-arsitektur-wujud-mumkin-cara {
+    cites [soul.revelation.quran.55.26]
+    body {
+        Islam adalah arsitektur wujud mumkin — cara sebuah eksistensi contingent (0.2) menavigasi ketergantungan penuhnya pada Wujud Wajib (0.1). Penyelarasan (alignment) tetap valid sebagai operational descriptor, tapi framing utamanya adalah wujud: bagaimana makhluk yang faan (QS. Ar-Rahman [55]:26) mempertahankan ketergantungan eksistensialnya. Pahala dan siksa tetap nyata — tapi mereka adalah *konsekuensi* dari alignment state, bukan *objektif utama*.
+    }
+}
+
+revelation revelation-qs-adz-dzariyat-51-56 {
+    cites [soul.revelation.quran.51.56]
+    body {
+        QS. Adz-Dzariyat [51]:56 —
+        > *"Wa mā khalaqtul-jinna wal-insa illā liya'budūn"*
+        > *(Dan aku tidak menciptakan jin dan manusia melainkan supaya mereka menyembah-Ku).*
+        >
+        > **Tafsir Ibnu Katsir:** Firman Allah ini merupakan tujuan penciptaan yang paling agung dan paling fundamental. Ibnu Katsir menjelaskan bahwa makna "liyā'budūn" (supaya mereka menyembah-Ku) mencakup seluruh jenis ibadah: tauhid, shalat, zakat, puasa, haji, jihad, amar ma'ruf nahi munkar, dan seluruh perintah serta larangan Allah. Tidak ada makhluk yang diciptakan Allah tanpa tujuan ini — baik jin maupun manusia. Ibnu Abbas berkata: "Sesungguhnya ibadah itu adalah tujuan yang lebih agung dari sekadar makan, minum, dan bersenang-senang." Ayat ini menunjukkan kesempurnaan hikmah Allah dalam penciptaan: Allah tidak menciptakan sesuatu yang sia-sia, dan tujuan penciptaan jin dan manusia bukanlah untuk berbuat maksiat atau mengingkari Allah, melainkan untuk beribadah kepada-Nya.
+    }
+}
+
+revelation revelation-qs-at-taubah-9-104 {
+    cites [soul.revelation.quran.9.104]
+    body {
+        QS. At-Taubah [9]:104 —
+        > *"Anna llāha huwa yaqbalut-taubata 'an 'ibādihī"*
+        > *(...bahwa Allah menerima tobat hamba-hamba-Nya...).*
+        >
+        > [Catatan audit 2026-11-15: kutipan sebelumnya "Wa Huwa yaqbaluṭ-taubata..." bukan lafaz persis ayat — lafaz ayat adalah "anna llāha huwa yaqbalut-taubata 'an 'ibādihī" (auditor batch 4 via dalil-fetch.py, AYAT_TERVERIFIKASI HIGH; teks lengkap di module dalil/quran/9/104.vdl).]
+        >
+        > **Tafsir Ibnu Katsir:** Firman Allah ini menunjukkan keluasan rahmat Allah dan kesediaan-Nya untuk menerima tobat hamba-hamba-Nya. Allah Maha Penerima tobat lagi Maha Penyayang. Tidak ada tobat yang terlalu kecil untuk diterima, dan tidak ada dosa yang terlalu besar untuk diampuni — selama hamba itu benar-benar bertobat dengan taubat nasuha (tobat yang tulus). Pintu tobat selalu terbuka selama ajal belum tiba dan matahari belum terbit dari barat. [Catatan audit 2026-11-15: rumusan "pintu tobat terbuka selama ajal/matahari dari barat" tidak diperiksa sumbernya di batch ini dan perlu dalil tersendiri bila dipertahankan untuk publikasi.]
+    }
+}
+
+revelation revelation-qs-al-baqarah-2-285-kutipan-dari-ayat {
+    cites [soul.revelation.quran.2.285]
+    body {
+        QS. Al-Baqarah [2]:285 — (kutipan dari Ayat Iman)
+        > *"Rasul beriman kepada apa yang diturunkan kepadanya dari Tuhannya, demikian pula orang-orang yang beriman, semuanya beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, dan rasul-rasul-Nya. (Mereka berkata): 'Kami tidak membeda-bedakan antara seseorang pun dari rasul-rasul-Nya,' dan mereka berkata: 'Kami dengar dan kami taat.' (Mereka berdoa): 'Ampunilah kami ya Tuhan kami dan kepada-Ma-lah tempat kembali.'"*
+        > *(QS. Al-Baqarah [2]:285 — lengkap)*
+        >
+        > **Tafsir Ibnu Katsir:** QS. Al-Baqarah [2:285] — yang di dokumen ini diberi label "Ayat Iman" sebagai konvensi penamaan — memuat pengakuan iman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, dan rasul-rasul-Nya, ketidakediktifan antar rasul, serta doa "sami'nā wa aṭa'nā" dan permohonan ampunan. Frasa "wa ilaykal-masir" (kepada-Mu-lah tempat kembali) menegaskan bahwa seluruh makhluk — tanpa terkecuali — akan dikembalikan kepada Allah setelah kematian untuk dihisab dan diberi balasan. [Catatan audit 2026-10-26: frasa sebelumnya "wa ilaihi turja'ūn" salah kutip; akhir ayat 2:285 adalah "wa ilaykal-masir" (AYAT_SALAH_KUTIP, audit ronde 3) — makna kalimat tidak berubah.] [Catatan audit 2026-11-15: redaksi sebelumnya "merangkum enam rukun iman secara ringkas dan komprehensif" tidak didukung lafaz ayat — daftar eksplisit lafaz menyebut empat objek iman (auditor batch 3) — redaksi dibatasi ke isi lafaz.] Ini adalah akhir dari setiap perjalanan: kembali kepada Sang Pencipta. Tidak ada jalan lain, tidak ada tujuan akhir selain Allah.
+    }
+}

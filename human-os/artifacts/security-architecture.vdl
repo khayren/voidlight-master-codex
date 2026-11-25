@@ -1,0 +1,11 @@
+package soul.human-os
+
+artifact security-architecture {
+    title "Security Architecture: Threats & Defenses"
+    includes [
+        soul.human-os.security-architecture.internal-threats, 
+        soul.human-os.security-architecture.external-threats
+    ]
+    body {
+    }
+}

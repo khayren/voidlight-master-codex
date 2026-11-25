@@ -1,0 +1,37 @@
+package soul.revelation.hadith.muslim
+
+revelation 2653 {
+    source "HR. Muslim"
+    locator "no. 2653b (Kitab al-Qadar)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abdullah bin Amr bin al-As"
+    book_section "Kitab al-Qadar"
+    grade_status "Shahih"
+    grade_by "Imam Muslim (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "كَتَبَ اللَّهُ مَقَادِيرَ الْخَلاَئِقِ قَبْلَ أَنْ يَخْلُقَ السَّمَوَاتِ وَالأَرْضَ بِخَمْسِينَ أَلْفَ سَنَةٍ - قَالَ - وَعَرْشُهُ عَلَى الْمَاءِ ‏\""
+    transliteration "Kataballāhu maqādīral-khalā'iqi qabla an yakhluqas-samāwāti wal-arḍa bi-khamsīna alfa sanatin, qāla, wa 'arsyuhū 'alal-mā'."
+    translation "Allah menetapkan ukuran-ukuran (maqādīr) para makhluk lima puluh ribu tahun sebelum menciptakan langit dan bumi, dan Arsy-Nya berada di atas air."
+    body {
+        > **Isi hadits (ringkas):** Penetapan maqādīr makhluk mendahului penciptaan langit dan bumi 50.000 tahun; Arsy berada di atas air (dialog Adam-Musa dalam Kitab al-Qadar).
+
+        [Konteks pemakaian di dokumen: fondasi pembahasan qadar (1.3); hadits tidak mendefinisikan pembagian teknis qada vs qadar, cabang kemungkinan, atau mekanisme pilihan dalam model dokumen.]
+    }
+}
+
+audit_note sanad-2653-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri dari sunnah.com/muslim:2653b (varian b; fetch tanpa
+        suffix dan 2653a gagal ekstraksi meski HTTP 200). Nomor mengikuti
+        referensi sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung.
+        Grading individual tidak terlihat di fetch. Lafaz terverifikasi:
+        "maqādīr al-khalā'iq" (bukan "taqādīr" atau "maqādīr al-khalāq"),
+        konsisten dengan audit 2026-11-14; sisipan "qāla" sebelum penyebutan
+        Arsy dipertahankan verbatim. Transliterasi di passage kehilangan
+        bagian lafaz "khalā'iq" — perlu koreksi (flag owner).
+        Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

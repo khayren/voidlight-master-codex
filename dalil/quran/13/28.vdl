@@ -1,0 +1,33 @@
+package soul.revelation.quran.13
+
+revelation 28 {
+    source "Al-Qur’an"
+    surah "Ar-Ra'd"
+    locator "13:28"
+    title "QS. Ar-Ra'd [13]:28"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ"
+    transliteration "Allażīna āmanū wa taṭma'innu qulūbuhum biżikrillāh, alā biżikrillāhi taṭma'innul-qulūb."
+    translation "(yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah memberi petunjuk kepada orang-orang yang hatinya menjadi tenang dengan mentauhidkan dan mengingat-Nya. Hati mereka memperoleh ketenteraman melalui hal tersebut. Ketaatan kepada Allah, mengingat-Nya, dan pahala-Nya menjadi sumber ketenangan serta keakraban hati.
+
+        [Konteks pemakaian di dokumen: dirujuk pada tema dzikir dan ketenteraman hati (Human OS, bagian The Final Insight); "core/firmware/signal/receiver" adalah analogi framework.]
+    }
+}
+
+audit_note sanad-28-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 13:28 + tafsirs/16/by_ayah/13:28). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Catatan auditor: kutipan Inggris
+        di dist hanyalah petikan makna bagian akhir ayat, bukan terjemahan
+        seluruh ayat; file module memuat teks lengkap.
+    }
+}

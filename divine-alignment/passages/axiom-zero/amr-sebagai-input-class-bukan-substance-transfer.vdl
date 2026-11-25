@@ -1,0 +1,72 @@
+package soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer
+
+revelation revelation-qs-al-isra-17-85 {
+    cites [soul.revelation.quran.17.85]
+    body {
+        QS. Al-Isra [17]:85 —
+        > *"Wa yas'alunaka 'anir ruh, qulir ruh min amri Rabbi, wa maa uutiitum minal 'ilmi illaa qaliilaa"*
+        > *(Dan mereka bertanya kepadamu tentang Ruh. Katakanlah: "Ruh itu termasuk urusan Tuhanku, dan kalian tidak diberi ilmu kecuali sedikit").*
+        >
+        > **Tafsir Ibnu Katsir:** Para ulama berbeda pendapat tentang makna Ruh dalam ayat ini. Sebagian berpendapat Ruh di sini adalah ruh manusia yang ditiupkan ke dalam jasad. Yang lebih kuat menurut ulama tafsir: Ruh di sini merujuk pada ruh manusia secara umum. Makna "min amri Rabbi" adalah Ruh itu dari sisi perintah dan kekuasaan Allah — bukan dari proses khalq (penciptaan bertahap yang material), melainkan dari proses Amr (perintah instan yang melebihi mekanisme material). Ini menunjukkan bahwa Ruh termasuk urusan ghaib yang tingkat ilmu manusia sangat terbatas tentangnya. Ayat ini menjadi dasar bahwa Ruh termasuk Alam al-Amr — bukan Alam al-Khalq — sehingga mekanismenya tidak bisa diakses oleh ilmu empiris material. [Catatan audit v5.0.5: riwayat ath-Thabrani "Ruh itu adalah rahasia Tuhanku, janganlah kamu banyak menguraiknya" tidak memiliki sanad yang kuat (umumnya dinilai lemah oleh para penelaah hadits, termasuk al-Albani dalam Silsilah Dha'ifah) dan telah dihapus; ayat 17:85 sendiri sudah cukup menjadi dalil.]
+    }
+}
+
+revelation revelation-qs-yasin-36-82 {
+    cites [soul.revelation.quran.36.82]
+    body {
+        QS. Yasin [36]:82 —
+        > *"Innama amruhu idza arada syai-an an yaqula lahu kun fayakun"*
+        > *(Sesungguhnya kekuasaan-Nya apabila Dia menghendaki sesuatu adalah berkata kepadanya: "Jadilah!" maka terjadilah ia).*
+        >
+        > **Tafsir Ibnu Katsir (ringkas):** Pada QS. Yasin [36]:82, Ibnu Katsir menjelaskan bahwa perintah Allah tidak memerlukan pengulangan: jika Allah menghendaki suatu perkara, Dia cukup mengatakan "kun" dengan satu ucapan, maka terjadilah. Pada QS. Al-Baqarah [2]:117, ia menjelaskan bahwa "kun fayakun" menunjukkan kesempurnaan kekuasaan Allah: sesuatu menjadi ada sesuai dengan yang Dia kehendakinya. Di entri yang sama, Ibnu Katsir mengutip dan menyetujui penjelasan Ibnu Jarir ath-Thabari bahwa seluruh yang ada di langit dan bumi adalah milik Allah, menunjukkan keesaan-Nya, dan adalah ciptaan-Nya tanpa asal maupun contoh yang ditiru.
+        >
+        > [Konstruksi dokumen, bukan kutipan tafsir: pemakaian ayat ini di framework — amr sebagai mekanisme instan yang berbeda register dari khalq yang bertahap — adalah mapping penulis. Pertanyaan apakah "kun" merupakan lafal yang benar-benar diucapkan adalah perkara sifat kalam; entri Ibnu Katsir yang diperiksa tidak membahasnya, dan dokumen ini tidak mengklaim jawabannya. Label tawhid rububiyyah adalah klasifikasi dokumen atas substansi dalil, bukan istilah kutipan Ibnu Katsir.]
+        [Catatan audit v5.0.5: atribusi kutipan sebelumnya kepada Imam Asy-Syafi'i tidak tertelusur ke sumber primer dan telah dilepas; substansi dalil tetap berdiri lewat ayat itu sendiri.]
+    }
+}
+
+synthesis synthesis-al-qur-an-konsisten-memisahkan-dua-register-proses-pen {
+    cites [soul.revelation.quran.32.7]
+    body {
+        Al-Qur'an konsisten memisahkan dua register proses penciptaan. **Khalq** — proses bertahap, material, observable (QS. As-Sajdah [32]:7, manusia dari tanah — lihat tafsir di bawah). **Amr** — instan, non-material, mekanisme kun fayakun. Ruh eksplisit ditaruh di kelas Amr, bukan Khalq. Ini dasar mapping framework: Ruh adalah input command dari Alam al-Amr.
+    }
+}
+
+revelation revelation-qs-as-sajdah-32-7 {
+    cites [soul.revelation.quran.32.7, soul.revelation.quran.30.30]
+    body {
+        QS. As-Sajdah [32]:7 —
+        > *"Alladzii ahsana kulla syai'in khalaqahu wa bada'a khalqal insaani min tiin"*
+        > *(Yang membuat segala sesuatu yang Dia ciptakan sebaik-baiknya, dan Yang memulai penciptaan manusia dari tanah liat).*
+        >
+        > **Tafsir Ibnu Katsir:** Ayat ini diturunkan dalam konteks penjelasan tentang penciptaan manusia yang bertahap dan sempurna. Allah menyebutkan bahwa Dia adalah Yang membuat segala sesuatu yang Dia ciptakan sebaik-baiknya (*ahsana kulla syai'in khalaqahu*) — setiap makhluk dan objek diciptakan dalam bentuk yang paling sempurna sesuai fungsi dan tujuannya. Kemudian Allah menyebutkan permulaan penciptaan manusia: "wa bada'a khalqal insaani min tiin" (dan Yang memulai penciptaan manusia dari tanah liat) — ini adalah proses **Khalq** (penciptaan bertahap, material) yang berbeda dari proses **Amr** (instan, non-material, kun fayakun). Manusia diciptakan dari tanah liat (*tiin*) sebagai tahap awal, lalu dari air mani, lalu dari darah beku (*alaqah*), dan seterusnya sampai menjadi manusia sempurna. "Ahsana" berarti Allah menciptakan segala sesuatu dengan sebaik-baik bentuk, tampilan, dan struktur sesuai dengan kebutuhan dan fungsinya masing-masing. Ini menunjukkan bahwa manusia sebagai wujud mumkin diciptakan dengan "default configuration" yang optimal (fitrah, QS. Ar-Rum [30]:30) — tapi karena manusia adalah ciptaan dari tanah liat (material/Khalq), ia juga punya keterbatasan dan butuh terus-menerus disustain oleh Source.
+    }
+}
+
+analogy analogy-kayak-thread-yang-menerima-signal-dari-kernel {
+    body {
+        Kayak thread yang menerima signal dari kernel. Thread mengeksekusi instruksi kernel — tapi thread bukan kernel, dan thread tetap bisa di-kill kapan saja. Menerima instruksi tidak sama dengan menjadi bagian dari yang memberi instruksi.
+    }
+}
+
+audit_note sanad-re-audit-2026-11-15 {
+    auditor "sanad-auditor (re-audit Task B, flag terakhir)"
+    date "2026-11-15"
+    body {
+        Flag PERLU_VERIFIKASI_SANAD pada klaim "kun fayakun bukan lafal/suara
+        literal" yang dinisbatkan ke Tafsir Ibnu Katsir 36:82: VERDICT final
+        ATRIBUSI_SALAH (HIGH confidence). Teks Ibnu Katsir dicek langsung pada
+        36:82, 2:117, dan 3:59 via quran.com (ar-tafsir-ibn-kathir): yang
+        tertelusur = satu perintah tanpa pengulangan (36:82), kesempurnaan
+        kekuasaan dan terjadinya sesuai kehendak (2:117), kutipan Ibnu Jarir
+        ath-Thabari tentang penciptaan yang dinilai "kalam jayyid wa 'ibarah
+        shahihah" (2:117). Yang TIDAK tertelusur di ketiga entri: penafian
+        lafal/suara literal, "suara dan lisan", klaim kolektif "para ulama".
+        Owner-approved penanganan (opsi rekomendasi auditor): atribusi Ibnu
+        Katsir dibatasi ke bagian tertelusur (36:82 + 2:117), penafian lafal
+        diganti blok konstruksi dokumen yang tidak mengklaim jawaban sifat
+        kalam, label tawhid rububiyyah ditandai sebagai klasifikasi dokumen.
+        Batas: tidak ditemukannya di tiga entri tidak membuktikan redaksi
+        serupa tidak pernah dibahas di karya lain.
+    }
+}

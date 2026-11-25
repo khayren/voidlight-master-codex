@@ -1,0 +1,34 @@
+package soul.revelation.hadith.bukhari
+
+revelation 4981 {
+    source "HR. Bukhari"
+    locator "no. 4981 (Kitab Fadhail al-Qur'an)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Hurairah"
+    book_section "Kitab Fadhail al-Qur'an"
+    grade_status "Shahih"
+    grade_by "Imam Bukhari (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "مَا مِنَ الأَنْبِيَاءِ نَبِيٌّ إِلاَّ أُعْطِيَ مَا مِثْلُهُ آمَنَ عَلَيْهِ الْبَشَرُ، وَإِنَّمَا كَانَ الَّذِي أُوتِيتُ وَحْيًا أَوْحَاهُ اللَّهُ إِلَىَّ فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ ‏\""
+    transliteration "Mā minal-anbiyā'i nabiyyun illā u'thiya mā mitsluhū āmana 'alaihil-basyaru, wa innamā kānal-ladzī ūtītu waḥyan awhāhullāhu ilayya, fa-arjū an akūna aktsarahum tābi'an yaumal-qiyāmah."
+    translation "Setiap nabi diberi tanda yang dengannya manusia beriman kepadanya. Adapun yang diberikan kepadaku adalah wahyu yang Allah wahyukan kepadaku, dan aku berharap menjadi nabi dengan pengikut paling banyak pada hari Kiamat."
+    body {
+        > **Isi hadits (ringkas):** Para nabi diberi tanda kenabian yang membuat manusia beriman; Nabi Muhammad menyebut wahyu yang diberikan kepadanya dan berharap pengikut terbanyak.
+
+        [Konteks pemakaian di dokumen: dirujuk bersama Muslim 152 pada tema mukjizat; lafaz di passage adalah PARAfrase, bukan kutipan verbatim (catatan audit 2026-11-14) — jangan menisbatkan model teknis mukjizat/karamah ke hadits ini.]
+    }
+}
+
+audit_note sanad-4981-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri dari sunnah.com/bukhari:4981. Nomor mengikuti referensi
+        sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading
+        individual tidak terlihat di fetch. Catatan: redaksi Arab varian Bukhari
+        ini berbeda dari Muslim 152 — simpan terpisah, jangan digabung menjadi
+        satu lafaz. Lafaz di passage adalah parafrase (catatan audit
+        2026-11-14). Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

@@ -1,0 +1,33 @@
+package soul.revelation.quran.21
+
+revelation 33 {
+    source "Al-Qur’an"
+    surah "Al-Anbiya"
+    locator "21:33"
+    title "QS. Al-Anbiya [21]:33"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ"
+    transliteration "Wa huwal-lażī khalaqal-laila wan-nahāra wasy-syamsa wal-qamar, kullun fī falakiy yasbaḥūn."
+    translation "Dan Dialah yang telah menciptakan malam dan siang, matahari dan bulan. Masing-masing beredar pada garis edarnya."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menciptakan malam agar manusia beristirahat dan siang agar mereka mencari penghidupan. Allah menciptakan matahari sebagai tanda bagi siang dan bulan sebagai tanda bagi malam. Matahari dan bulan masing-masing mempunyai lintasan tempat keduanya berjalan dan berenang tanpa menyimpang darinya.
+
+        [Konteks pemakaian di dokumen: dirujuk pada keteraturan peredaran matahari dan bulan; "tepat di orbit" adalah parafrasa, pembagian tiga alam sebagai tier signal adalah analogi framework.]
+    }
+}
+
+audit_note sanad-33-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 21:33 + tafsirs/16/by_ayah/21:33). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Tidak ada anomali koordinat atau
+        pokok makna; atribusi uraian ke Ibnu Katsir di dist belum
+        diverifikasi; model tiga tier alam tidak dinyatakan sumber.
+    }
+}

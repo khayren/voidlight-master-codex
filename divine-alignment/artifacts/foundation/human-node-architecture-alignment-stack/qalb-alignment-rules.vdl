@@ -1,0 +1,23 @@
+package soul.alignment.foundation.human-node-architecture-alignment-stack
+
+artifact qalb-alignment-rules {
+    title "Qalb Alignment Rules"
+    passages [
+        soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-alignment-rules.synthesis-qalb-bukan-sekadar-firewall-yang-nge-block-malware,
+        prose {
+            | Rule | Tipe | Deskripsi |
+            |---|---|---|
+            | ALIGN: Ikhlas | ✅ Clean | Murni untuk Allah — signal yang paling aligned, zero ego attachment |
+            | ALIGN: Taqwa | ✅ Clean | Awareness of Allah dalam setiap action — continuous alignment check |
+            | ALIGN: Tawadhu | ✅ Clean | Rendah hati — acknowledgment that node is dependent on Source |
+            | ALIGN: Ridha | ✅ Clean | Acceptance of Qadar — alignment maintained even when branch is painful |
+            | DROP: Riya | ❌ Drift | Pamer amal untuk dilihat manusia — signal redirected to wrong target (audience) |
+            | DROP: Hasad | ❌ Drift | Iri hati — signal resentful terhadap redistribution yang Allah tentukan |
+            | DROP: Ego | ❌ Drift | Self-importance — trust local config lebih daripada Source signal |
+            | DROP: Kibir | ❌ Drift | Arrogance — node claims superiority over other nodes, alignment target corrupted |
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §4.4
+    }
+}

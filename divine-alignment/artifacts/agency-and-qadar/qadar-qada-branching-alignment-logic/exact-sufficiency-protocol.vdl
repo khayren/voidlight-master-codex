@@ -1,0 +1,17 @@
+package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic
+
+artifact exact-sufficiency-protocol {
+    title "Exact Sufficiency Protocol"
+    cites [soul.revelation.quran.2.286]
+    includes [soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.exact-sufficiency-vs-barakah, soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold]
+    passages [
+        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.synthesis-qadar-bukan-cuma-fixed-points-dan-branching,
+        prose {
+            > *"Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya."* (QS. Al-Baqarah [2]:286)
+        },
+        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.revelation-ayat-ini-adalah-resource-allocation-principle
+    ]
+    body {
+        > Rujukan v5.0.7: §7.3
+    }
+}

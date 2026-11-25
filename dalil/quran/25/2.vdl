@@ -1,0 +1,33 @@
+package soul.revelation.quran.25
+
+revelation 2 {
+    source "Al-Qur’an"
+    surah "Al-Furqan"
+    locator "25:2"
+    title "QS. Al-Furqan [25]:2"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا"
+    transliteration "Allażī lahū mulkus-samāwāti wal-arḍi wa lam yattakhiż waladaw wa lam yakul lahū syarīkun fil-mulki wa khalaqa kulla syai'in faqaddarahū taqdīrā."
+    translation "Yang memiliki kerajaan langit dan bumi, tidak mempunyai anak, tidak ada sekutu bagi-Nya dalam kekusaan (-Nya), dan Dia menciptakan segala sesuatu, lalu menetapkan ukuran-ukurannya dengan tepat."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Kerajaan langit dan bumi adalah milik Allah. Dia tidak mempunyai anak dan tidak mempunyai sekutu dalam kerajaan-Nya. Dia menciptakan segala sesuatu serta membentuknya sesuai dengan penciptaan yang tepat baginya menurut hikmah-Nya, tanpa kekurangan atau cacat.
+
+        [Konteks pemakaian di dokumen: dirujuk pada penciptaan dan penetapan ukuran ("faqaddarahū taqdīrā") sebagai landasan tema qadar; definisi qadar sebagai node config dan model Lauhul Mahfuzh adalah sintesis framework.]
+    }
+}
+
+audit_note sanad-2-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 25:2 + tafsirs/16/by_ayah/25:2). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Bentuk "kekusaan (-Nya)" ada di
+        resource 33 dan raw JSON — dipertahankan verbatim. Ayat tidak menyebut
+        Lauhul Mahfuzh, possibility space, atau pembagian teknis qada/qadar.
+    }
+}

@@ -1,0 +1,32 @@
+package soul.revelation.quran.2
+
+revelation 286 {
+    source "Al-Qur’an"
+    surah "Al-Baqarah"
+    locator "2:286"
+    title "QS. Al-Baqarah [2]:286"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ"
+    transliteration "Lā yukallifullāhu nafsan illā wus'ahā. Lahā mā kasabat wa 'alaihā maktasabat. Rabbanā lā tu'ākhiżnā in nasīnā au akhṭa'nā. Rabbanā wa lā taḥmil 'alainā iṣran kamā ḥamaltahū 'alallażīna min qablinā. Rabbanā wa lā tuḥammilnā mā lā ṭāqata lanā bihī. Wa'fu 'annā waghfir lanā warḥamnā. Anta maulānā fanṣurnā 'alal-qaumil-kāfirīn."
+    translation "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Dia mendapat (pahala) dari kebajikan yang dikerjakannya dan dia mendapat (siksa) dari (kejahatan) yang diperbuatnya. (Mereka berdoa), \"Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami melakukan kesalahan. Ya Tuhan kami, janganlah Engkau bebani kami dengan beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Ya Tuhan kami, janganlah Engkau pikulkan kepada kami apa yang tidak sanggup kami memikulnya. Maafkanlah kami, ampunilah kami, dan rahmatilah kami. Engkaulah pelindung kami, maka tolonglah kami menghadapi orang-orang kafir.\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Agama Allah mengandung kemudahan; Allah tidak menuntut hamba-Nya melakukan sesuatu di luar kemampuan mereka. Kebaikan dan keburukan perbuatan kembali kepada pelakunya. Ayat ini memuat permohonan agar tidak dihukum karena lupa atau keliru, tidak dibebani pekerjaan berat sebagaimana umat terdahulu sebagai hukuman, dan tidak dibebani kewajiban maupun musibah yang tidak sanggup ditanggung. Mereka juga memohon penghapusan dosa, penutupan aib, rahmat, serta pertolongan Allah menghadapi orang-orang yang mengingkari-Nya.
+
+        [Konteks pemakaian di dokumen: "lahā mā kasabat wa 'alaihā maktasabat" dipakai sebagai dasar kontrak kasb — hasil perbuatan kembali ke pelakunya; istilah "kontrak kasb" dan "authorized executor" adalah pemetaan dokumen, bukan istilah Al-Muyassar.]
+    }
+}
+
+audit_note sanad-286-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar.
+        Verdict AYAT_TERVERIFIKASI, konfidensi HIGH. Tanpa koreksi editorial.
+        Madani per metadata surah. Batas: model kontrak/otorisasi teknis
+        dokumen jangan diatribusikan ke Al-Muyassar. Sumber: api.quran.com
+        verse 2:286 + tafsirs/16.
+    }
+}

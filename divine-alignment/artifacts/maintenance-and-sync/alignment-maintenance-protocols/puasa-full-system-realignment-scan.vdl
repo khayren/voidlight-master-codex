@@ -1,0 +1,21 @@
+package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols
+
+artifact puasa-full-system-realignment-scan {
+    title "Puasa — Full System Realignment Scan"
+    cites [soul.revelation.quran.2.183]
+    passages [
+        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.puasa-full-system-realignment-scan.synthesis-sholat-itu-quick-scan-quarantine-file-suspicious,
+        prose {
+            - Reduced input bandwidth (no food/water) — sensor distractions minimized
+            - System forced prioritize essential process only — alignment signal lebih jelas
+            - Nafs process yang biasanya background running jadi visible — noise sources terdeteksi
+        },
+        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.puasa-full-system-realignment-scan.revelation-qs-al-baqarah-2-183,
+        prose {
+            Taqwa = *continuous alignment awareness*. Puasa adalah *alignment training camp* yang intensif.
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §13.2
+    }
+}

@@ -1,0 +1,15 @@
+package soul.human-os
+
+artifact daily-protocols {
+    title "Protocols: Daily Operations"
+    includes [
+        soul.human-os.daily-protocols.dhikr, 
+        soul.human-os.daily-protocols.tawbah, 
+        soul.human-os.daily-protocols.muraqabah, 
+        soul.human-os.daily-protocols.sabar, 
+        soul.human-os.daily-protocols.tazkiyah, 
+        soul.human-os.daily-protocols.jihad-nafs
+    ]
+    body {
+    }
+}

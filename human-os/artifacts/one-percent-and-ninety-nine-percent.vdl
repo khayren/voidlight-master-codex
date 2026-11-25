@@ -1,0 +1,12 @@
+package soul.human-os
+
+artifact one-percent-and-ninety-nine-percent {
+    title "The 1% vs 99%: Two Architectures"
+    includes [
+        soul.human-os.one-percent-and-ninety-nine-percent.one-percent, 
+        soul.human-os.one-percent-and-ninety-nine-percent.ninety-nine-percent, 
+        soul.human-os.one-percent-and-ninety-nine-percent.ulil-albab
+    ]
+    body {
+    }
+}

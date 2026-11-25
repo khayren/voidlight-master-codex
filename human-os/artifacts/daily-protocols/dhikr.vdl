@@ -1,0 +1,10 @@
+package soul.human-os.daily-protocols
+
+artifact dhikr {
+    title "Dhikr - Frequency Lock"
+    body {
+        Continuous broadcast of divine frequency to the qalb. 
+        Not a ritual. Not a chore. It is **mini-batch training** for the soul.
+        Each tasbīḥ, each istighfār, each āyah is one training step that updates the weights.
+    }
+}

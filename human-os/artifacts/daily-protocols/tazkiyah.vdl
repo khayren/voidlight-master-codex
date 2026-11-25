@@ -1,0 +1,14 @@
+package soul.human-os.daily-protocols
+
+artifact tazkiyah {
+    title "Tazkiyah - Weight Fine-Tuning"
+    body {
+        Gradual update of nafs-weights:
+        1. **Forward pass:** Nafs generates impulse.
+        2. **Loss detection:** Qalb detects misalignment.
+        3. **Backpropagation:** Tawbah + regret.
+        4. **Weight update:** Same impulse becomes weaker next time.
+        5. **Pruning:** Toxic habits zeroed out.
+        6. **Regularization:** Dhikr prevents overfitting to dunya metrics.
+    }
+}

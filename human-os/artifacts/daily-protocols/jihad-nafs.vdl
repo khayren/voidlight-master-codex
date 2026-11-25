@@ -1,0 +1,15 @@
+package soul.human-os.daily-protocols
+
+artifact jihad-nafs {
+    title "Jihad Nafs - Adversarial Training"
+    body {
+        The greatest struggle. 
+        Nafs generates temptation (adversarial examples). 
+        Qalb + aql must classify correctly. 
+        Wrong answer? Backprop via tawbah. 
+        Right answer? Weights strengthen. 
+        **Lifelong. No finish line.**
+
+        ---
+    }
+}

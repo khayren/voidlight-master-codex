@@ -1,0 +1,20 @@
+package soul.human-os.kernel
+
+artifact nafs {
+    title "Nafs — The Base Model"
+    body {
+        The **`nafs`** is your raw generative capacity — desire, impulse, instinct. Hardware-level. Cannot be uninstalled. Only tuned.
+
+        | State | Behavior |
+        |-------|----------|
+        | **Ammārah** | Commands to evil. Demands instant gratification. The default. |
+        | **Lawwāmah** | Self-reproaching. Aware of corruption. Repents. Improves. |
+        | **Mutma'innah** | At peace. Generates no noise. Fully aligned. Rare. |
+
+        > **Tazkiyah** is not an OS upgrade. 
+        It is **weight fine-tuning**.
+        A gradual adjustment of the nafs through continuous training (dhikr, sabar, trials, tawbah) until toxic weights are pruned and aligned patterns dominate.
+
+        ---
+    }
+}

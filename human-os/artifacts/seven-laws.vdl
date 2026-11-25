@@ -1,0 +1,19 @@
+package soul.human-os
+
+artifact seven-laws {
+    title "The Seven Laws of the OS"
+    includes [
+        soul.human-os.seven-laws.autonomy, 
+        soul.human-os.seven-laws.interdependence, 
+        soul.human-os.seven-laws.meaning-before-scale, 
+        soul.human-os.seven-laws.structure-and-compassion, 
+        soul.human-os.seven-laws.discipline-before-intelligence, 
+        soul.human-os.seven-laws.creator-embedded, 
+        soul.human-os.seven-laws.endurance
+    ]
+    body {
+        These are not suggestions. 
+        They are structural constraints. 
+        Break them, and the system degrades.
+    }
+}

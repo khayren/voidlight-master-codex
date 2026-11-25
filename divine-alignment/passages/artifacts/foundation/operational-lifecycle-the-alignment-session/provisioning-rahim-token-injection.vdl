@@ -1,0 +1,26 @@
+package soul.alignment.foundation.operational-lifecycle-the-alignment-session.provisioning-rahim-token-injection
+
+revelation revelation-inisialisasi-hardware-jasad-diikuti-dengan-injection {
+    body {
+        Inisialisasi hardware (jasad) diikuti dengan **injection Alignment Token (Ruh)**. Status berubah dari Offline → Active. Fitrah (default config untuk wujud mumkin baru, per 0.1–0.2) sudah terpasang — dan fitrah itu bukan config arbitrer: ruh yang di-inject adalah ruh yang sama yang pernah menjawab bala di Mitsaq Alast (0.8).
+    }
+}
+
+revelation revelation-qs-as-sajdah-32-9-kutipan-dari-ayat {
+    cites [soul.revelation.quran.32.9, soul.revelation.quran.32.7-9, soul.revelation.quran.17.85]
+    body {
+        QS. As-Sajdah [32]:9 — (kutipan dari ayat yang lebih panjang)
+        > *"...thumma sawwāhu wa nafakha fīhi mir rūḥihī"*
+        > *(...Kemudian Dia menyempurnakannya dan meniupkan roh (ciptaan)-Nya ke dalam (tubuh)nya...).*
+        >
+        > [Catatan audit 2026-11-15: terjemahan kutipan sebelumnya "menyempurnakan dan membaguskannya... sebagian dari ruh-Nya" bukan verbatim Kemenag resource 33 — hasil dalil-fetch.py (auditor batch 4, AYAT_TERVERIFIKASI HIGH; teks lengkap di module dalil/quran/32/9.vdl) memakai "Kemudian Dia menyempurnakannya dan meniupkan roh (ciptaan)-Nya ke dalam (tubuh)nya"; kutipan diganti. Redaksi "sebagian dari ruh-Nya" pada uraian Ibnu Katsir di bawah adalah penulisan ulang makna "min rūḥihī" edisi terjemahan lain — konteks antropomorfisme tetap jujur karena Ibnu Katsir sendiri menafikannya.]
+        >
+        > **Tafsir Ibnu Katsir:** Ayat lengkap QS. As-Sajdah [32]:7-9 menjelaskan proses penciptaan manusia bertahap: *(Allah-lah) yang menjadikan segala sesuatu yang Dia ciptakan sebaik-baiknya dan Yang memulai penciptaan manusia dari tanah, kemudian Dia menjadikan keturunannya dari saripati air yang hina (mani), kemudian Dia menyempurnakannya dan meniupkan ke dalam (tubuh)nya sebagian dari ruh-Nya.* Ibnu Katsir menjelaskan bahwa setelah bentuk fisik sempurna, Allah "nafakha fīhi min rūḥihī" — meniupkan ke dalam tubuh manusia sebagian dari ruh-Nya. Ibnu Katsir menegaskan bahwa "min rūḥihī" (sebagian dari ruh-Nya) bukan berarti ruh adalah bagian dari zat Allah — ini adalah keyakinan yang batil. Maknanya adalah ruh yang diciptakan oleh Allah, yang status dan keagungannya istimewa karena hubungannya dengan Allah. Ruh adalah makhluk yang diciptakan Allah, sama seperti jasad, tapi berbeda sifatnya — jasad dari tanah, ruh dari perintah Allah (Amr, QS. Al-Isra [17]:85). Peniupan ruh inilah yang membedakan manusia dari makhluk lain: manusia memiliki kapasitas untuk berakal, beriman, memahami, dan memilih.
+    }
+}
+
+analogy analogy-provisioning-hardware-assembly-os-installation {
+    body {
+        Provisioning = hardware assembly + OS installation dengan *default config yang mengarah ke Source*. Fitrah adalah pre-installed alignment driver. Tapi Nafs (legacy firmware) juga ikut terpasang — dan bisa mengoverride fitrah kalau tidak di-maintain.
+    }
+}

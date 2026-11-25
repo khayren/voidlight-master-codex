@@ -1,0 +1,35 @@
+package soul.revelation.quran.10
+
+revelation 91 {
+    source "Al-Qur’an"
+    surah "Yunus"
+    locator "10:91"
+    title "QS. Yunus [10]:91"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ"
+    transliteration "Āl-āna wa qad 'aṣaita qablu wa kunta minal-mufsidīn."
+    translation "Mengapa baru sekarang (kamu beriman), padahal sesungguhnya engkau telah durhaka sejak dahulu, dan engkau termasuk orang yang berbuat kerusakan."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Fir'aun ditegur karena baru mengakui penghambaan kepada Allah ketika kematian telah datang kepadanya. Sebelumnya ia telah mendurhakai Allah dan termasuk pelaku kerusakan yang menghalangi jalan-Nya. Tobat pada saat sekarat serta menyaksikan kematian dan azab tidak bermanfaat baginya.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pembahasan terlambatnya pengakuan Fir'aun saat menyaksikan kematian (bersama 10:90); "final state committed" dan pemetaan fase qalb/nafs adalah analogi atau sintesis framework, bukan ketetapan ayat.]
+    }
+}
+
+audit_note sanad-91-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 10:91 + tafsirs/16/by_ayah/10:91). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Tafsir mendukung konteks
+        pengakuan Fir'aun ketika kematian dan azab telah disaksikan, bukan
+        rincian metrik qalb/nafs atau klaim CORE QUOTES ontologis di dist.
+        Teks 10:90 tidak diambil di batch ini; atribusi Ibnu Katsir belum
+        diverifikasi.
+    }
+}

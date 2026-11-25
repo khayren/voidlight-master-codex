@@ -1,0 +1,16 @@
+package soul.axiom-zero
+
+artifact ringkasan-cara-membaca-part-i-ix-melalui-axiom-ini {
+    title "Ringkasan: Cara Membaca Part I-IX Melalui Axiom Ini"
+    passages [
+        soul.axiom-zero.ringkasan-cara-membaca-part-i-ix-melalui-axiom-ini.synthesis-setiap-klaim-eksistensial-tentang-node-manusia,
+        prose {
+            Framework ini adalah upaya menjelaskan hakikat Wahdatul Wujud — dalam pembacaan wujud wajib vs wujud mumkin, bukan dalam pembacaan identitas substansi — dengan bahasa yang lebih presisi. Boundary di axiom ini bukan pagar yang membatasi kedalaman ontologis. Boundary ini *adalah* kedalaman ontologis itu sendiri: semakin jelas garis antara Wajib dan Mumkin, semakin dalam pemahaman tentang hakikat keduanya.
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.9
+    }
+}

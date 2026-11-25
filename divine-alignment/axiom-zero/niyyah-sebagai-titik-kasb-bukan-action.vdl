@@ -1,0 +1,30 @@
+package soul.axiom-zero
+
+artifact niyyah-sebagai-titik-kasb-bukan-action {
+    title "Niyyah Sebagai Titik Kasb — Bukan Action"
+    cites [soul.revelation.quran.18.39, soul.revelation.hadith.bukhari.4205]
+    passages [
+        soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action.revelation-hadits-riwayat-bukhari-1-dan-muslim-1907,
+        soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action.revelation-qs-al-kahfi-18-39,
+        soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action.synthesis-kasb-tidak-tersebar-di-seluruh-proses-eksekusi,
+        prose {
+            | Layer | Apa yang terjadi | Daya siapa | Locus hisab? |
+            |---|---|---|---|
+            | **Niyyah (Ruh)** | Arah dipilih — condong ke baik atau buruk | Manusia (iradah juz'iyyah — kehendak parsial yang genuinely miliknya) | **Ya — di sinilah hisab jatuh** |
+            | **Action (Jasad, via Qalb → Aql → Nafs)** | Eksekusi fisik dari arah yang sudah dipilih | Allah (khalq al-af'al — daya cipta penuh, la quwwata illa billah) | Tidak — action hanya manifestasi dari niyyah yang sudah dihisab lebih dulu |
+
+            Manusia tidak memiliki tenaga untuk mewujudkan action apa pun — berjalan, melihat, mengucap, bertindak, semuanya la quwwata illa billah, murni daya pinjaman lewat Amr (0.3), direfresh tiap tick (0.2). Tapi manusia genuinely memiliki satu hal yang tidak dipinjam: arah kemana niyyah itu condong. Itu satu-satunya titik di seluruh sistem tempat pure agency berlaku — bukan karena manusia punya daya cipta di situ, tapi karena di situlah Allah menaruh taklif secara sengaja, terlepas dari fakta bahwa eksekusinya sendiri tetap bukan daya manusia.
+
+            Ini yang menyelesaikan ketegangan Jabariyyah vs Qadariyyah dari 0.6 secara clean. Manusia bukan puppet — ada genuine locus of agency di niyyah. Manusia juga bukan independent creator — action tetap 100% la quwwata illa billah. Hisab jatuh tepat di titik yang genuinely milik manusia, bukan di titik yang hanya dipinjam.
+
+            [Catatan audit 2026-11-15: tabel locus hisab dan rumusan "hisab hanya pada niat" adalah konstruksi dokumen (sintesis framework) — dibaca dari hadits niyyah Bukhari 1/Muslim 1907 bersama QS. Al-Kahfi [18]:39 — bukan pernyataan eksplisit ayat atau tafsir; klaim pembatasan hisab hanya pada niat tidak ditemukan dalam teks Muyassar untuk 18:39 (auditor batch 3) dan perlu dalil tersendiri bila dipertahankan untuk publikasi.]
+
+            **Implikasi struktural:** posisi Niyyah tepat setelah Ruh dalam diagram Ruh → Niyyah → Qalb → Aql ↔ Nafs → Qada → Qadar → Jasad bukan sekadar urutan pipeline yang enak dibaca. Itu representasi struktur hisab yang sesungguhnya — input (Ruh), titik keputusan yang dihisab (Niyyah), eksekusi yang bukan daya sendiri (semua layer setelahnya).
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.7
+    }
+}

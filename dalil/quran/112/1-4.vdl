@@ -1,0 +1,34 @@
+package soul.revelation.quran.112
+
+revelation 1-4 {
+    source "Al-Qur’an"
+    surah "Al-Ikhlas"
+    locator "112:1-4"
+    title "QS. Al-Ikhlas [112]:1-4"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text " قُلْ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ"
+    transliteration "Qul huwallāhu aḥad. Allāhuṣ-ṣamad. Lam yalid wa lam yūlad. Wa lam yakul lahū kufuwan aḥad."
+    translation "Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa. Allah tempat meminta segala sesuatu. (Allah) tidak beranak dan tidak pula diperanakkan. Dan tidak ada sesuatu yang setara dengan Dia.\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah satu-satunya yang memiliki uluhiyah, rububiyah, serta nama dan sifat-Nya tanpa sekutu. Allah sempurna dalam kemuliaan dan keagungan, dan seluruh makhluk menuju kepada-Nya untuk memenuhi kebutuhan serta keinginan mereka. Dia tidak mempunyai anak, orang tua, ataupun pasangan. Tidak ada makhluk yang menyerupai atau menyamai-Nya dalam nama, sifat, maupun perbuatan.
+
+        [Konteks pemakaian di dokumen: dirujuk pada keesaan Allah dan penolakan kesetaraan makhluk; istilah Source/node/Wujud Wajib-Wujud Mumkin adalah analogi atau perangkat konseptual framework.]
+    }
+}
+
+audit_note sanad-1-4-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks empat ayat diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 112:1-112:4, Al-Tafsir al-Muyassar (resource 16) dari
+        tafsirs/16/by_ayah masing-masing (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Spasi awal Arab ayat pertama
+        dan petik internal terjemahan dipertahankan verbatim. Hadis
+        keutamaan surah dan uraian ke Ibnu Katsir di dist tidak termasuk
+        verifikasi batch ini.
+    }
+}

@@ -1,0 +1,36 @@
+package soul.revelation.quran.50
+
+revelation 15 {
+    source "Al-Qur’an"
+    surah "Qaf"
+    locator "50:15"
+    title "QS. Qaf [50]:15"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ"
+    transliteration "A fa'ayīnā bil-khalqil-awwal, bal hum fī labsim min khalqin jadīd."
+    translation "Maka apakah Kami letih dengan penciptaan yang pertama? (Sama sekali tidak), bahkan mereka dalam keadaan ragu-ragu tentang penciptaan yang baru."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah mempertanyakan anggapan bahwa Dia tidak mampu mengadakan penciptaan pertama dari ketiadaan. Penciptaan kembali setelah kebinasaan makhluk juga tidak membuat-Nya tidak mampu; Dia berkuasa melakukannya. Orang-orang yang mengingkari justru berada dalam kebingungan dan keraguan tentang kebangkitan.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pembahasan pasca-fana dan kekuasaan penciptaan ulang; metafora "sustain/refresh" dan konstruksi pasca-fana adalah analogi framework, bukan isi ayat atau tafsir.]
+    }
+}
+
+audit_note sanad-15-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 50:15 + tafsirs/16/by_ayah/50:15). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Anomali: terjemahan lama di dist
+        "Apakah mereka telah berputus asa dari (memikirkan) penciptaan yang
+        pertama?" mengalami TERJEMAHAN_DRIFT, subjek pertanyaan ayat adalah
+        Kami dan menyangkut letih/ketidakmampuan, bukan keputusasaan mereka;
+        tafsir membahas kebangkitan, bukan pembaruan eksistensi terus-menerus.
+        Atribusi Ibnu Katsir di dist belum diverifikasi di batch ini.
+    }
+}

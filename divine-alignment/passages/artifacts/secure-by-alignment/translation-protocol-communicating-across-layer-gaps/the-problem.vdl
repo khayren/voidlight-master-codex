@@ -1,0 +1,7 @@
+package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-problem
+
+synthesis synthesis-framework-wujud-mumkin-per-0-1-nggak-bisa {
+    body {
+        Framework wujud mumkin (per 0.1) nggak bisa di-translate ke bahasa transaksional ("amal supaya dapat pahala") tanpa **alignment truncation**. Tapi node dengan layer rendah nggak bisa process bahasa alignment langsung — bakal kernel panic.
+    }
+}

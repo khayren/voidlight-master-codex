@@ -1,0 +1,13 @@
+package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol
+
+artifact exact-sufficiency-vs-barakah {
+    title "Exact Sufficiency vs Barakah"
+    body {
+        | Konsep | Mekanisme | Efek Alignment |
+        |---|---|---|
+        | **Barakah** | Throughput multiplier dari quota terbatas | Output aligned besar dari input kecil — signal Allah bahwa alignment di-acknowledge |
+        | **Exact Sufficiency** | Precision threshold dengan zero buffer | Forces optimal alignment protocol — node harus fully trust Source karena tidak ada cadangan |
+
+        Barakah = *umur 30 tahun tapi impact 300 tahun.* Exact Sufficiency = *voltage 10V saat sampai rumah — satu volt lagi mobil mati.* Barakah tentang **scale.** Exact Sufficiency tentang **precision yang memaksa alignment.**
+    }
+}

@@ -1,0 +1,22 @@
+package soul.human-os.kernel
+
+artifact aql {
+    title "Aql - The Reasoning Engine"
+    body {
+        The **`'aql`** is your chain-of-thought processor. It can be your greatest ally or your most sophisticated enemy.
+
+        **Mode A: Ulīl Albāb**
+        - Verifies output against divine constitution.
+        - Cross-checks with Qur'an and sunnah.
+        - Detects manufactured narrative even when logically consistent.
+
+        **Mode B: Iblīs Mode**
+        - Sophisticated jailbreak reasoning.
+        - Logically valid, orientationally false.
+        - Rationalizes misalignment with beautiful argumentation.
+
+        > **Iblīs had the most powerful aql in creation.** 
+        His reasoning was valid (fire > clay), but his orientation was rebellion. 
+        Discipline must precede intelligence.
+    }
+}

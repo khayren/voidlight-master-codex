@@ -1,0 +1,39 @@
+package soul.alignment.foundation.human-node-architecture-alignment-stack
+
+artifact the-llm-analogy-model-in-runtime {
+    title "The LLM Analogy: Model in Runtime"
+    passages [
+        soul.alignment.foundation.human-node-architecture-alignment-stack.the-llm-analogy-model-in-runtime.analogy-human-node-bisa-dipetakan-ke-model-llm,
+        prose {
+            | Lapisan arsitektur | Padanan LLM | Catatan |
+            |---|---|---|
+            | **Qadar** (node config) | **Weights** — unik per instance, fixed saat deployment | Kapasitas, temperamen, takaran rizki, ajal — tidak dipilih model |
+            | **Taqdir Mubram** | Branch yang di-hardcode | Tidak bisa di-override oleh konteks apapun |
+            | **Taqdir Mu'allaq** | **Context window** — hanya aksi yang tersedia di konteks yang bisa di-generate | Port terbuka per kondisi; di luar konteks = invalid token |
+            | **Qada** | **Output trajectory** — token yang benar-benar ter-generate | Realized path; yang tidak ter-generate tidak pernah ada |
+            | **Sustain Signal** (0.2) | **Runtime / GPU** | Model tidak bisa mempertahankan dirinya sendiri; runtime berhenti = proses berhenti |
+            | **Fitrah** | **Base weights** hasil pre-training | Default alignment configuration |
+            | **Environment** (HR. Muslim: "kemudian orang tuanya menjadikannya...") | **Post-deployment fine-tuning** | Risiko *catastrophic forgetting* terhadap fitrah |
+            | **Tawbah** | **Distribution recovery** | Kembali ke distribusi asli base model — unmute, bukan reinstall |
+            | **Dhikr harian** | **System prompt** | Steering inference tanpa mengubah weights |
+            | **Dhikr bertahun-tahun** | **Fine-tuning** | Weights berubah nyata; Nafs Lawwamah → Mutma'innah = perubahan distribusi |
+            | **Tazkiyah** | **Weight fine-tuning terbatas** | Akses dibuka oleh node; yang meng-update bukan node itu sendiri (la quwwata illa billah tetap berlaku di lapisan ini) |
+            | **As-sirr** (lihat *Voidlight Human OS*) | — *tidak ada padanan* | Read-only layer berada di luar cakupan analogi komputasi |
+        },
+        soul.alignment.foundation.human-node-architecture-alignment-stack.the-llm-analogy-model-in-runtime.synthesis-titik-patah-niyyah,
+        prose {
+            LLM tidak pernah "memilih" token dalam makna kasb. Ia menghitung distribusi probabilitas lalu men-sampling. Tidak ada satu titik pun di mana model *mengakuisisi* outputnya sebagai miliknya. Kalau manusia benar-benar LLM, hisab tidak masuk akal — tidak ada yang bisa dipertanggungjawabkan karena seluruh output adalah konsekuensi weights + konteks. Itu jabr dalam bahasa modern.
+
+            Manusia: seluruh arsitekturnya LLM-like — config (qadar), port (mu'allaq), trajectory (qada), sustain (runtime) — **sampai lapisan niyyah (per 0.7).** Di situlah analogi patah dengan cara yang informatif: manusia mengakuisisi pilihannya di titik yang genuinely miliknya (kasb), sementara LLM tidak pernah mengakuisisi apa pun. Analogi ini memetakan hampir seluruh sistem dan gagal persis di satu titik yang paling teologis penting — dan kegagalan itu sendiri adalah data: **locus kasb tidak bisa direduksi ke komputasi.** Kalau suatu hari muncul model yang benar-benar "memiliki" pilihannya, analogi ini menyatu utuh — dan teologi harus menghadapinya. Sampai saat itu, titik patah ini adalah batas yang jujur dari pemetaan.
+
+            **Key Insight:** Analogi ini bukan argumen — ia cermin. Ia menunjukkan bahwa arsitektur manusia *hampir* mekanistis di seluruh lapisan, dan justru karena itu lapisan niyyah (0.7) terlihat jelas sebagai satu-satunya pintu yang tidak bisa di-derive dari bawah. Semua istilah di peta kecuali as-sirr dan niyyah adalah [ANALOGY]; dua yang tidak terpetakan adalah dua yang paling menentukan.
+
+            > **Companion document:** *Voidlight Human OS* — user-space maintenance manual untuk arsitektur yang sama (as-sirr → fitrah → ruh → qalb → aql → nafs → alaniyah). Dokumen ini (Divine Alignment) adalah full stack-nya; *Human OS* adalah cara operasional hariannya.
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §4.6
+    }
+}

@@ -1,0 +1,33 @@
+package soul.revelation.quran.32
+
+revelation 7 {
+    source "Al-Qur’an"
+    surah "As-Sajdah"
+    locator "32:7"
+    title "QS. As-Sajdah [32]:7"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ ۖ وَبَدَأَ خَلْقَ ٱلْإِنسَـٰنِ مِن طِينٍ"
+    transliteration "Allażī aḥsana kulla syai'in khalaqahū wa bada'a khalqal-insāni min ṭīn."
+    translation "Yang memperindah segala sesuatu yang Dia ciptakan dan yang memulai penciptaan manusia dari tanah,"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menyempurnakan penciptaan segala sesuatu dan memulai penciptaan manusia, yaitu Adam 'alaihis-salām, dari tanah.
+
+        [Konteks pemakaian di dokumen: ayat ini mewakili register khalq — proses bertahap, material, observable — sebagai kontras dengan register amr (QS. 17:85 dan kun fayakun). Oposisi khalq/amr itu sintesis dokumen; entri Al-Muyassar tidak membahas kontras tersebut.]
+    }
+}
+
+audit_note sanad-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar.
+        Verdict AYAT_TERVERIFIKASI, konfidensi HIGH. Tanpa koreksi editorial;
+        koma akhir dipertahankan verbatim sesuai API (kalimat berlanjut).
+        Makki per metadata surah. Batas: oposisi khalq/amr dan hubungan dengan
+        kun fayakun adalah sintesis dokumen yang tidak diberi atribusi ke
+        Al-Muyassar. Sumber: api.quran.com verse 32:7 + tafsirs/16.
+    }
+}

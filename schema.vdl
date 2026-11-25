@@ -1,0 +1,64 @@
+schema "voidlight-soul" {
+    type "framework" {
+        field "title" text heading
+        field "version" text
+        field "based_on" ref "axiom" optional
+        field "grounded_in" ref "revelation" optional
+        field "body" body compose ["artifact"] optional
+        field "opening_axioms" ref "axiom" compose optional
+        field "includes" ref "artifact" compose optional
+    }
+
+    type "axiom" {
+        field "title" text heading
+        field "cites" ref "revelation" cite optional
+        field "passages" ref ["revelation", "synthesis", "analogy", "audit_note"] inline optional
+        field "includes" ref "artifact" compose optional
+        field "body" body
+    }
+
+    type "artifact" {
+        field "title" text heading
+        field "cites" ref "revelation" cite optional
+        field "passages" ref ["revelation", "synthesis", "analogy", "audit_note"] inline optional
+        field "includes" ref "artifact" compose optional
+        field "body" body
+    }
+
+    type "revelation" label "#### REVELATION" {
+        field "title" text heading optional
+        field "source" text optional
+        field "surah" text optional
+        field "locator" text optional
+        field "cites" ref "revelation" cite optional
+        field "notes" ref "audit_note" optional
+
+        field "original_text" text optional
+        field "transliteration" text optional
+        field "translation" text optional
+        field "narrator" text optional
+        field "book_section" text optional
+        field "numbering" text optional
+        field "grade_status" text optional
+        field "grade_by" text optional
+        field "sanad_status" text optional
+
+        field "body" body optional
+    }
+
+    type "synthesis" label "#### SYNTHESIS" {
+        field "cites" ref "revelation" cite optional
+        field "body" body
+    }
+
+    type "analogy" label "#### ANALOGY" {
+        field "cites" ref "revelation" cite optional
+        field "body" body
+    }
+
+    type "audit_note" label "#### AUDIT NOTE" {
+        field "auditor" text optional
+        field "date" text
+        field "body" body
+    }
+}

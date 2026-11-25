@@ -1,0 +1,33 @@
+package soul.revelation.quran.55
+
+revelation 26 {
+    source "Al-Qur’an"
+    surah "Ar-Rahman"
+    locator "55:26"
+    title "QS. Ar-Rahman [55]:26"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "كُلُّ مَنْ عَلَيْهَا فَانٍ"
+    transliteration "Kullu man 'alaihā fān."
+    translation "Semua yang ada di bumi itu akan binasa,"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Seluruh makhluk di muka bumi akan binasa. Dalam penjelasan gabungan ayat 26-27, wajah Tuhan yang memiliki keagungan, kebesaran, karunia, dan kemurahan tetap kekal; Al-Muyassar menetapkan sifat wajah bagi Allah sesuai keagungan-Nya, tanpa penyerupaan dan tanpa menentukan bagaimana sifat tersebut.
+
+        [Konteks pemakaian di dokumen: dirujuk pada kata faan dan kefanaan makhluk; "wujud mumkin" dan "sustain signal" adalah analogi atau sintesis framework.]
+    }
+}
+
+audit_note sanad-26-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 55:26 + tafsirs/16/by_ayah/55:26). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Koma akhir terjemahan
+        dipertahankan verbatim. Tafsir API mencakup ayat 26-27 sekaligus;
+        mekanisme refresh eksistensi tidak dinyatakan sumber.
+    }
+}

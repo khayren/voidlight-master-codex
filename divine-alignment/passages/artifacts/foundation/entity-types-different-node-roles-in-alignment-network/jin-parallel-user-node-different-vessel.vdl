@@ -1,0 +1,36 @@
+package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.jin-parallel-user-node-different-vessel
+
+revelation revelation-karakteristik-teologis-punya-free-will-diuji {
+    body {
+        — Karakteristik teologis: punya free will, diuji, punya nafs, bisa taat atau rebel.
+    }
+}
+
+analogy analogy-jin-node-ruh-niyyah-qalb {
+    body {
+        ```
+        Jin Node:   Ruh → Niyyah → Qalb → Aql ↔ Nafs → Qada → Qadar → Jasad (Smoke/Fire-Vessel)
+        Human Node: Ruh → Niyyah → Qalb → Aql ↔ Nafs → Qada → Qadar → Jasad (Bio-Vessel)
+        ```
+    }
+}
+
+synthesis synthesis-jin-punya-read-access-ke-malakut {
+    cites [soul.revelation.quran.2.102, soul.revelation.quran.72.1]
+    body {
+        — Jin punya Read Access ke Malakut dan tidak bisa write Dunya langsung (turunan dari QS. Al-Baqarah [2]:102 dan QS. Al-Jinn [72]:1). Tidak ada dalil tunggal yang eksplisit; konsep ini disintesis dari keterbatasan Jin berinteraksi dengan Dunya. Lihat Section 8.3.
+    }
+}
+
+revelation revelation-qs-al-jinn-72-1 {
+    cites [soul.revelation.quran.72.1, soul.revelation.hadith.bukhari.773]
+    body {
+        QS. Al-Jinn [72]:1 —
+        > *"Qul ūḥiya ilayya annahu istama'a nafarun minal-jinni fa-qālū innā sami'nā Qur'ānan 'ajabā"*
+        > *(Katakanlah (hai Muhammad): 'Telah diwahyukan kepadaku bahwa sesungguhnya satu rombongan jin telah mendengar (Al-Qur'an), lalu mereka berkata: Sesungguhnya kami telah mendengar Al-Qur'an yang menakjubkan.')*
+        >
+        > **Tafsir Ibnu Katsir:** Surat Al-Jinn dinamai demikian karena berkisah tentang peristiwa istimak (mendengarkan) sekelompok jin terhadap bacaan Al-Qur'an yang dibacakan oleh Nabi Muhammad shallallahu 'alaihi wa sallam. Ibnu Katsir menjelaskan bahwa peristiwa ini terjadi ketika Nabi Muhammad sedang membaca Al-Qur'an dalam shalatnya, dan sekelompok jin yang sedang lewat mendengarkannya. Jin-jin tersebut terkejut dan takjub dengan keagungan Al-Qur'an, lalu mereka beriman dan kembali kepada kaumnya sebagai pemberi peringatan (nadzir).
+        >
+        > **Asbabun Nuzul:** Menurut riwayat yang shahih (HR. Bukhari no. 773, at-Tirmidzi no. 3323, dari Ibnu Abbas), sekelompok jin mendengar Nabi Muhammad shallallahu 'alaihi wa sallam membaca Al-Qur'an ketika beliau sedang shalat Subuh bersama para sahabat. [Catatan audit 2026-10-26: detail "dari Nashibin" tidak ada pada teks kedua riwayat — dihapus; riwayat tafsir menyebut dua jin bernama "Nasibain" (nama orang, bukan kota), kemungkinan sumber kontaminasi (audit ronde 3).] [Catatan audit v5.0.5: versi sebelumnya menyebut shalat Tahajud di waktu malam — riwayat shahih menyebut shalat Subuh.] Mereka berhenti dan mendengarkan bacaan tersebut, lalu beriman dan kembali kepada kaumnya untuk menyampaikan ajaran Islam.
+    }
+}

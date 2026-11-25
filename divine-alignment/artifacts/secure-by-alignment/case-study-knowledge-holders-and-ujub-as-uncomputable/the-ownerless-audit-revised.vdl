@@ -1,0 +1,17 @@
+package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable
+
+artifact the-ownerless-audit-revised {
+    title "The Ownerless Audit (Revised)"
+    passages [
+        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-ownerless-audit-revised.synthesis-bukan-apakah-gue-rendah-hati-layer-1,
+        prose {
+            - Kalau ada rasa kehilangan identitas → Kernel masih multi-target. Masih ada ego-concept yang di-attach ke derivative.
+            - Kalau nggak ada yang kehilangan → Kernel single-target. **Tiada yang tersisa karena tiada yang pernah ada selain alignment dengan Source.**
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §16.4.4
+    }
+}

@@ -1,0 +1,22 @@
+package soul
+import soul.human-os.*
+import soul.revelation.quran.55.33 as ar-rahman
+
+framework human-os {
+    title "Voidlight Human OS"
+    version "1.0.1"
+    grounded_in [ar-rahman]
+    body {
+        include preface
+        include overview
+        include immutable-core
+        include kernel
+        include user-space
+        include security-architecture
+        include seven-laws
+        include daily-protocols
+        include one-percent-and-ninety-nine-percent
+        include boot-sequence
+        include final-insight
+    }
+}

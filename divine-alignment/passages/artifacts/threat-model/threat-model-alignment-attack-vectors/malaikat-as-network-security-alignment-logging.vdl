@@ -1,0 +1,21 @@
+package soul.alignment.threat-model.threat-model-alignment-attack-vectors.malaikat-as-network-security-alignment-logging
+
+revelation revelation-monitor-dunya-untuk-setan-intrusion {
+    body {
+        - **Monitor** Dunya untuk setan intrusion — deteksi alignment attack
+        - **Log** seluruh aktivitas node (amal baik & buruk) — alignment state tracking
+        - **Block** unauthorized exploit attempts — prevent drift acceleration
+        - **Protect** Human nodes yang vulnerable — alignment protection untuk node dalam keadaan lemah
+    }
+}
+
+revelation revelation-qs-al-infitar-82-10-11 {
+    cites [soul.revelation.quran.82.10-11]
+    body {
+        QS. Al-Infitar [82]:10-11 —
+        > *"Wa inna 'alaikum lahafizhiin, kiraaman kaatibiin"*
+        > *(Dan sesungguhnya bagi kamu ada penjaga-penjaga yang mulia, yang mencatat (pekerjaanmu), (yaitu) malaikat-malaikat yang mulia).*
+        >
+        > **Tafsir Ibnu Katsir:** Dalam ayat-ayat ini, Allah memberi penegasan bahwa setiap manusia tidak pernah lepas dari pengawasan. Malaikat-malaikat yang dimaksud adalah Kiraman Katibin — yaitu malaikat Raqib dan malaikat 'Atid (menurut sebagian ulama, Raqib mencatat di bahu kanan dan 'Atid di bahu kiri; atribusi ini bukan redaksi eksplisit Ibnu Katsir). [Catatan audit 2026-10-26: atribusi penugasan kanan/kiri kepada Ibnu Katsir tidak terkonfirmasi pada teks tafsir beliau — atribusi dinetralkan (TIDAK_TERVERIFIKASI, audit ronde 3).] Malaikat di sebelah kanan mencatat amal kebaikan, sementara malaikat di sebelah kiri mencatat amal keburukan. Kata *"kiraaman"* (yang mulia) mengandung makna bahwa malaikat-malaikat ini memiliki kedudukan tinggi di sisi Allah, mereka tidak pernah durhaka terhadap perintah-Nya dan senantiasa menjalankan tugas dengan penuh ketelitian. Tidak ada satu pun ucapan dan perbuatan manusia yang luput dari catatan mereka.
+    }
+}

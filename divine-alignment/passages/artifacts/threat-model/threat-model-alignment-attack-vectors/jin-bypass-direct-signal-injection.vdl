@@ -1,0 +1,24 @@
+package soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-direct-signal-injection
+
+revelation revelation-jin-gak-bisa-coexist-di-dunya-beda {
+    body {
+        Jin gak bisa coexist di Dunya (beda renderer/vessel), tapi bisa **influence manusia directly tanpa lewat Qalb filter**.
+    }
+}
+
+revelation revelation-qs-an-nas-114-5 {
+    cites [soul.revelation.quran.114.5]
+    body {
+        QS. An-Nas [114]:5 —
+        > *"Alladzii yuwaswisu fi shuduurin-naas"*
+        > *((yaitu) setan yang membisikkan (kejahatan) ke dalam dada manusia).*
+        >
+        > **Tafsir Ibnu Katsir:** Allah menjelaskan bahwa setan iblis dan pengikut-pengikutnya adalah sumber was-was (bisikan) yang memasuki ke dalam dada-dada (qulub) manusia. Kalimat *"fi shuduurin-naas"* (ke dalam dada manusia) diunggulkan penggunaan kata "shuduur" (dada) karena dada adalah tempat yang paling terlindungi dalam tubuh manusia dan menjadi kediaman hati — yang merupakan pangkal pengambilan keputusan, keyakinan, dan keinginan. Was-was setan bukanlah bisikan yang terdengar oleh telinga secara lahiriah, melainkan sugesti yang ditanamkan langsung ke dalam hati dan pikiran manusia tanpa disadari sumbernya. Sebagaimana dalam hadits shahih: "Sesungguhnya setan itu mengalir dalam anak cucu Adam seperti mengalirnya darah" (HR. Muslim). Ini menegaskan bahwa pengaruh setan bukanlah penyerangan dari luar yang terlihat, namun penetrasi internal yang subtil dan berkelanjutan — membuat manusia sering mengira bisikan tersebut adalah pikirannya sendiri. [Catatan audit 2026-11-15: auditor batch 4 (AYAT_TERVERIFIKASI HIGH, teks lengkap di module dalil/quran/114/5-6.vdl) — QS. An-Nas [114]:5-6 mencakup pelaku bisikan dari jin DAN manusia ("minal-jinnati wan-nās"); pemakaian passage ini untuk analogi "direct signal injection" jangan dipersempit menjadi jin saja, dan diagnosis sumber emosi/gangguan individual tidak ditetapkan ayat.]
+    }
+}
+
+synthesis synthesis-jin-bypass-bukan-kejahatan-dalam-moralistic-sense {
+    body {
+        Jin bypass bukan "kejahatan" dalam moralistic sense — ini adalah **alignment attack vector**. Signal yang di-inject oleh Jin tidak *mendekatkan* ke Allah. Signal tersebut *menjauhkan* dari Allah. Dan karena bypass Qalb, node sering tidak sadar bahwa signal tersebut adalah external attack, bukan internal thought.
+    }
+}

@@ -1,0 +1,35 @@
+package soul.revelation.quran.9
+
+revelation 104 {
+    source "Al-Qur’an"
+    surah "At-Taubah"
+    locator "9:104"
+    title "QS. At-Taubah [9]:104"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَـٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ"
+    transliteration "Alam ya'lamū anna llāha huwa yaqbalut-taubata 'an 'ibādihī wa ya'khużuṣ-ṣadaqāti wa anna llāha huwat-tawwābur-raḥīm."
+    translation "Tidakkah mereka mengetahui, bahwa Allah menerima tobat hamba-hamba-Nya dan menerima zakat(nya), dan bahwa Allah Maha Penerima tobat, Maha Penyayang?"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Pertanyaan ayat diarahkan kepada orang-orang yang tertinggal dari jihad dan selain mereka. Allah semata yang menerima tobat para hamba serta menerima sedekah dan memberikan pahala atasnya. Allah menerima tobat ketika mereka kembali kepada ketaatan dan merahmati mereka ketika kembali mencari keridaan-Nya.
+
+        [Konteks pemakaian di dokumen: dirujuk pada penerimaan tobat dan kembali kepada ketaatan; "mekanisme pemulihan alignment" adalah analogi framework; rincian batas waktu penerimaan tobat tidak ada di ayat.]
+    }
+}
+
+audit_note sanad-104-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 9:104 + tafsirs/16/by_ayah/9:104). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Anomali: kutipan framework
+        "Wa Huwa yaqbaluṭ-taubata 'an 'ibādihī" bukan potongan lafaz persis
+        ayat — bagian terkait berbunyi "anna llāha huwa yaqbalu"; kutipan di
+        dist perlu dikoreksi. Klaim tentang ajal dan terbit matahari dari
+        barat tidak diverifikasi di batch ini.
+    }
+}

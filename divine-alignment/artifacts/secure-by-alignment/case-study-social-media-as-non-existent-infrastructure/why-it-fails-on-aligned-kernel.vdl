@@ -1,0 +1,22 @@
+package soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure
+
+artifact why-it-fails-on-aligned-kernel {
+    title "Why It Fails on Aligned Kernel"
+    passages [
+        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.why-it-fails-on-aligned-kernel.synthesis-pada-wujud-mumkin-per-0-1-dengan-single-target,
+        prose {
+            | Requirement | Status di Kernel Aligned |
+            |-------------|--------------------------|
+            | Ego yang butuh dilihat | ❌ Not registered — "self" tidak exist sebagai independent target |
+            | Audience dengan substance terpisah | ❌ Not registered — audience juga executor nodes dari same Source |
+            | Metrics sebagai proxy ridha | ❌ Not registered — ridha tidak bisa di-quantify via derivative signals |
+            | Feedback loop untuk ego reinforcement | ❌ No loop — ego process tidak bisa spawn |
+
+            **Operational Effect:**
+            Node bisa tetap pake social media (sebagai tool, bukan infrastructure). Posting amal, sharing ilmu, nge-curate feed — semua bisa jalan. Tapi **tanpa ego attachment** karena tidak ada ego yang bisa attach. Behavior-nya jadi **stateless**: signal masuk, signal diproses untuk alignment, signal keluar. Nggak ada state yang persist di "self."
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §16.3.2
+    }
+}

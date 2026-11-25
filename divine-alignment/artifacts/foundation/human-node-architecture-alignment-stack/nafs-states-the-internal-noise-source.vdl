@@ -1,0 +1,18 @@
+package soul.alignment.foundation.human-node-architecture-alignment-stack
+
+artifact nafs-states-the-internal-noise-source {
+    title "Nafs States: The Internal Noise Source"
+    passages [
+        soul.alignment.foundation.human-node-architecture-alignment-stack.nafs-states-the-internal-noise-source.synthesis-nafs-bukan-musuh-yang-harus-dihancurkan,
+        prose {
+            | State | Deskripsi Alignment | Status |
+            |---|---|---|
+            | **Nafs Ammarah** | Noise dominant — signal corrupted, drift active | 🔴 Critical Drift |
+            | **Nafs Lawwamah** | Self-correcting — noise detected, warning mode, partial alignment | 🟡 Alignment Drift Warning |
+            | **Nafs Mutma'innah** | Purified — signal clean, aligned with Source, energy redirected | 🟢 Optimal Alignment |
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §4.3
+    }
+}

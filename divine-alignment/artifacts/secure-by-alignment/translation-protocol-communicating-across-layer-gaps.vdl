@@ -1,0 +1,14 @@
+package soul.alignment.secure-by-alignment
+
+artifact translation-protocol-communicating-across-layer-gaps {
+    title "TRANSLATION PROTOCOL: COMMUNICATING ACROSS LAYER GAPS"
+    includes [
+        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-problem,
+        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-protocol-stack,
+        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-superiority-encoding-rule,
+        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.lossy-translation-warning
+    ]
+    body {
+        > Rujukan v5.0.7: §16.6
+    }
+}

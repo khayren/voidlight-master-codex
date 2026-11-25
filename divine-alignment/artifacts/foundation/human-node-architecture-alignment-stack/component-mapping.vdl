@@ -1,0 +1,24 @@
+package soul.alignment.foundation.human-node-architecture-alignment-stack
+
+artifact component-mapping {
+    title "Component Mapping"
+    passages [
+        soul.alignment.foundation.human-node-architecture-alignment-stack.component-mapping.synthesis-setiap-komponen-spiritual-dalam-human-node-adalah,
+        prose {
+            | Komponen Spiritual | Analogi Technical | Fungsi dalam Alignment Architecture |
+            |---|---|---|
+            | **Ruh** | Amr-class Input Token (per 0.3) | Kredensial unik dari Allah yang diterima oleh wujud mumkin (per 0.1) — input class, bukan substance transfer (per 0.3: firewall wujud tetap terjaga) yang ditiupkan saat provisioning (janin). Token ini scoped dengan permissions (sight, hearing, knowledge) dan menjadi *identifier* node dalam alignment network. |
+            | **Niyyah** | Intent Parameter / Input DTO | Alignment payload yang menentukan *arah* dari setiap amal. Niyyah yang aligned = parameter yang valid. Niyyah yang corrupt = parameter yang mendrift. |
+            | **Iradah** | Local Root / Sudo Access | Hak akses untuk mengubah konfigurasi alignment engine secara mandiri. Bisa pilih "align" atau "drift." Keberadaan Iradah adalah bukti bahwa Allah *menginginkan* voluntary alignment, bukan forced alignment. |
+            | **Qalb** | Adaptive Alignment Engine / Firewall / Policy Engine | **The core component.** Gatekeeper yang ALLOW Divine Signal, DROP ego & malware signals, MODIFY distored input. Qalb adalah *single most important determinant* dari alignment state. |
+            | **Aql** | Application Logic / Processing Unit | Reasoning, pattern recognition, decision engine. Menerjemahkan signal jadi keputusan logis. Bisa digunakan untuk *justify alignment* atau *rationalize drift*. |
+            | **Nafs** | Internal Noise Source / Legacy Firmware | Self-preservation drive, desire generator. Bisa jadi source of corruption (noise yang mengganggu alignment) atau purified (energy yang di-redirect ke ridha Allah). |
+            | **Qada** | Runtime Execution / Realized Path | Personal takdir berjalan — cabang yang terpilih dan terlaksana dari opsi mu'allaq. Setiap choice = selection of alignment branch. Execution yang aligned = amal saleh. Execution yang drift = amal yang corrupt. |
+            | **Qadar** | Immutable Domain Rules / Node Config | Fixed at compile-time. Cosmic law. Cannot be modified. Berisi dua status flag: mubram (fixed points) dan mu'allaq (opsi kondisional). Alignment tidak mengubah Qadar — alignment mengubah *how node navigates* Qadar. |
+            | **Jasad** | Mahall azh-Zhuhur (per 0.5) | Tempat wujud majazi (per 0.5) terjadi di Dunya — action manifest sebagai Af'al Allah, bukan Dzat Allah. 3D interface. Hardware terminal dengan limited bandwidth. Setiap action adalah *alignment signal* yang visible atau *drift signal* yang terdeteksi. |
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §4.1
+    }
+}

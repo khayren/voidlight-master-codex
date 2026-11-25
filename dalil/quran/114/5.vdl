@@ -1,0 +1,34 @@
+package soul.revelation.quran.114
+
+revelation 5 {
+    source "Al-Qur’an"
+    surah "An-Nas"
+    locator "114:5"
+    title "QS. An-Nas [114]:5"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ"
+    transliteration "Allażī yuwaswisu fī ṣudūrin-nās."
+    translation "yang membisikkan (kejahatan) ke dalam dada manusia,"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Pembisik itu menyebarkan keburukan dan keraguan, dan bisikan tersebut diarahkan ke dalam dada manusia.
+
+        [Konteks pemakaian di dokumen: dirujuk pada adanya waswas ke dalam dada manusia; "direct signal injection/bypass alignment engine" adalah analogi framework; ayat tidak menetapkan diagnosis sumber emosi mendadak tertentu.]
+    }
+}
+
+audit_note sanad-5-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 114:5 + tafsirs/16/by_ayah/114:5). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Koma akhir terjemahan
+        dipertahankan verbatim. Ayat tidak menyatakan mekanisme bypass qalb
+        atau perbedaan renderer/vessel; klaim di dist memerlukan sumber
+        tersendiri.
+    }
+}

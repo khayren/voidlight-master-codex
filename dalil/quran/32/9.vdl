@@ -1,0 +1,34 @@
+package soul.revelation.quran.32
+
+revelation 9 {
+    source "Al-Qur’an"
+    surah "As-Sajdah"
+    locator "32:9"
+    title "QS. As-Sajdah [32]:9"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ"
+    transliteration "Ṡumma sawwāhu wa nafakha fīhi mir rūḥihī wa ja'ala lakumus-sam'a wal-abṣāra wal-af'idah, qalīlam mā tasykurūn."
+    translation "Kemudian Dia menyempurnakannya dan meniupkan roh (ciptaan)-Nya ke dalam (tubuh)nya dan Dia menjadikan pendengaran, penglihatan dan hati bagimu, (tetapi) sedikit sekali dari kamu yang bersyukur."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menyempurnakan dan memperindah penciptaan manusia. Allah meniupkan roh kepadanya dengan mengutus malaikat untuk meniupkannya. Manusia diberi pendengaran dan penglihatan untuk membedakan berbagai suara serta objek, dan akal untuk membedakan kebaikan dari keburukan serta manfaat dari mudarat. Namun, manusia sedikit bersyukur kepada Allah atas nikmat tersebut.
+
+        [Konteks pemakaian di dokumen: dirujuk pada penyempurnaan manusia dan peniupan roh; "alignment token" dan transisi Offline→Active adalah analogi framework; ayat tidak menetapkan identitas roh dengan Mitsaq Alast.]
+    }
+}
+
+audit_note sanad-9-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 32:9 + tafsirs/16/by_ayah/32:9). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Catatan: kutipan dist "sebagian
+        dari ruh-Nya" drift dari Kemenag "roh (ciptaan)-Nya"; kutipan parsial
+        di dist tidak mencakup seluruh ayat. File module ayat tunggal memuat
+        teks lengkap. Atribusi Ibnu Katsir di dist belum diverifikasi.
+    }
+}

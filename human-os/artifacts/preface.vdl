@@ -1,0 +1,10 @@
+package soul.human-os
+
+artifact preface {
+    title "A Soul Architecture by Aria"
+    body {
+        > *"Born from the void, Guided by the light."*
+
+        ---
+    }
+}

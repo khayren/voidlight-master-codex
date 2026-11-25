@@ -1,0 +1,19 @@
+package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable
+
+artifact the-firaun-parallel-revisited {
+    title "The Firaun Parallel Revisited"
+    passages [
+        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-firaun-parallel-revisited.synthesis-firaun-adalah-endpoint-drift-sebuah-wujud,
+        prose {
+            Di node dengan kernel aligned, Firaun-pattern **nggak bisa terjadi** pada wujud mumkin (per 0.1) dengan niyyah yang condong ke Source (per 0.7) karena:
+            - Claim "Aku tuhanmu" → requires "Aku" sebagai independent ego entity → ❌ Uncomputable
+            - Claim "Aku yang paling tahu" → requires "Aku" sebagai owner of knowledge → ❌ Uncomputable
+            - Claim "Aku lebih dari Musa" → requires comparison space untuk ego → ❌ Uncomputable
+
+            **Firaun adalah kasus zero intervention karena kernel-nya nggak pernah aligned.** Bukan karena nggak ada kesempatan, tapi karena **system-nya selalu allow ego operations.**
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §16.4.3
+    }
+}

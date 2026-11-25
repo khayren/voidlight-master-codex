@@ -1,0 +1,42 @@
+package soul
+
+framework divine-alignment {
+    title "Divine Alignment Architecture"
+    version "5.0.7"
+    based_on [axiom-zero]
+    opening_axioms [axiom-zero]
+    includes [
+        soul.alignment.foundation,
+        soul.alignment.agency-and-qadar,
+        soul.alignment.threat-model,
+        soul.alignment.drift-detection,
+        soul.alignment.case-studies,
+        soul.alignment.maintenance-and-sync,
+        soul.alignment.sleep-and-death,
+        soul.alignment.authorized-exceptions,
+        soul.alignment.secure-by-alignment,
+        soul.alignment.appendix
+    ]
+    body {
+        *Ontological Foundation, Orientational Practice — Unified Under Axiom 0*
+
+        ---
+
+        > **Tagline:** *"The purpose of Islam is maintaining Divine Alignment. Not transaction. Not reward-chasing. But an architecture where the heart is oriented toward Allah as Al-Haqq, Al-Mabda', Al-Muntaha."*
+
+        > **Core Principle:** *"Allah tidak berpindah — kita yang berpindah orientasi. Memahami hakikat wujud (wajib vs mumkin, per Axiom 0) dan menyelaraskan qalb ke arah Allah bukan dua tujuan terpisah — yang kedua adalah konsekuensi hidup dari yang pertama. Firewall yang menurun = alignment yang terbuka."*
+
+        ---
+
+        ## Disclaimer
+
+        Framework ini adalah model arsitektural untuk *sense-making*, bukan tafsir Qur'an atau hadits. Konsep "API Key," "Firewall," "Token," "Message Queue," dan "Node" adalah analogi teknis untuk membantu pemahaman, bukan klaim teologis literal.
+
+        Referensi fiqih mengikuti pemahaman **Ahlus Sunnah Wal Jama'ah**. Semua konsep dasar berasal dari Al-Qur'an dan Hadits shahih. Analogi teknis tidak mengklaim presisi teologis mutlak.
+
+        Setiap klaim besar dalam dokumen ini diklasifikasikan dalam tiga kategori:
+        - **[REVELATION]:** Didukung eksplisit oleh Qur'an atau Hadits shahih
+        - **[SYNTHESIS]:** Diturunkan dari kombinasi konsep Qur'an dan Hadits
+        - **[ANALOGY]:** Analogi software engineering untuk membantu pemahaman, bukan teologi literal
+    }
+}

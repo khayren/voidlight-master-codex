@@ -1,0 +1,16 @@
+package soul.alignment.case-studies.case-studies-firaun-umar-and-istidraj-drift-realignment-and-degradation-patterns
+
+artifact profil-node {
+    title "Profil Node"
+    body {
+        > Rujukan v5.0.7: §10.1
+
+        | Atribut | Value |
+        |---------|-------|
+        | **Role** | Pharaoh of Egypt |
+        | **Nafs State** | Ammarah yang mutate jadi Self-Deification (Internal Noise Source maxed) |
+        | **Qalb State** | Aghlaf total — opaque, tidak bisa nerima alignment signal apapun |
+        | **Iradah** | Active, tapi digunakan untuk *menolak* alignment, bukan menerima |
+        | **Agency** | Full ownership — tapi own-nya arah destruction (ultimate drift) |
+    }
+}

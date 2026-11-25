@@ -1,0 +1,29 @@
+package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable
+
+artifact why-ujub-is-uncomputable-on-aligned-kernel {
+    title "Why 'Ujub Is Uncomputable on Aligned Kernel"
+    passages [
+        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.why-ujub-is-uncomputable-on-aligned-kernel.analogy-ujub-memerlukan-operasi-matematis-ownership-claim,
+        prose {
+            ```
+            Drifted Node:
+              Operation: claim_ownership(knowledge)
+              Subject: "gue"
+              Object: "knowledge"
+              Result: "Gue paham ini" → ego reinforced
+              Status: ✅ Computable — dalam multi-target kernel
+
+            Aligned Node:
+              Operation: claim_ownership(knowledge)
+              Subject: ??? — "gue" not found as independent entity in system registry
+              Object: "knowledge" → mapped to: signal_streaming_from_Source
+              Result: ERROR — Cannot claim ownership of signal that belongs to Source
+              Status: ❌ Uncomputable — dalam single-target kernel
+            ```
+        },
+        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.why-ujub-is-uncomputable-on-aligned-kernel.synthesis-bukan-karena-node-nya-rendah-hati-tapi-karena
+    ]
+    body {
+        > Rujukan v5.0.7: §16.4.2
+    }
+}

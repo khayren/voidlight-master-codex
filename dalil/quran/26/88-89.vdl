@@ -1,0 +1,33 @@
+package soul.revelation.quran.26
+
+revelation 88-89 {
+    source "Al-Qur’an"
+    surah "Asy-Syu'ara"
+    locator "26:88-89"
+    title "QS. Asy-Syu'ara [26]:88-89"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ، إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ"
+    transliteration "Yauma lā yanfa'u mālun wa lā banūna. Illā man atā Allāha biqalbin salīmin."
+    translation "(yaitu) pada hari (ketika) harta dan anak-anak tidak berguna, kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas, penjelasan gabungan 87-89):** Pada hari manusia keluar dari kubur untuk perhitungan dan pembalasan, harta dan anak-anak tidak memberikan manfaat kepada seseorang. Pengecualian disebut bagi orang yang menghadap Allah dengan hati yang selamat dari kekufuran, kemunafikan, dan keburukan akhlak.
+
+        [Konteks pemakaian di dokumen: qalb salim dibaca sebagai satu-satunya aset final state; itu metafora penulis, bukan kesimpulan yang dinyatakan Al-Muyassar.]
+    }
+}
+
+audit_note sanad-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar
+        (penjelasan gabungan 87-89, dipotong bagian 88-89). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Koreksi transliterasi: atā Allāha
+        (bukan "atallaaha"); salīmin saat wasal / salīm saat waqaf; "mālunw"
+        adalah penulisan bunyi sambungan, bukan transliterasi kata. Makki per
+        metadata surah. Sumber: api.quran.com verses 26:88/26:89 + tafsirs/16.
+    }
+}

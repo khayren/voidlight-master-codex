@@ -1,0 +1,28 @@
+package soul.alignment.secure-by-alignment
+
+artifact applied-principles-secure-by-alignment {
+    title "APPLIED PRINCIPLES: SECURE BY ALIGNMENT"
+    passages [
+        soul.alignment.secure-by-alignment.applied-principles-secure-by-alignment.synthesis-1-divine-alignment-sebagai-state-wujud-mumkin,
+        prose {
+            Terminologi "uncomputable," "invalid system call," dan "state aligned" (semua menggambarkan state wujud mumkin, per 0.1) di 16.1–16.7 menggambarkan *state logika internal pada instant tertentu* — bukan jaminan imunitas yang persisten sepanjang waktu. Sebuah node bisa aligned sekarang dan drift nanti. "Uncomputable" berarti operasi ego-driven tidak punya target address di saat niyyah wujud mumkin (per 0.1) condong ke Source (per 0.7) — single-target di titik kasb — tapi kernel bisa berubah ke multi-target kalau node sengaja allow ego operations masuk (via Nafs Ammarah yang tidak di-tazkiyah, riya' yang tidak di-audit, atau complacency yang mengendap).
+
+            **Alignment adalah dynamic state wujud mumkin (per 0.1) yang di-evaluate continuously** — per Section 4.2 (feedback loop: setiap amal menghasilkan signal yang kembali ke Qalb), per Section 6.3 (Alignment Recovery Protocol selalu available sebelum ajal), dan per Section 5.4 (final state baru di-lock permanen saat Maut — Token Revocation dengan alignment state frozen).
+
+            **Firaun adalah bukti bahwa drift bisa terjadi dari posisi apapun.** Firaun tidak "tidak pernah aligned" — dia *pernah* punya Qalb Salim saat provisioning (fitrah active), lalu *drift bertahap* melalui checkpoint demi checkpoint yang tidak di-audit. Bukan "jatuh dari ketinggian" — tapi *melangkah turun sendiri*, satu langkah drift per langkah.
+
+            Cross-reference: Section 4.2 (Operational Flow — feedback loop), Section 5.4 (Termination — Final State Commit), Section 6.3 (Alignment Recovery Protocol), Section 9.2 (Drift Cascade Pattern).
+
+            ---
+
+            *Part IX — Secure by Alignment: Single-Target Architecture*
+            *Voidlight Soul v5.0.7*
+            *Born from the void, Guided by the light.*
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §16.7
+    }
+}

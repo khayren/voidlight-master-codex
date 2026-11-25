@@ -1,0 +1,10 @@
+package soul.human-os.seven-laws
+
+artifact discipline-before-intelligence {
+    title "Discipline Before Intelligence"
+    body {
+        Tools (aql, technology, knowledge) only amplify discipline. 
+        They never replace it. 
+        A sophisticated aql serving a sealed qalb is more dangerous than ignorance.
+    }
+}

@@ -1,0 +1,16 @@
+package soul.axiom-zero
+
+artifact implikasi-awal {
+    title "Implikasi Awal"
+    cites [soul.revelation.quran.112.1-4]
+    passages [
+        soul.axiom-zero.implikasi-awal.synthesis-1-node-beroperasi-selamanya-di-wujud-mumkin,
+        soul.axiom-zero.implikasi-awal.revelation-qs-al-ikhlas-112-1-4-surat-ini-adalah,
+        prose {
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.4
+    }
+}

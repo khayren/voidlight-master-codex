@@ -1,0 +1,36 @@
+package soul.revelation.quran.36
+
+revelation 82 {
+    source "Al-Qur’an"
+    surah "Yasin"
+    locator "36:82"
+    title "QS. Yasin [36]:82"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ"
+    transliteration "Innamā amruhu iżā arāda syai'an an yaqūla lahu kun fa yakūn."
+    translation "Sesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, \"Jadilah!\" Maka jadilah sesuatu itu."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Urusan Allah Subhanahu wa Ta'ala, apabila Dia menghendaki sesuatu, hanyalah berfirman kepadanya: "Kun" (jadilah), maka terjadilah. Termasuk dalam urusan itu adalah mematikan, menghidupkan, membangkitkan, dan menghimpun.
+
+        [Konteks pemakaian di dokumen: dirujuk di passage "amr sebagai input class, bukan substance transfer" (Axiom Zero). Klaim "perintah tidak memerlukan pengulangan, cukup satu ucapan kun" di passage adalah atribusi ke tafsir Ibnu Katsir (tertelusur, commit 16feba7), bukan isi Al-Muyassar; metafora "input class" adalah analogi penulis.]
+    }
+}
+
+audit_note sanad-82-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar
+        (resource 16). Verdict AYAT_TERVERIFIKASI, konfidensi MEDIUM
+        (verifikasi dari material API yang dilampirkan, tanpa re-fetch).
+        Catatan auditor: Al-Muyassar mencakup kehendak Allah dan kun fayakun
+        termasuk imata/ihya/ba'ts/nusyur; klaim "tanpa pengulangan" TIDAK
+        ada dalam kutipan Al-Muyassar — atribusi klaim itu tetap terikat
+        bukti Ibnu Katsir di passage, jangan pakai Al-Muyassar sebagai
+        pengganti sumber kutipan Ibnu Katsir.
+        Sumber: api.quran.com verses/by_key 36:82 + tafsirs/16 (Al-Muyassar).
+    }
+}

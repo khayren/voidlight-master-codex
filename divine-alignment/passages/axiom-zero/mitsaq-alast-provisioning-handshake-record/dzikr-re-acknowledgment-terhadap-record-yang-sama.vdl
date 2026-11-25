@@ -1,0 +1,13 @@
+package soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.dzikr-re-acknowledgment-terhadap-record-yang-sama
+
+synthesis synthesis-semua-testimony-runtime-la-ilaha-illallah {
+    body {
+        Semua testimony runtime — la ilaha illallah, inna lillah (13.5), la hawla wa la quwwata illa billah (0.6–0.7) — adalah re-send terhadap acknowledgment yang sama. Acknowledgment primordial = bala. Dengan ini default state setiap node terdefinisi: testimony tawhid. Drift = override di atas default. Tawbah = restore ke issuance state. Dan struktur ini nyambung langsung ke kasb (0.6–0.7): di Alast, kesaksian dinyatakan atas diri sendiri ('ala anfusihim); di runtime, atribusi dinyatakan lewat niyyah. Dua-duanya self-attribution — hisab selalu membaca apa yang node attribute ke dirinya sendiri, tidak pernah apa yang di-assign dari luar. Accountability di arsitektur ini tidak pernah di-assign — selalu di-acknowledge.
+    }
+}
+
+analogy analogy-komponen-hardware-security-yang-bentuknya-persis-tpm {
+    body {
+        Komponen hardware security yang bentuknya persis: TPM (Trusted Platform Module). Saat device di-manufacture, dia melakukan enrollment ceremony dengan vendor — identity handshake sekali di factory, hasilnya trust anchor + signed certificate yang di-burn ke read-only memory yang tidak bisa di-erase tanpa merusak device-nya sendiri. Tiga properti yang relevan: (1) Runtime OS tidak pernah "mengingat" enrollment-nya — boot jutaan kali tanpa sekali pun akses ke sesi factory; yang OS pegang bukan memory-nya, cuma anchor-nya. (2) Setiap secure boot sesudahnya verifikasi terhadap anchor itu — OS bisa di-reinstall, disk bisa di-wipe, config bisa di-override total, anchor tetap di situ. (3) Di audit, "device ini tidak pernah di-enroll" bukan defense yang valid — vendor pegang signed log-nya; dan "device ini dikonfigurasi salah oleh owner sebelumnya" juga bukan defense — attestation itu per-device, bukan per-owner. Butiran dzarr di ayat = batch manufacture dari satu source yang sama; handshake-nya tetap per-unit.
+    }
+}

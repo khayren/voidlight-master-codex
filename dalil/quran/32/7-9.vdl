@@ -1,0 +1,35 @@
+package soul.revelation.quran.32
+
+revelation 7-9 {
+    source "Al-Qur’an"
+    surah "As-Sajdah"
+    locator "32:7-9"
+    title "QS. As-Sajdah [32]:7-9"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ ۖ وَبَدَأَ خَلْقَ ٱلْإِنسَـٰنِ مِن طِينٍ ثُمَّ جَعَلَ نَسْلَهُۥ مِن سُلَـٰلَةٍ مِّن مَّآءٍ مَّهِينٍ ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ"
+    transliteration "Allażī aḥsana kulla syai'in khalaqahū wa bada'a khalqal-insāni min ṭīn. Ṡumma ja'ala naslahū min sulālatim mim mā'im mahīn. Ṡumma sawwāhu wa nafakha fīhi mir rūḥihī wa ja'ala lakumus-sam'a wal-abṣāra wal-af'idah, qalīlam mā tasykurūn."
+    translation "Yang memperindah segala sesuatu yang Dia ciptakan dan yang memulai penciptaan manusia dari tanah, kemudian Dia menjadikan keturunannya dari saripati air yang hina (air mani). Kemudian Dia menyempurnakannya dan meniupkan roh (ciptaan)-Nya ke dalam (tubuh)nya dan Dia menjadikan pendengaran, penglihatan dan hati bagimu, (tetapi) sedikit sekali dari kamu yang bersyukur."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menyempurnakan penciptaan segala sesuatu dan memulai penciptaan manusia, yaitu Adam, dari tanah. Keturunan Adam kemudian berkembang dari nutfah yang lemah, encer, dan hina. Allah menyempurnakan penciptaan manusia dan meniupkan roh kepadanya dengan mengutus malaikat untuk meniupkannya. Allah memberikan pendengaran dan penglihatan untuk membedakan berbagai suara serta objek, dan akal untuk membedakan kebaikan dari keburukan serta manfaat dari mudarat. Namun, manusia sedikit bersyukur atas nikmat-nikmat tersebut.
+
+        [Konteks pemakaian di dokumen: dirujuk pada penciptaan manusia dan peniupan roh; "hardware/provisioning/token" adalah analogi framework; ayat tidak menyatakan identitas roh dengan record Mitsaq Alast.]
+    }
+}
+
+audit_note sanad-7-9-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks ketiga ayat diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 32:7, 32:8, 32:9, Al-Tafsir al-Muyassar (resource 16)
+        dari tafsirs/16/by_ayah masing-masing (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Anomali: kutipan di dist memakai
+        "sebagian dari ruh-Nya", Kemenag menulis "roh (ciptaan)-Nya" — jangan
+        dipertahankan sebagai kutipan Kemenag (terverifikasi module
+        dalil/quran/32/7.vdl dari batch 2). Atribusi Ibnu Katsir di dist
+        belum diverifikasi.
+    }
+}

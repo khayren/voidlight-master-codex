@@ -1,0 +1,36 @@
+package soul.revelation.hadith.muslim
+
+revelation 2714a {
+    source "HR. Muslim"
+    locator "no. 2714a (Kitab adz-Dzikr wad-Du'a wa at-Taubah wal-Istighfar)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Hurairah"
+    book_section "Kitab adz-Dzikr wad-Du'a wa at-Taubah wal-Istighfar"
+    grade_status "Shahih"
+    grade_by "Imam Muslim (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "إِذَا أَوَى أَحَدُكُمْ إِلَى فِرَاشِهِ فَلْيَأْخُذْ دَاخِلَةَ إِزَارِهِ فَلْيَنْفُضْ بِهَا فِرَاشَهُ وَلْيُسَمِّ اللَّهَ فَإِنَّهُ لاَ يَعْلَمُ مَا خَلَفَهُ بَعْدَهُ عَلَى فِرَاشِهِ فَإِذَا أَرَادَ أَنْ يَضْطَجِعَ فَلْيَضْطَجِعْ عَلَى شِقِّهِ الأَيْمَنِ وَلْيَقُلْ سُبْحَانَكَ اللَّهُمَّ رَبِّي بِكَ وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ إِنْ أَمْسَكْتَ نَفْسِي فَاغْفِرْ لَهَا وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ ‏\""
+    transliteration "Idzā awā aḥadukum ilā firāsyihī fal-ya'khuż dākhilata izārihī fal-yanfuḍ bihā firāsyahū wal-yusammillāha... wal-yaqul: Subḥānakallāhumma Rabbī bika waḍa'tu jambī wa bika arfa'uhū, in amsakta nafsī faghfir lahā, wa in arsaltahā faḥfaẓhā bimā taḥfaẓu bihī 'ibādakaṣ-ṣāliḥīn."
+    translation "Apabila salah seorang dari kalian hendak tidur, hendaklah ia mengibaskan tempat tidurnya dengan bagian dalam kainnya sambil menyebut nama Allah, karena ia tidak mengetahui apa yang ada di sana setelah ditinggalkannya. Ia berbaring pada sisi kanan dan berdoa: Mahasuci Engkau, ya Allah, Tuhanku. Dengan-Mu aku meletakkan sisiku dan dengan-Mu aku mengangkatnya. Jika Engkau menahan jiwaku, ampunilah ia; jika Engkau melepaskannya, peliharalah ia dengan penjagaan yang Engkau berikan kepada hamba-hamba-Mu yang saleh."
+    body {
+        > **Isi hadits (ringkas):** Persiapan tempat tidur, berbaring pada sisi kanan, dan doa memohon ampunan atau penjagaan bagi jiwa (paralel Bukhari 6320 dengan varian).
+
+        [Konteks pemakaian di dokumen: doa tidur (bersama 6320); varian Muslim memiliki pembuka "Subhanaka Allahumma Rabbi bika" dan "faghfir laha" — beda dari Bukhari ("Bismika Rabbi" + "farhamha"); jangan normalisasi gabungan jadi satu lafaz verbatim.]
+    }
+}
+
+audit_note sanad-2714a-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim disalin dari ARABIC_BLOCK_1 hasil dalil-fetch.py
+        yang dijalankan auditor sendiri dari sunnah.com/muslim:2714a. Nomor
+        mengikuti referensi sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek
+        langsung. Grading individual tidak terlihat di fetch. Catatan: selain
+        "faghfir laha" (vs "farhamha"), varian Muslim memiliki pembuka
+        "Subhanaka Allahumma Rabbi bika" dan petunjuk berbaring sisi kanan —
+        kutipan komparatif di passage memakai pembuka Bukhari dan hanya
+        menandai satu perbedaan, jangan disimpan sebagai matn verbatim Muslim
+        (flag owner). Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

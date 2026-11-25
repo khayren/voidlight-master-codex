@@ -1,0 +1,25 @@
+package soul.alignment.foundation.human-node-architecture-alignment-stack.operational-flow-the-alignment-pipeline
+
+analogy analogy-allah-source-al-haqq {
+    body {
+        ```
+        Allah (Source — Al-Haqq)
+            ↓ publish
+        Alam Al-Amr (Message Queue)
+            ↓ clone + scope
+        Ruh (Alignment Token) + Niyyah (Intent Parameter) + Iradah (Sudo)
+            ↓ validate
+        Qalb (Alignment Engine) — ALIGN / DROP / MODIFY
+            ↓ process
+        Aql (Logic) ↔ Nafs (Noise) — Harmony / Conflict
+            ↓ execute
+        Qada (Runtime Branch Selection)
+            ↓ constrain
+        Qadar (Immutable Rules)
+            ↓ manifest (wujud majazi di mahall azh-Zhuhur, per 0.5)
+        Jasad (Physical Output in Dunya)
+            ↓ feedback loop
+        Qalb (Engine re-evaluates based on output signal)
+        ```
+    }
+}

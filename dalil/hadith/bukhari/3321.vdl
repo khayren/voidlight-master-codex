@@ -1,0 +1,35 @@
+package soul.revelation.hadith.bukhari
+
+revelation 3321 {
+    source "HR. Bukhari"
+    locator "no. 3321 (Kitab Bad' al-Khalq)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Hurairah"
+    book_section "Kitab Bad' al-Khalq"
+    grade_status "Shahih"
+    grade_by "Imam Bukhari (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "غُفِرَ لاِمْرَأَةٍ مُومِسَةٍ مَرَّتْ بِكَلْبٍ عَلَى رَأْسِ رَكِيٍّ يَلْهَثُ، قَالَ كَادَ يَقْتُلُهُ الْعَطَشُ، فَنَزَعَتْ خُفَّهَا، فَأَوْثَقَتْهُ بِخِمَارِهَا، فَنَزَعَتْ لَهُ مِنَ الْمَاءِ، فَغُفِرَ لَهَا بِذَلِكَ ‏\""
+    transliteration "Ghufira limra'atin bāghiyyatin marrat bi-kalbin 'alā ra'si rakkiyyin yalhasu, qāla kāda yaqtuluhul-'athasyu, fa-naza'at khuffahā, fa-awtsaqathū bi-khimārihā, fa-naza'at lahū minal-mā'i, fa-ghufira lahā bi-dzālik."
+    translation "Seorang pelacur diampuni karena melewati seekor anjing di sekitar sumur yang terengah-engah hampir mati kehausan; ia melepas sepatunya, mengikatnya dengan penutup kepalanya, lalu menimba air untuk anjing itu, dan ia diampuni karena perbuatan tersebut."
+    body {
+        > **Isi hadits (ringkas):** Perempuan pelacur mengambilkan air bagi anjing yang hampir mati kehausan; ia diampuni karena perbuatan itu (paralel Muslim 2245a).
+
+        [Konteks pemakaian di dokumen: dirujuk pada tema ampunan atas amal kebaikan; matn tidak menetapkan rumus final state qalb mengungguli akumulasi amal — itu interpretasi framework.]
+    }
+}
+
+audit_note sanad-3321-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri dari sunnah.com/bukhari:3321. Nomor mengikuti referensi
+        sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading
+        individual tidak terlihat di fetch. Catatan: judul bab di halaman adalah
+        bab lalat yang jatuh ke minuman, tetapi matn dan perawi cocok dengan
+        kisah perempuan pemberi minum anjing (bukan salah koordinat).
+        Kesimpulan final state qalb dan atribusi syarah ke Ibnu Hajar di dist
+        tidak diaudit di batch ini. Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

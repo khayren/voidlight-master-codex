@@ -1,0 +1,7 @@
+package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.lossy-translation-warning
+
+synthesis synthesis-never-downgrade-alignment-ke-transactional-cuma-biar {
+    body {
+        Never downgrade alignment ke transactional cuma biar orang ngerti. Itu bukan translation — itu **alignment truncation.**
+    }
+}

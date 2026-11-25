@@ -1,0 +1,13 @@
+package soul.alignment.secure-by-alignment
+
+artifact case-study-social-media-as-non-existent-infrastructure {
+    title "CASE STUDY: SOCIAL MEDIA AS NON-EXISTENT INFRASTRUCTURE"
+    includes [
+        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-infrastructure-layer-drift,
+        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.why-it-fails-on-aligned-kernel,
+        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-stateless-aligned-node
+    ]
+    body {
+        > Rujukan v5.0.7: §16.3
+    }
+}

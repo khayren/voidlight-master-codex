@@ -1,0 +1,14 @@
+package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection
+
+artifact false-positive-handling {
+    title "False Positive Handling"
+    body {
+        > Rujukan v5.0.7: §16.5.3
+
+        | Signal | Valid Detection | False Positive | Action |
+        |--------|---------------|----------------|--------|
+        | Ngerasa "off" liat orang post amal | ✅ Iya — riya' infrastructure detect | Cultural difference (bukan alignment issue) | Log, jangan amplify |
+        | Ngerasa "dangkal" dengar ceramah reward | ✅ Iya — transactional theology detect | Memang level audience beda, bukan corruption | Switch to evidence mode |
+        | Ngerasa "pinter" sendiri | ❌ **Bukan detection** — ini 'Ujub attempt | N/A | Audit kernel: masih single-target atau sudah leak? |
+    }
+}

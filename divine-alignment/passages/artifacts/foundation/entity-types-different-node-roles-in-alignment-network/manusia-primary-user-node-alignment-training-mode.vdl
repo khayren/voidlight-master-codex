@@ -1,0 +1,30 @@
+package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.manusia-primary-user-node-alignment-training-mode
+
+synthesis synthesis-karakteristik-arsitektural-equivalent {
+    body {
+        | Karakteristik | Arsitektural Equivalent |
+        |---|---|
+        | Bio-vessel | Hardware fisik dengan bandwidth terbatas dan filter tebal |
+        | 5 indra | Heavy filter, spatial & time-bound — mengurangi signal clarity |
+        | Punya Iradah | Free will — capacity untuk memilih alignment atau drift |
+        | Training mode | Dunya adalah environment untuk calibrate alignment engine |
+        | Vulnerable | Bisa di-influence langsung oleh Jin (external signal injection) |
+    }
+}
+
+revelation revelation-qs-ar-rum-30-30 {
+    cites [soul.revelation.quran.30.30]
+    body {
+        QS. Ar-Rum [30]:30 —
+        > *"Fa-aqim wajhaka li-d-dīni ḥanīfā, fiṭrata Allāhi allatī faṭaran-nāsa 'alayhā, lā tabdīla li-khalqi Allāh"*
+        > *(Maka hadapkanlah wajahmu dengan lurus ke agama (Islam); (tetaplah di atas) fitrah Allah yang telah menciptakan manusia menurut fitrah itu. Tidak ada perubahan pada ciptaan Allah).*
+        >
+        > **Tafsir Ibnu Katsir:** Ibnu Katsir menjelaskan bahwa ayat ini memerintahkan Nabi Muhammad shallallahu 'alaihi wa sallam — dan oleh extension seluruh umat Islam — untuk menghadapkan wajah kepada agama yang lurus (hanif), yaitu Islam. Kemudian Allah menjelaskan bahwa agama ini adalah "fiṭrata Allāhi" — fitrah Allah, yaitu agama yang telah Allah ciptakan manusia di atasnya sejak lahir. Ibnu Katsir mengutip hadits shahih dari Abu Hurairah: *"Tiap-tiap anak itu dilahirkan dalam keadaan fitrah, kemudian kedua orang tuanyalah yang menjadikannya Yahudi, Nasrani, atau Majusi."* (HR. Muslim). Ini berarti setiap manusia dilahirkan dengan kecenderungan alami untuk mengenal dan menyembah Allah. Fitrah adalah konfigurasi bawaan yang meletakkan dalam diri manusia kesadaran akan adanya Pencipta.
+    }
+}
+
+revelation revelation-fitrah-adalah-default-alignment-configuration {
+    body {
+        — Fitrah adalah *default alignment configuration* — hardware manusia sudah pre-configured untuk recognize Allah sebagai Source. Tapi Nafs (legacy firmware) dan Dunya (thick filter) bisa mengoverride fitrah kalau tidak di-maintain. Origin record: Mitsaq Alast (0.8) — fitrah adalah persistensi record handshake, bukan config arbitrer.
+    }
+}

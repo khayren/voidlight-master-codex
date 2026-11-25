@@ -1,0 +1,19 @@
+package soul.alignment
+
+artifact secure-by-alignment {
+    title "SECURE BY ALIGNMENT — SINGLE-TARGET ARCHITECTURE"
+    includes [
+        soul.alignment.secure-by-alignment.kernel-level-immunity-why-deep-divine-alignment-is-intrinsically-unexploitable,
+        soul.alignment.secure-by-alignment.introduction-from-defense-in-depth-to-secure-by-alignment,
+        soul.alignment.secure-by-alignment.the-alignment-immunity-matrix,
+        soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call,
+        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure,
+        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable,
+        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection,
+        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps,
+        soul.alignment.secure-by-alignment.applied-principles-secure-by-alignment
+    ]
+    body {
+        > Rujukan v5.0.7: Part IX
+    }
+}

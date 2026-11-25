@@ -1,0 +1,10 @@
+package soul.human-os.seven-laws
+
+artifact creator-embedded {
+    title "The Creator Is Always Embedded"
+    body {
+        As-sirr contains the direct interface. 
+        Inner neglect becomes systemic failure. 
+        You cannot maintain the outer layers while the core gathers dust.
+    }
+}

@@ -1,0 +1,9 @@
+package soul.alignment
+
+artifact threat-model {
+    title "THREAT MODEL & SECURITY LAYER"
+    includes [soul.alignment.threat-model.prerequisite-axiom-0-agency-layer-solid-paham-ownership-qadar-branching-alignment-recovery, soul.alignment.threat-model.threat-model-alignment-attack-vectors]
+    body {
+        > Rujukan v5.0.7: Part III
+    }
+}

@@ -1,0 +1,34 @@
+package soul.revelation.hadith.muslim
+
+revelation 2245 {
+    source "HR. Muslim"
+    locator "no. 2245a (Kitab as-Salam)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Hurairah"
+    book_section "Kitab as-Salam"
+    grade_status "Shahih"
+    grade_by "Imam Muslim (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "أَنَّ امْرَأَةً بَغِيًّا رَأَتْ كَلْبًا فِي يَوْمٍ حَارٍّ يُطِيفُ بِبِئْرٍ قَدْ أَدْلَعَ لِسَانَهُ مِنَ الْعَطَشِ فَنَزَعَتْ لَهُ بِمُوقِهَا فَغُفِرَ لَهَا ‏\""
+    transliteration "Anna imra'atan bāghiyyan ra'at kalban fī yaumin ḥārrin yuṭīfu bi-bi'rin qad adla'a lisānahū minal-'athasyi, fa-naza'at lahū bimūqihā fa-ghufira lahā."
+    translation "Seorang pelacur melihat seekor anjing berkeliling di sekitar sumur pada hari yang panas, menjulurkan lidah karena kehausan; perempuan itu menimba air untuknya dengan sepatunya, lalu ia diampuni."
+    body {
+        > **Isi hadits (ringkas):** Seorang pelacur mengambilkan air bagi anjing yang kehausan dengan sepatunya; ia diampuni (paralel Bukhari 3321 dengan detail tambahan).
+
+        [Konteks pemakaian di dokumen: dirujuk pada tema ampunan; matn tidak secara eksplisit menyebut final state qalb atau perbandingan dengan akumulasi amal — itu interpretasi framework, dan atribusi syarah ke Ibnu Hajar di dist belum diverifikasi.]
+    }
+}
+
+audit_note sanad-2245-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim disalin dari ARABIC_BLOCK_1 hasil dalil-fetch.py
+        yang dijalankan auditor sendiri dari sunnah.com/muslim:2245 (halaman
+        menampilkan referensi 2245a, Kitab as-Salam). Nomor mengikuti referensi
+        sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading
+        individual tidak terlihat di fetch; status sahih bertumpu pada
+        pencantuman dalam Shahih Muslim. Catatan: matn menyebut memberi minum
+        dengan sepatu, bukan menyuapi makanan. Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

@@ -1,0 +1,15 @@
+package soul.alignment
+
+artifact appendix {
+    title "APPENDIX"
+    includes [
+        soul.alignment.appendix.key-principles-consolidated-refactored,
+        soul.alignment.appendix.core-quotes-updated,
+        soul.alignment.appendix.dalil-references,
+        soul.alignment.appendix.validation-tag-legend,
+        soul.alignment.appendix.glossary-axiom-0-terms,
+        soul.alignment.appendix.change-log-v3-1-v5-0-7
+    ]
+    body {
+    }
+}

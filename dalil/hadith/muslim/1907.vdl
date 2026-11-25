@@ -1,0 +1,37 @@
+package soul.revelation.hadith.muslim
+
+revelation 1907 {
+    source "HR. Muslim"
+    locator "no. 1907a (Kitab al-Imarah)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Umar bin al-Khattab"
+    book_section "Kitab al-Imarah"
+    grade_status "Shahih"
+    grade_by "Imam Muslim (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "الأَعْمَالُ بِالنِّيَّةِ وَإِنَّمَا لاِمْرِئٍ مَا نَوَى فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَتَزَوَّجُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ ‏\""
+    transliteration "Al-a'mālu bin-niyyati wa innamā li-mri'in mā nawā. Fa-man kānat hijratuhū ilallāhi wa rasūlihī fa-hijratuhū ilallāhi wa rasūlihī. Wa man kānat hijratuhū li-dunyā yuṣībuhā aw imra'atin yatazawwajuhā fa-hijratuhū ilā mā hājara ilaih."
+    translation "Nilai suatu amal bergantung pada niat yang melatarbelakanginya. Seseorang memperoleh sesuai dengan apa yang diniatkannya. Siapa yang berhijrah demi Allah dan Rasul-Nya, hijrahnya adalah demi Allah dan Rasul-Nya. Siapa yang berhijrah untuk memperoleh keuntungan dunia atau menikahi seorang perempuan, hijrahnya adalah untuk tujuan yang membuatnya berhijrah."
+    body {
+        > **Isi hadits (ringkas):** Niat menjadi dasar penilaian amal; hijrah yang tampak sama dapat memiliki tujuan yang berbeda.
+
+        [Konteks pemakaian di dokumen: hadits niyyah paralel Bukhari 1 — fondasi pembahasan kasb (0.7); kutipan di passage menggabungkan varian Muslim (hijrah ilallah wa rasulihi) dan Bukhari (yankihuha vs yatazawwajuha), perlu label gabungan; pemetaan niat sebagai titik kasb adalah interpretasi framework.]
+    }
+}
+
+audit_note sanad-1907-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim disalin dari ARABIC_BLOCK_1 hasil dalil-fetch.py
+        yang dijalankan auditor sendiri dari sunnah.com/muslim:1907 (halaman
+        menampilkan referensi 1907a). Nomor mengikuti referensi sunnah.com;
+        edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading individual
+        tidak terlihat di fetch; status sahih bertumpu pada pencantuman dalam
+        Shahih Muslim. Gotcha ekstraksi: kata pembuka "innama" berada di
+        elemen sanad HTML sehingga TIDAK masuk blok Arab — Arab di file ini
+        dipertahankan apa adanya tanpa penambahan. Lafaz di passage tidak
+        identik dengan varian ini (gabungan varian, flag owner).
+        Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

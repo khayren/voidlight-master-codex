@@ -1,0 +1,26 @@
+package soul.alignment.threat-model.threat-model-alignment-attack-vectors
+
+artifact istidraj-vs-ujian-alignment-decision-tree {
+    title "Istidraj vs Ujian — Alignment Decision Tree"
+    passages [
+        soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-vs-ujian-alignment-decision-tree.synthesis-nikmat-bisa-jadi-ujian-bisa-jadi-istidraj,
+        prose {
+            ```
+            Nikmat datang
+            ├── Response: Syukur + maintain Qalb Salim → Ujian (naik tier alignment)
+            │   └── Qalb tetap Salim, Nafs tetap aware, node recognizes nikmat as from Allah
+            ├── Response: Lupa + Qalb mulai Mariidh → Warning (drift detected)
+            │   └── Mulai klaim "gue yang hebat", selective reception — alignment degrading
+            └── Response: Klaim sebagai hasil "gue hebat" + Qalb Aghlaf → Istidraj (degradation path)
+                └── Self-deification seed, nggak bisa nerima koreksi, alignment recovery locked
+            ```
+
+            **Key Insight:** Istidraj bukan *event* yang Allah kasih — tapi *routing* yang manusia pilih lewat response berulang terhadap nikmat. Setiap kali node memilih "lupa" dan "klaim diri sendiri" saat mendapat nikmat, node memilih *drift branch*.
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §8.6
+    }
+}

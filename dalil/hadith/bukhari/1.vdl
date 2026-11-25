@@ -1,0 +1,36 @@
+package soul.revelation.hadith.bukhari
+
+revelation 1 {
+    source "HR. Bukhari"
+    locator "no. 1 (Kitab Bad' al-Wahy)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Umar bin al-Khattab"
+    book_section "Kitab Bad' al-Wahy"
+    grade_status "Shahih"
+    grade_by "Imam Bukhari (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ ‏\""
+    transliteration "Innamal-a'malu bin-niyyati, wa innama li-kulli imri'in ma nawa, fa-man kanat hijratuhu ila dunya yusibuha aw ila imra'atin yankihuha fa-hijratuhu ila ma hajara ilayh."
+    translation "Ganjaran amal bergantung pada niat, dan setiap orang memperoleh sesuai yang diniatkannya. Siapa yang berhijrah demi keuntungan dunia atau perempuan yang hendak dinikahinya, maka hijrahnya menuju apa yang menjadi tujuan hijrahnya."
+    body {
+        > **Isi hadits (ringkas):** Amal dan ganjarannya berkaitan dengan niat; hijrah untuk tujuan dunia atau pernikahan mengikuti tujuan yang diniatkan.
+
+        [Konteks pemakaian di dokumen: hadits niyyah, fondasi pembahasan kasb (0.7); rumusan niat sebagai titik kasb adalah sintesis dokumen, bukan lafaz hadits.]
+    }
+}
+
+audit_note sanad-1-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri dari sunnah.com/bukhari:1. Nomor mengikuti referensi
+        sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading
+        individual tidak terlihat di fetch; status sahih bertumpu pada
+        pencantuman dalam Shahih al-Bukhari. Verdict ATRIBUSI_SALAH ditujukan
+        pada kutipan passage niyyah (0.7) yang menggabungkan redaksi: bagian
+        "hijratuhu ilallahi wa rasulihi" berasal dari varian Muslim 1907a,
+        sedangkan matn Bukhari 1 memuat varian dunia/imra'ah — kutipan passage
+        perlu dilabel gabungan varian (flag owner).
+    }
+}

@@ -1,0 +1,17 @@
+package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network
+
+artifact manusia-primary-user-node-alignment-training-mode {
+    title "Manusia — Primary User Node (Alignment Training Mode)"
+    cites [soul.revelation.quran.30.30]
+    passages [
+        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.manusia-primary-user-node-alignment-training-mode.synthesis-karakteristik-arsitektural-equivalent,
+        prose {
+            Manusia adalah *primary kasb node* (per 0.6) — wujud mumkin (per 0.1) yang diberi kapasitas niyyah (per 0.7) untuk navigate ketergantungan eksistensialnya — satu-satunya entitas yang diberi kombinasi unik: (a) free will untuk memilih, (b) bio-vessel yang membatasi, (c) fitrah yang mengingatkan akan Source, dan (d) Qur'an sebagai alignment manual yang paling jelas.
+        },
+        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.manusia-primary-user-node-alignment-training-mode.revelation-qs-ar-rum-30-30,
+        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.manusia-primary-user-node-alignment-training-mode.revelation-fitrah-adalah-default-alignment-configuration
+    ]
+    body {
+        > Rujukan v5.0.7: §3.3
+    }
+}

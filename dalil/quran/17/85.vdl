@@ -1,0 +1,32 @@
+package soul.revelation.quran.17
+
+revelation 85 {
+    source "Al-Qur’an"
+    surah "Al-Isra"
+    locator "17:85"
+    title "QS. Al-Isra [17]:85"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا"
+    transliteration "Wa yas'alūnaka 'anir-rūḥi. Qulir-rūḥu min amri rabbī wa mā ūtītum minal-'ilmi illā qalīlā."
+    translation "Dan mereka bertanya kepadamu (Muhammad) tentang roh. Katakanlah, \"Roh itu termasuk urusan Tuhanku, sedangkan kamu diberi pengetahuan hanya sedikit.\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Orang-orang kafir menanyakan hakikat ruh untuk membantah. Nabi diperintahkan menjawab bahwa hakikat dan keadaan ruh termasuk perkara yang pengetahuannya Allah khususkan bagi diri-Nya. Pengetahuan yang diberikan kepada mereka dan seluruh manusia hanyalah sedikit.
+
+        [Konteks pemakaian di dokumen: ruh ditempatkan di kelas Alam al-Amr, bukan materi — itu konstruksi framework, bukan penjelasan Al-Muyassar.]
+    }
+}
+
+audit_note sanad-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar.
+        Verdict AYAT_TERVERIFIKASI, konfidensi HIGH. Tanpa koreksi editorial.
+        Makki per metadata surah. Batas: klasifikasi ontologis ruh dalam
+        dokumen tidak dibenarkan oleh entri Al-Muyassar dan diberi label
+        terpisah. Sumber: api.quran.com verse 17:85 + tafsirs/16.
+    }
+}

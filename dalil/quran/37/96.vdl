@@ -1,0 +1,35 @@
+package soul.revelation.quran.37
+
+revelation 96 {
+    source "Al-Qur’an"
+    surah "As-Saffat"
+    locator "37:96"
+    title "QS. As-Saffat [37]:96"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ"
+    transliteration "Wallāhu khalaqakum wa mā ta'malūn."
+    translation "padahal Allah lah yang menciptakan kamu dan apa yang kamu perbuat.\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Ibrahim menghadapi kaumnya dengan teguh dan mempertanyakan penyembahan mereka kepada berhala. Berhala-berhala itu mereka pahat dan buat sendiri dengan tangan mereka. Ia menegur mereka karena meninggalkan penyembahan kepada Tuhan yang menciptakan mereka dan menciptakan perbuatan mereka.
+
+        [Konteks pemakaian di dokumen: dirujuk pada Allah menciptakan manusia dan perbuatannya (bersama 8:17); pemetaan "akses Kun" dan model kasb adalah sintesis framework atau atribusi ilmiah yang butuh audit tersendiri.]
+    }
+}
+
+audit_note sanad-96-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 37:96 + tafsirs/16/by_ayah/37:96). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Huruf kecil awal dan tanda petik
+        penutup pada terjemahan resource 33 dipertahankan verbatim. Catatan
+        auditor: ayat berada dalam teguran Ibrahim kepada penyembah berhala
+        dan tidak memuat peristiwa melempar; atribusi uraian kasb ke Ibnu
+        Katsir di dist belum diverifikasi.
+    }
+}

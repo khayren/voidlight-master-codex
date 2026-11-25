@@ -1,0 +1,35 @@
+package soul.revelation.hadith.bukhari
+
+revelation 99 {
+    source "HR. Bukhari"
+    locator "no. 99 (Kitab al-'Ilm)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Hurairah"
+    book_section "Kitab al-'Ilm"
+    grade_status "Shahih"
+    grade_by "Imam Bukhari (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "أَسْعَدُ النَّاسِ بِشَفَاعَتِي يَوْمَ الْقِيَامَةِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ، خَالِصًا مِنْ قَلْبِهِ أَوْ نَفْسِهِ ‏\""
+    transliteration "As'adun-nāsi bisyafā'atī yaumal-qiyāmati man qāla lā ilāha illallāhu, khāliṣan min qalbihī au nafsihī."
+    translation "Orang yang paling beruntung memperoleh syafaatku pada hari Kiamat adalah orang yang mengucapkan tiada tuhan selain Allah dengan tulus dari lubuk hatinya."
+    body {
+        > **Isi hadits (ringkas):** Keikhlasan tauhid dari hati berkaitan dengan syafaat Nabi pada hari Kiamat (tanya jawab Abu Hurairah).
+
+        [Konteks pemakaian di dokumen: dirujuk bersama QS. Asy-Syu'ara 26:88-89 pada tema keikhlasan hati; hadits bukan lafaz "qalb salim" dan bukan dalil rinci klasifikasi alam kubur.]
+    }
+}
+
+audit_note sanad-99-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri dari sunnah.com/bukhari:99. Nomor mengikuti referensi
+        sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading
+        individual tidak terlihat di fetch. Catatan: Arab mempertahankan varian
+        "min qalbihi au nafsihi"; hadits sesuai tema ikhlas dan syafaat, bukan
+        dalil rinci klasifikasi alam kubur. Auditor juga menandai kutipan ayat
+        di passage ("Laa tanfa'usy-syahaa-idu") bermasalah — perlu verifikasi
+        ayat tersendiri (flag owner). Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

@@ -1,0 +1,33 @@
+package soul.revelation.quran.35
+
+revelation 16-17 {
+    source "Al-Qur’an"
+    surah "Fatir"
+    locator "35:16-17"
+    title "QS. Fatir [35]:16-17"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ"
+    transliteration "In yasya' yużhibkum wa ya'ti bikhalqin jadīd. Wa mā żālika 'alallāhi bi'azīz."
+    translation "Jika Dia menghendaki, niscaya Dia membinasakan kamu dan mendatangkan makhluk yang baru (untuk menggantikan kamu). Dan yang demikian itu tidak sulit bagi Allah."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Jika Allah menghendaki, Dia dapat membinasakan manusia yang diseru dalam ayat. Dia dapat mendatangkan kaum lain yang menaati-Nya dan beribadah hanya kepada-Nya. Membinasakan mereka dan mendatangkan makhluk pengganti bukan sesuatu yang tidak mungkin bagi Allah, melainkan mudah bagi-Nya.
+
+        [Konteks pemakaian di dokumen: dirujuk pada kekuasaan Allah membinasakan dan mengganti tanpa kesulitan; model "location of manifestation" dan terminologi Af'al-Dzat adalah sintesis framework.]
+    }
+}
+
+audit_note sanad-16-17-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks kedua ayat diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 35:16 dan 35:17, Al-Tafsir al-Muyassar (resource 16)
+        dari tafsirs/16/by_ayah 35:16 dan 35:17 (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Arab dan terjemahan digabung
+        satu spasi, termasuk tambahan dalam kurung pada terjemahan ayat 16.
+        Terminologi manifestasi framework tidak ada di sumber.
+    }
+}

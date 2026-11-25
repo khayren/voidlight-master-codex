@@ -1,0 +1,21 @@
+package soul.human-os
+
+artifact overview {
+    title "What Is This?"
+    cites [soul.revelation.quran.55.33]
+    body {
+        This is not an app. Not a productivity system. Not a life hack.
+
+        This is a **conceptual operating system** for the human soul 
+        Mapped from the Qur'anic blueprint of who we are, how we are structured, and why we drift. 
+        It treats the self not as a personality to be "discovered," but as a layered system to be **maintained, tuned, and defended.**
+
+        The architecture below is the synthesis of a deep tafsir journey through **Surat Ar-Rahman, ayat 33**, the verse where Allah tells jinn and humans: *"If you can penetrate the boundaries of the heavens and the earth, then penetrate. You will never penetrate except with authority (sulṭān)."*
+
+        That verse is not about space travel. 
+        It is about **the prison of creaturehood** — and the only door out. 
+        *(Catatan audit 2026-11-15: auditor batch 5 — teks 55:33 terverifikasi di module dalil/quran/55/33.vdl, AYAT_TERVERIFIKASI HIGH; Al-Muyassar menjelaskan ketidakmampuan jin dan manusia keluar dari penjuru langit dan bumi tanpa kekuatan dari Allah, terkait tidak bisa lolos dari perintah dan ketetapan-Nya; istilah "prison of creaturehood", "the only door out", dan "thughyan" adalah analogi framework di atas ayat, bukan lafaz ayat atau penjelasan tafsir.)*
+
+        ---
+    }
+}

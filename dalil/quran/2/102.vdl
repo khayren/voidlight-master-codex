@@ -1,0 +1,35 @@
+package soul.revelation.quran.2
+
+revelation 102 {
+    source "Al-Qur’an"
+    surah "Al-Baqarah"
+    locator "2:102"
+    title "QS. Al-Baqarah [2]:102"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَـٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَـٰنَ ۖ وَمَا كَفَرَ سُلَيْمَـٰنُ وَلَـٰكِنَّ ٱلشَّيَـٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَـٰرُوتَ وَمَـٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ"
+    transliteration "Wattaba'ū mā tatlusy-syayāṭīnu 'alā mulki sulaimān. Wa mā kafara sulaimānu wa lākinnasy-syayāṭīna kafarū yu'allimūnan-nāsas-siḥra wa mā unzila 'alal-malakaini bibābila hārūta wa mārūt. Wa mā yu'allimāni min aḥadin ḥattā yaqūlā innamā naḥnu fitnatun fa lā takfur. Fayata'allamūna minhumā mā yufarriqūna bihī bainal-mar'i wa zaujihī. Wa mā hum biḍārrīna bihī min aḥadin illā bi'iżnillāh. Wa yata'allamūna mā yaḍurruhum wa lā yanfa'uhum. Wa laqad 'alimū lamani isytarāhu mā lahū fil-ākhirati min khalāq. Wa labi'sa mā syarau bihī anfusahum. Lau kānū ya'lamūn."
+    translation "Dan mereka mengikuti apa yang dibaca oleh setan-setan pada masa kerajaan Sulaiman. Sulaiman itu tidak kafir tetapi setan-setan itulah yang kafir, mereka mengajarkan sihir kepada manusia dan apa yang diturunkan kepada dua malaikat di negeri Babilonia yaitu Harut dan Marut. Padahal keduanya tidak mengajarkan sesuatu kepada seseorang sebelum mengatakan, \"Sesungguhnya kami hanyalah cobaan (bagimu), sebab itu janganlah kafir!\" Maka mereka mempelajari dari keduanya (malaikat itu) apa yang (dapat) memisahkan antara seorang (suami) dengan isterinya. Mereka tidak akan dapat mencelakakan seseorang dengan sihirnya kecuali dengan izin Allah. Mereka mempelajari sesuatu yang mencelakakan, dan tidak memberi manfaat kepada mereka. Dan sungguh, mereka sudah tahu, barang siapa membeli (menggunakan sihir) itu, niscaya tidak akan mendapat keuntungan di akhirat. Dan sungguh, sangatlah buruk perbuatan mereka yang menjual dirinya dengan sihir, sekiranya mereka tahu."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Orang-orang Yahudi mengikuti sihir yang disampaikan setan pada masa kerajaan Sulaiman. Sulaiman tidak kafir dan tidak mempelajari sihir; setanlah yang kafir dengan mengajarkannya. Harut dan Marut di Babil merupakan ujian, dan keduanya memperingatkan setiap orang sebelum mengajarkan. Orang-orang mempelajari sesuatu yang menimbulkan kebencian hingga memisahkan suami dan istri. Para penyihir tidak dapat mencelakakan siapa pun kecuali dengan izin dan ketetapan Allah. Yang dipelajari itu mencelakakan, tidak bermanfaat, dan orang yang memilih sihir serta meninggalkan kebenaran tidak memperoleh bagian kebaikan di akhirat.
+
+        [Konteks pemakaian di dokumen: ayat ini jadi dasar threat model jin & sihir — mudarat sihir terbatas oleh izin Allah; istilah "threat model" adalah analogi dokumen. Kutipan tematik tentang mudarat wajib menyertakan pembatas "illā bi'iżnillāh".]
+    }
+}
+
+audit_note sanad-102-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar.
+        Verdict AYAT_TERVERIFIKASI untuk teks kanonik, konfidensi HIGH.
+        Koreksi potongan konteks di prompt: ayat berbunyi fayata'allamūna
+        minhumā (bukan wa yata'allamūna minhum) dan biḍārrīna bihī min aḥadin
+        illā bi'iżnillāh (bukan minhu aḥadan). Ejaan "isterinya" dipertahankan
+        sesuai API. Madani per metadata surah. Batas: mekanisme dan kemampuan
+        jin di luar yang dinyatakan ayat/tafsir tidak diverifikasi. Sumber:
+        api.quran.com verse 2:102 + tafsirs/16.
+    }
+}

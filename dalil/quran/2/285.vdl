@@ -1,0 +1,35 @@
+package soul.revelation.quran.2
+
+revelation 285 {
+    source "Al-Qur’an"
+    surah "Al-Baqarah"
+    locator "2:285"
+    title "QS. Al-Baqarah [2]:285"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ"
+    transliteration "Āmanar-rasūlu bimā unzila ilaihi mir-rabbihī wal-mu'minūn, kullun āmana billāhi wa malā'ikatihī wa kutubihī wa rusulih, lā nufarriqu baina aḥadim mir-rusulih, wa qālū sami'nā wa aṭa'nā, gufrānaka rabbanā wa ilaikal-maṣīr."
+    translation "Rasul (Muhammad) beriman kepada apa yang diturunkan kepadanya (Alquran) dari Tuhannya, demikian pula orang-orang yang beriman. Semua beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, dan rasul-rasul-Nya. (Mereka berkata), \"Kami tidak membeda-bedakan seorang pun dari rasul-rasul-Nya.\" Dan mereka berkata, \"Kami dengar dan kami taat. Ampunilah kami Ya Tuhan kami, dan kepada-Mu tempat (kami) kembali.\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Rasulullah Muhammad meyakini wahyu dari Tuhannya, demikian pula orang beriman yang membenarkan dan mengamalkan Al-Qur'an. Mereka beriman kepada Allah, malaikat, kitab-kitab, dan seluruh rasul, tanpa beriman kepada sebagian rasul lalu mengingkari sebagian lainnya. Rasul dan orang beriman menyatakan bahwa mereka mendengar wahyu dan menaatinya, memohon ampunan atas dosa-dosa mereka, serta mengakui bahwa hanya kepada Allah mereka kembali.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pengakuan iman, ketaatan, dan permohonan ampun; metafora "return/alignment stack" adalah analogi framework.]
+    }
+}
+
+audit_note sanad-285-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri dan identik dengan raw
+        JSON; terjemahan Kemenag RI (resource 33) dan Al-Tafsir al-Muyassar
+        (resource 16) dari api.quran.com (verses/by_key 2:285 +
+        tafsirs/16/by_ayah/2:285). Verdict AYAT_TERVERIFIKASI, konfidensi
+        HIGH. Catatan: klaim di dist bahwa ayat merangkum enam rukun iman
+        secara eksplisit tidak didukung lafaz (daftar eksplisit menyebut
+        Allah, malaikat, kitab, rasul); label "Ayat Iman" dan atribusi
+        uraian kepada Ibnu Katsir belum terverifikasi di batch ini.
+    }
+}

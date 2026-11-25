@@ -1,0 +1,15 @@
+package soul.human-os.security-architecture
+
+artifact external-threats {
+    title "External Threats (The 1% / Shayāṭīn al-Ins)"
+    body {
+        | Threat | Mechanism | Counter |
+        |--------|-----------|---------|
+        | Narrative Injection | Media, education, entertainment | Qur'an as source-of-truth; aql in verify mode |
+        | Metric Gamification | GDP, followers, titles, credentials | Recognize the trap; chase invisible metrics |
+        | Adversarial Prompting | "Be realistic," "everyone does it," "balance" | Total surrender (kāffatan); no compromise |
+        | Spectrum Pollution | 24/7 dunya noise drowning divine signal | Dhikr as signal amplification; reduce consumption |
+
+        ---
+    }
+}

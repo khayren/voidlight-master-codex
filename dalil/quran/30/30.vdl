@@ -1,0 +1,25 @@
+package soul.revelation.quran.30
+
+revelation 30 {
+    source "Al-Qur’an"
+    surah "Ar-Rum"
+    locator "30:30"
+    sanad_status "verified"
+    original_text "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنْ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ"
+    transliteration "Fa aqim wajhaka lid-dini hanifa. Fitratallahi allati fataran-nasa 'alayha, la tabdila likhalqillah. Dhalikad-dinul-qayyimu walakinna aktsaran-nasi la ya'lamun."
+    translation "Maka hadapkanlah wajahmu dengan lurus kepada agama Allah; (tetaplah dengan) fitrah Allah yang telah menciptakan manusia menurut fitrah itu. Tidak ada perubahan pada fitrah Allah. (Itulah) agama yang lurus; tetapi kebanyakan manusia tidak mengetahui."
+    body {
+        > **Tafsir Ibnu Katsir (ringkas):** Ayat ini menetapkan bahwa fitrah tauhid adalah fitrah yang Allah cetakkan pada setiap manusia saat lahir (didukung hadits Mitsaq Alast, QS. Al-A'raf 7:172-173): setiap bayi lahir dalam keadaan fitrah, lalu orang tuanya yang menjadikannya Yahudi, Nasrani, atau Majusi. "La tabdila likhalqillah" berarti tidak ada yang bisa mengubah fitrah penciptaan itu; agama yang lurus adalah kembali ke fitrah tersebut, dan kebanyakan manusia tidak mengetahui hakikatnya.
+    }
+}
+
+audit_note format-draft-2026-11-14 {
+    auditor "owner + sanad-auditor (rencana)"
+    date "2026-11-14"
+    body {
+        Teks Arab, transliterasi, terjemahan, dan ringkasan tafsir di file ini
+        diangkat dari konten passage existing (v5.0.7) sebagai contoh format
+        dalil module pertama. Wajib lewat sanad-auditor + pembanding mushaf dan
+        terjemahan resmi sebelum dianggap final.
+    }
+}

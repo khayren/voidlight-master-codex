@@ -1,0 +1,13 @@
+package soul.alignment.threat-model.threat-model-alignment-attack-vectors
+
+artifact malaikat-as-network-security-alignment-logging {
+    title "Malaikat as Network Security & Alignment Logging"
+    cites [soul.revelation.quran.82.10-11]
+    passages [
+        soul.alignment.threat-model.threat-model-alignment-attack-vectors.malaikat-as-network-security-alignment-logging.revelation-monitor-dunya-untuk-setan-intrusion,
+        soul.alignment.threat-model.threat-model-alignment-attack-vectors.malaikat-as-network-security-alignment-logging.revelation-qs-al-infitar-82-10-11
+    ]
+    body {
+        > Rujukan v5.0.7: §8.4
+    }
+}

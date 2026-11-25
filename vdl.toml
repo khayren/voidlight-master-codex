@@ -1,0 +1,14 @@
+[build]
+out_dir = "vdl/dist"
+
+[[build.markdown]]
+root = "soul.human-os"
+output = "soul/voidlight-human-os.md"
+number_headings = true
+cites = "short"
+
+[[build.markdown]]
+root = "soul.divine-alignment"
+output = "soul/divine-alignment.md"
+number_headings = false
+cites = "short"

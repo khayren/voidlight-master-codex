@@ -1,0 +1,26 @@
+package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.malaikat-immutable-background-service
+
+revelation revelation-karakteristik-teologis-tidak-punya-free-will {
+    body {
+        — Karakteristik teologis: tidak punya free will, selalu taat, tidak diuji, tidak punya nafs.
+    }
+}
+
+analogy analogy-malaikat-adalah-infrastructure-service-kayak-dns {
+    body {
+        Malaikat adalah *infrastructure service* — kayak DNS server, load balancer, atau message queue worker. Mereka process Command, forward ke target, tapi gak punya "user account" sendiri. Gak ada Iradah, gak ada Nafs, gak ada Qalb yang perlu di-maintain. Malaikat tidak perlu kasb-based navigation (per 0.6) karena mereka tidak punya niyyah (per 0.7) dan tidak punya kapasitas untuk drift — mereka adalah wujud mumkin (per 0.1) dengan hard-coded config.
+    }
+}
+
+revelation revelation-qs-at-tahrim-66-6-kutipan-dari-ayat {
+    cites [soul.revelation.quran.66.6]
+    body {
+        QS. At-Tahrim [66]:6 — (kutipan dari ayat yang lebih panjang)
+        > *"...lā ya'ṣūna Allāha mā amarahum wa yaf'alūna mā yu'marūn"*
+        > *(...malaikat-malaikat itu tidak melanggar perintah yang diberikan Allah kepada mereka dan mereka mengerjakan apa yang diperintahkan).*
+        >
+        > [Catatan audit 2026-11-15: kutipan sebelumnya memuat tambahan lafaz "alladhīna hum min 'ibadihī" yang TIDAK terdapat dalam ayat (AYAT_SALAH_KUTIP, auditor batch 3 via dalil-fetch.py) — frasa tersebut dihapus; teks Arab ayat lengkap terverifikasi di module dalil/quran/66/6.vdl.]
+        >
+        > **Tafsir Ibnu Katsir:** Ayat lengkap QS. At-Tahrim [66]:6 berbunyi: *"Hai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu, penjaganya adalah malaikat-malaikat yang kasar, keras, yang tidak melanggar perintah yang diberikan Allah kepada mereka dan mereka mengerjakan apa yang diperintahkan."* Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan karakteristik fundamental malaikat: mereka tidak melanggar perintah Allah sedikit pun dan selalu melaksanakan apa yang diperintahkan. Ini menunjukkan bahwa malaikat adalah makhluk yang sempurna ketundukannya kepada Allah, tidak punya kemampuan untuk berbuat maksiat, tidak punya nafsu yang mengganggu, dan tidak pernah menyimpang dari perintah Allah. Sifat inilah yang membedakan malaikat dari manusia dan jin — manusia dan jin punya pilihan (bisa taat, bisa maksiat), sedangkan malaikat hanya taat. [Catatan audit 2026-11-15: rumusan "tidak punya free will, tidak diuji, tidak punya nafs" pada bagian lain passage ini adalah konstruksi dokumen di atas tema ketaatan ayat, bukan pernyataan lafaz ayat atau tafsir; penanganan auditor batch 3: klaim kapasitas batin malaikat memerlukan dalil tersendiri bila dipertahankan untuk publikasi.]
+    }
+}

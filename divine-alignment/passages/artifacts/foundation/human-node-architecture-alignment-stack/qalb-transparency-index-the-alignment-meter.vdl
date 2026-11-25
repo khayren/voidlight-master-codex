@@ -1,0 +1,54 @@
+package soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-transparency-index-the-alignment-meter
+
+synthesis synthesis-qalb-adalah-dimensi-terpisah-dari-nafs-seseorang {
+    body {
+        Qalb adalah dimensi terpisah dari Nafs. Seseorang bisa punya Nafs Lawwamah (sadar salah) tapi Qalb-nya Mariidh (tertutup untuk kebenaran tertentu). Atau ritual-nya "baik" tapi Qalb-nya Aghlaf (tidak bisa nerima signal apapun).
+    }
+}
+
+revelation revelation-qs-al-baqarah-2-7 {
+    cites [soul.revelation.quran.2.7]
+    body {
+        QS. Al-Baqarah [2]:7 —
+        > *"Khatama Allahu 'alaa quluubihim wa 'alaa sam'ihim wa 'alaa absaarihim gishaawatun wa lahum 'adzaabun 'azhiim"*
+        > *(Allah telah mengunci hati-hati mereka dan pendengaran-pendengaran mereka, dan di mata mereka ada tutup, dan bagi mereka azab yang besar).*
+        >
+        > **Tafsir Ibnu Katsir:** Ayat ini diturunkan tentang orang-orang munafik dan orang-orang kafir yang tetap menolak kebenaran setelah bukti yang jelas datang kepada mereka. "Khatama Allahu 'alaa quluubihim" (Allah mengunci hati-hati mereka) bukanlah pengunciatan sewenang-wenang, melainkan akibat logis dan bertahap dari pilihan mereka sendiri yang terus-menerus menolak kebenaran. Ketika seseorang berulang kali menolak ayat-ayat Allah dan memilih kekafiran, hatinya semakin keras dan gelap, sampai Allah mengunci hatinya sebagai hukuman atas pilihannya sendiri. Ini adalah *sebabul hukm* (sebab turunnya hukum), bukan *sebabul kawn* (sebab penciptaan kekafiran). Penguncian ini berarti Allah menghapus cahaya petunjuk dari hati mereka sehingga tidak bisa lagi menerima keimanan. Ayat ini menjadi fondasi teologis konsep "Qalb Aghlaf" dalam framework alignment: hati bisa terkunci permanen sebagai akibat dari serangkaian pilihan drift yang tidak pernah di-audit — sebagaimana Firaun mengalami drift cascade yang berakhir pada Qalb yang tidak bisa menerima signal apapun.
+    }
+}
+
+revelation revelation-hadits-sahih-riwayat-ibnu-majah-4216 {
+    cites [soul.revelation.hadith.ibnmajah.4216]
+    body {
+        Hadits riwayat Ibnu Majah no. 4216 (Kitab az-Zuhd), dari Abdullah bin 'Amr — kepada Rasulullah SAW ditanya, siapa manusia yang paling utama:
+        > *"Kullu makhmum al-qalbi, shaduq al-lisan."*
+        > *(Setiap orang yang bersih hatinya dan jujur lisannya.)*
+        Ditanya: *"Shaduq al-lisan kami paham, lalu apa makhmum al-qalb?"* Beliau menjawab:
+        > *"Huwa at-taqiyyu an-naqiyyu: la itsma fiihi, wa la baghyya wa la ghill wa la hasad."*
+        > *(Dia adalah orang yang bertakwa dan murni: tidak ada dosa di dalamnya, tidak ada kezaliman, kedengkian tersembunyi, dan hasad.)*
+        >
+        > **Penjelasan (ringkas):** Hadits ini mendefinisikan kebersihan qalb melalui empat pencemaran yang harus tidak ada di dalamnya: dosa, kezaliman, kedengkian tersembunyi, dan hasad. Dalam framework alignment, empat pencemaran ini adalah komponen distorsi Qalb Transparency Index — Salim berarti keempatnya tidak menutup cermin hati. Ketika Qalb State Salim didefinisikan sebagai "transparan, bersih" di atas, definisi operasionalnya bertumpu di sini dan di QS. Asy-Syu'ara [26]:88-89 (qalb salim sebagai satu-satunya aset final state).
+
+        [Catatan: rumusan tiga unsur yang sebelumnya dikutip di bagian ini ("ikhlas, berpegang pada kebenaran, menerima nasihat") dipertahankan sebagai rumusan operasional dokumen, bukan hadits — penjelasan lama yang mengutip Ibnu Rajab dan Ibnu Qayyim tentang ikhlas dan menerima nasihat tetap relevan sebagai syarah rumusan itu, terpisah dari dalil.]
+    }
+}
+
+audit_note sanad-re-audit-2026-11-15 {
+    auditor "sanad-auditor (re-audit Task B, owner decision)"
+    date "2026-11-15"
+    body {
+        Matn lama "qalbun 'abada Allaha bi-mukhlisin, mutamassikin bi-haqqin, wa
+        qabilin li-n-nasiihah" dengan atribusi Ahmad/al-Hakim/at-Tirmidzi +
+        grading al-Albani: TIDAK_TERVERIFIKASI (re-audit 2026-11-15, HIGH
+        confidence — pencarian termasuk varian Arab, dorar.net, Kutub Arba'ah;
+        sumber modern yang menisbatkan redaksi ini tidak tertelusur). Atar
+        Ibnu Sirin via al-Tabari/Ibnu Katsir (tafsir 26:89) berbeda substansi
+        (keyakinan Allah/Kiamat/kebangkitan), jadi tidak dipakai re-atribusi.
+        Owner memilih penggantian ke hadits makhmum al-qalb Ibnu Majah 4216
+        (Sahih per al-Albani, Sahih Ibni Majah 3416; al-Silsilah al-Sahihah 948
+        "isnaduhu jayyid, rijaluhu thiqat"; al-Bushiri Misbah az-Zujajah 4/239
+        sanad sahih). Teks Arab diverifikasi verbatim dari sunnah.com.
+        Grading "hasan riwayat Ahmad, al-Hakim, at-Tirmidzi, dishahihkan
+        al-Albani" pada matn lama TIDAK VALID dan dihapus.
+    }
+}

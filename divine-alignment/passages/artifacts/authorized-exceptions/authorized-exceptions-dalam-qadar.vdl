@@ -1,0 +1,21 @@
+package soul.alignment.authorized-exceptions.authorized-exceptions-dalam-qadar
+
+revelation revelation-tipe-jenis-dalam-qadar {
+    body {
+        | Tipe | Jenis | Dalam Qadar? | Cara Execute |
+        |---|---|---|---|
+        | **Mukjizat** | Fixed Point | ✅ Ya | Pre-authorized branch untuk Nabi. Hardcoded di akun sejak provisioning. Gak bisa di-earn, gak bisa di-request. Sudah ada sebagai alignment signal yang override normal filter rules. |
+        | **Karamah** | Granted via Path | ✅ Ya | Conditional response untuk Wali. Unlock ketika node achieve optimal alignment state (Qalb Salim, Nafs Mutma'innah, proximity = direct). Bisa di-earn sebagai *byproduct of alignment*, tapi gak bisa di-request langsung. |
+    }
+}
+
+revelation revelation-hadits-shahih-riwayat-bukhari-dan-muslim {
+    cites [soul.revelation.hadith.bukhari.4981, soul.revelation.hadith.muslim.152]
+    body {
+        Hadits Shahih riwayat Bukhari no. 4981 dan Muslim no. 152, dari Abu Hurairah — [Catatan audit 2026-11-14 (sanad-auditor): pokok riwayat terverifikasi di Bukhari 4981 (Kitab Fadhail al-Quran) dan Muslim 152 (Kitab al-Iman); lafaz transliterasi di bawah adalah parafrase/pokok makna, bukan kutipan verbatim kedua kitab — kutipan persis perlu diambil langsung dari matn Bukhari/Muslim.]
+        > *"Lam yab'asillahu nabiyyam illa aataahu mukaajizatin yu'minu bihaa asy-syaahidu minal ummati"*
+        > *(Tidaklah Allah mengutus seorang nabi kecuali Dia memberinya mukjizat-mukjizat yang diyakini oleh orang-orang yang menyaksikannya dari umatnya...)*
+        >
+        > **Syarah Fathul Bari (Ibnu Hajar Al-Asqalani):** Hadits ini merupakan dasar aqidah Ahlus Sunnah tentang kenabian dan mukjizat. Mukjizat (معجزة) secara bahasa berarti "sesuatu yang menakjubkan" dan secara istilah syariat adalah perbuatan luar biasa yang diberikan Allah kepada para nabi sebagai bukti kebenaran kenabian mereka, yang tidak bisa ditandingi atau diserupai oleh siapapun — bahkan oleh orang-orang yang menantang dan membantah mereka. Setiap nabi diberi mukjizat sesuai dengan keahlian dan kehebatan umatnya pada zamannya: Musa AS diberi tongkat yang berubah menjadi ular besar (menandingi kehebatan tukang sihir Mesir), Isa AS diberi kehebatan dalam pengobatan (menandingi kehebatan dokter Bani Israel), dan Muhammad SAW diberi Al-Qur'an (menandingi kehebatan penyair-penyair Arab). Al-Qur'an adalah mukjizat yang kekal sampai hari Kiamat, berbeda dari mukjizat nabi-nabi sebelumnya yang hanya bersifat temporal.
+    }
+}

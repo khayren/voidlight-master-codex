@@ -1,0 +1,19 @@
+package soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.layer-stack
+
+analogy analogy-layer-spiritual-technical {
+    body {
+        | Layer | Spiritual | Technical | Scope |
+        |---|---|---|---|
+        | **Source** | Allah (Al-Haqq) | Core System / Origin | Absolute, unbound, Independent — all signals originate here, nothing returns to modify it |
+        | **Infrastructure** | Alam Al-Amr | Message Queue / Event Bus | Command distribution, pre-manifestation — the protocol definition layer |
+        | **Domain** | Qadar | Immutable Rules / Fixed Checkpoints | Fixed at compile-time — node config per individual, berisi mubram (alignment milestones that cannot be altered) dan mu'allaq (conditional options) |
+        | **Application** | Qada | Runtime Execution / Realized Path | Personal runtime — alignment trajectory chosen via free will from mu'allaq options |
+        | **Presentation** | Dunya (Material) | Filtered UI / Frontend | User-facing, 3D spatial, time-bound — the thickest filter between node and Source signal |
+    }
+}
+
+synthesis synthesis-setiap-layer-di-atas-depends-entirely-pada {
+    body {
+        Setiap layer di atas *depends entirely* pada layer di bawahnya. Domain (Qadar) tidak bisa mengubah Source. Application (Qada) tidak bisa mengubah Domain. Presentation (Dunya) adalah layer paling terbatas — sebuah node di Dunya tidak pernah melihat "what truly exists" dalam ontological sense, tapi selalu menerima *filtered signal* yang bisa diproses untuk alignment atau drift.
+    }
+}

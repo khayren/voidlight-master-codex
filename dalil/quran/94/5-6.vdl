@@ -1,0 +1,35 @@
+package soul.revelation.quran.94
+
+revelation 5-6 {
+    source "Al-Qur’an"
+    surah "Asy-Syarh"
+    locator "94:5-6"
+    title "QS. Asy-Syarh [94]:5-6"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+    transliteration "Fa inna ma'al-'usri yusrā. Inna ma'al-'usri yusrā."
+    translation "Maka sesungguhnya bersama kesulitan ada kemudahan, sesungguhnya bersama kesulitan ada kemudahan."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Gangguan musuh tidak boleh menghalangi penyampaian risalah. Bersama kesempitan terdapat kelapangan. Pernyataan tentang kelapangan bersama kesempitan tersebut diulang dalam penjelasannya.
+
+        [Konteks pemakaian di dokumen: dirujuk pada peneguhan adanya kemudahan BERSAMA kesulitan; "Exact Sufficiency" dan "10V Threshold" adalah analogi pengalaman framework, bukan janji ayat tentang pas tanpa surplus.]
+    }
+}
+
+audit_note sanad-5-6-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks kedua ayat diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 94:5 dan 94:6, Al-Tafsir al-Muyassar (resource 16)
+        dari tafsirs/16/by_ayah 94:5 dan 94:6 (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Catatan auditor: resource 33
+        memakai "bersama kesulitan", bukan "sesudah kesulitan" — pemaknaan
+        sesudah tidak boleh dipakai untuk mengunci waktu pertolongan secara
+        eksklusif; uraian Ibnu Abbas dan atribusi ke Ibnu Katsir di dist
+        belum diverifikasi.
+    }
+}

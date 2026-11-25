@@ -1,0 +1,35 @@
+package soul.revelation.hadith.bukhari
+
+revelation 4205 {
+    source "HR. Bukhari"
+    locator "no. 4205 (Kitab al-Maghazi)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Musa al-Asy'ari"
+    book_section "Kitab al-Maghazi"
+    grade_status "Shahih"
+    grade_by "Imam Bukhari (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "\"‏ أَلاَ أَدُلُّكَ عَلَى كَلِمَةٍ مِنْ كَنْزٍ مِنْ كُنُوزِ الْجَنَّةِ ‏\"‏‏.‏ قُلْتُ بَلَى يَا رَسُولَ اللَّهِ فِدَاكَ أَبِي وَأُمِّي‏.‏ قَالَ ‏\"‏ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ‏\""
+    transliteration "Alā adulluka 'alā kalimatin min kanzin min kunūzil-jannah? Qultu: Balā yā Rasūlallāhi fidāka abī wa ummī. Qāla: Lā ḥawla wa lā quwwata illā billāh."
+    translation "Tidakkah aku tunjukkan kepadamu satu kalimat yang merupakan salah satu perbendaharaan surga? Aku menjawab: Bahu, wahai Rasulullah, semoga ayah dan ibuku menjadi tebusanku. Beliau bersabda: Tiada daya dan kekuatan kecuali dengan Allah."
+    body {
+        > **Isi hadits (ringkas):** Nabi menyebut hawqalah (la hawla wa la quwwata illa billah) sebagai kalimat dari perbendaharaan surga; konteks peristiwa Khaibar dan adab tidak berteriak saat berzikir.
+
+        [Konteks pemakaian di dokumen: dirujuk di passage niyyah 0.7 bersama QS. Al-Kahfi 18:39; kaitan dengan ayat adalah pengaitan tema, bukan kesamaan lafaz (matn lafaznya "la hawla", bukan "ma sya Allah").]
+    }
+}
+
+audit_note sanad-4205-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri dari sunnah.com/bukhari:4205. Nomor mengikuti referensi
+        sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading
+        individual tidak terlihat di fetch. Catatan: ekstrak Arab memuat dialog
+        akhir tentang hawqalah; koreksi lafaz pada catatan audit passage
+        2026-10-26 (4205/Muslim 2704 terikat matn "la hawla wa la quwwata illa
+        billah") SESUAI hasil fetch. Pasangan Muslim 2704 tidak diperiksa ulang
+        di batch ini. Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

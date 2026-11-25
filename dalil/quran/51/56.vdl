@@ -1,0 +1,35 @@
+package soul.revelation.quran.51
+
+revelation 56 {
+    source "Al-Qur’an"
+    surah "Adz-Dzariyat"
+    locator "51:56"
+    title "QS. Adz-Dzariyat [51]:56"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ"
+    transliteration "Wa mā khalaqtul-jinna wal-insa illā liya'budūn."
+    translation "Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menciptakan jin dan manusia untuk suatu tujuan yang luhur. Pengutusan seluruh rasul juga dijelaskan berkaitan dengan tujuan tersebut. Tujuannya ialah beribadah kepada Allah semata, bukan kepada selain-Nya.
+
+        [Konteks pemakaian di dokumen: dirujuk pada tujuan penciptaan (purpose of system); metafora "design purpose/alignment protocol" adalah analogi framework.]
+    }
+}
+
+audit_note sanad-56-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri dan identik dengan raw
+        JSON; terjemahan Kemenag RI (resource 33) dan Al-Tafsir al-Muyassar
+        (resource 16) dari api.quran.com (verses/by_key 51:56 +
+        tafsirs/16/by_ayah/51:56). Verdict AYAT_TERVERIFIKASI, konfidensi
+        HIGH. Tidak ada anomali lafaz atau koordinat. Atribusi uraian kepada
+        Ibnu Katsir dan kutipan Ibnu Abbas di dist belum terverifikasi di
+        batch ini; cakupan ayat eksplisit jin dan manusia, jangan diperluas
+        tanpa sumber tambahan.
+    }
+}

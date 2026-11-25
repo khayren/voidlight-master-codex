@@ -1,0 +1,31 @@
+package soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action
+
+revelation revelation-hadits-riwayat-bukhari-1-dan-muslim-1907 {
+    cites [soul.revelation.hadith.bukhari.1, soul.revelation.hadith.muslim.1907]
+    body {
+        Hadits riwayat Bukhari #1 dan Muslim #1907, dari Umar bin Khattab radhiyallahu 'anhu —
+        > *"Innamal a'malu bin-niyyat, wa innama likullimri-in ma nawa. Faman kana hijratuhu ilallahi wa rasulihi fa hijratuhu ilallahi wa rasulihi. Wa man kana hijratuhu li dunia yusiibuha au imra'atin yankihuha fa hijratuhu ila ma hajara ilaih."*
+        > *(Sesungguhnya setiap amal itu tergantung niatnya. Dan sesungguhnya setiap orang akan mendapat sesuai apa yang ia niatkan. Barangsiapa hijrahnya menuju Allah dan Rasul-Nya, maka hijrahnya menuju Allah dan Rasul-Nya. Dan barangsiapa hijrahnya menuju dunia yang ingin diperolehnya atau wanita yang ingin dinikahinya, maka hijrahnya menuju apa yang ia hijrah untuknya).*
+        >
+        > **Syarah Hadits (Fathul Bari & Syarah Muslim):** Hadits ini adalah hadits pertama yang dimuat Imam Bukhari dalam Shahih-nya — bukan karena urutan kronologis, melainkan karena kedudukannya sebagai fondasi seluruh ibadah dan amal. Nabi shallallahu 'alaihi wa sallam menegaskan bahwa amal tidak dinilai dari bentuk lahirnya saja, melainkan dari niat yang melatarbelakanginya. Dua orang bisa melakukan amal yang identik secara lahir, tapi salah satu diterima dan yang lain ditolak karena perbedaan niat. Imam Asy-Syafi'i berkata: "Hadits ini adalah sepertiga dari ilmu." Niyyat (niat) di sini bukan sekadar niat dalam hati sebelum beramal, melainkan arah dan tujuan yang melatarbelakangi seluruh amal. Ini titik "kasb" yang paling fundamental: di sinilah hisab jatuh, di sinilah diterima atau ditolaknya amal, di sinilah bedanya antara ibadah dan kebiasaan biasa. [Catatan audit 2026-11-15: auditor batch hadits (matn verbatim di module dalil/hadith/bukhari/1.vdl dan muslim/1907.vdl, keduanya SAHIH_TERVERIFIKASI HIGH) — kutipan transliterasi di atas adalah GABUNGAN varian: kalimat "Faman kana hijratuhu ilallahi wa rasulihi" berasal dari varian Muslim 1907a, sedangkan matn Bukhari 1 memuat varian dunia/imra'ah ("yankihuha" vs "yatazawwajuha") — verdict ATRIBUSI_SALAH jika dianggap lafaz satu nomor; pertahankan sebagai kutipan gabungan dua varian yang dicite, bukan matn verbatim satu kitab.]
+    }
+}
+
+revelation revelation-qs-al-kahfi-18-39 {
+    cites [soul.revelation.quran.18.39, soul.revelation.hadith.bukhari.4205]
+    body {
+        QS. Al-Kahfi [18]:39 —
+        > *"Wa law la idz dakhalta jannataka qulta ma sha Allah, la quwwata illa billah, in tarani ana aqalla minka malan wa waladan"*
+        > *(Dan mengapa tidak, ketika kamu masuk ke kebunmu, kamu mengucapkan: "Ma sha Allah, la quwwata illa billah." Jika kamu melihat aku lebih sedikit darimu dalam harta dan anak-anak).*
+        >
+        > **Tafsir Ibnu Katsir:** Ayat ini adalah nasihat seorang mukmin kepada temannya yang kafir yang kaya raya namun lupa mengucapkan "ma sha Allah" dan menganggap semua kekayaannya karena usahanya sendiri. Ucapan ini adalah penegasan tawhid: segala sesuatu terjadi karena kehendak Allah, dan tidak ada kekuatan bagi makhluk kecuali dengan kekuatan yang Allah berikan. Dari Abu Musa Al-Asy'ari radhiyallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda: "Maukah aku tunjukkan kepadamu satu kalimat yang merupakan kanzun min kunuzil jannah — salah satu perbendaharaan surga?" — yaitu kalimat "la hawla wa la quwwata illa billah." (HR. Bukhari #4205 dan Muslim #2704). Ini menunjukkan keagungan kalimat-kalimat tawhid semacam ini; mengucapkannya dengan pemahaman yang benar adalah bagian dari perbendaharaan akhirat. [Catatan audit 2026-10-26: pasangan nomor Bukhari 4205/Muslim 2704 terikat pada matn "la hawla wa la quwwata illa billah", bukan "ma sha Allah, la quwwata illa billah" sebagaimana tertulis sebelumnya — dikoreksi (ATRIBUSI_SALAH, audit ronde 3). Kalimat "ma sha Allah, la quwwata illa billah" pada 18:39 berdiri di atas lafz ayat itu sendiri.]
+        >
+        > **Tafsir Al-Muyassar:** Kisah ini mengajarkan bahwa setiap nikmat adalah karena kehendak Allah, bukan karena kekuatan atau usaha kita sendiri. Ucapan "ma sha Allah, la quwwata illa billah" adalah penegasan tawhid rububiyyah: segala yang terjadi terjadi karena kehendak Allah, dan tidak ada kekuatan apa pun kecuali dengan pertolongan Allah. Mengucapkannya bukan sekadar adab, tetapi pengakuan hakikat wujud — bahwa makhluk tidak memiliki daya apa pun secara independen.
+    }
+}
+
+synthesis synthesis-kasb-tidak-tersebar-di-seluruh-proses-eksekusi {
+    body {
+        Kasb tidak tersebar di seluruh proses eksekusi. Kasb terlokalisir di satu titik: niyyah, di level Ruh, sebelum action terjadi.
+    }
+}

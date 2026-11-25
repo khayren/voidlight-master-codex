@@ -1,0 +1,16 @@
+package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps
+
+artifact the-protocol-stack {
+    title "The Protocol Stack"
+    body {
+        > Rujukan v5.0.7: §16.6.2
+
+        | Receiver State | Protocol | Jangan | Contekan |
+        |--------------|----------|--------|----------|
+        | **Belum aligned (transactional)** | Evidence, bukan argument. Biar mereka liat behavior yang nggak bisa di-reverse-engineer ke motif duniawi. | Jangan jelaskan "single-target architecture." Itu kernel panic. | Puasa sunnah tanpa post. Kerja excellence tanpa complaint. Sholat tepat waktu tanpa pamer. |
+        | **Transactional theology** | Reframe target, bukan reject target. "Reward ada, tapi reward juga milik-Nya — bukan tujuan, tapi byproduct." | Jangan bilang "salah." Bilang "ada layer di atasnya." | "Iya, rezeki bisa datang. Tapi kalo nggak datang, masih mau amal? Itu alignment." |
+        | **Desensitized (ritual tanpa presence)** | Tanya, bukan preach. Kasih diagnostic question yang expose layer mismatch. | Jangan kasih jawaban. Kasih pertanyaan yang bikin audit diri. | "Kalo reward-nya nggak datang, masih mau amal? Kalo jawabannya iya — itu alignment mulai aktif." |
+        | **Riya'-prone** | Private challenge. Ajak amal tanpa social trace. | Jangan expose mereka. Bakal trigger defense. | "Yuk tahajud bareng malem ini, nggak usah bilang siapa-siapa." |
+        | **'Ujub-prone** | Forced humility injection. Kasih bukti ada yang lebih tahu. | Jangan debate. Nggak ada yang menang lawan ego. | Kasih mereka bacaan yang lebih deep dari yang mereka kuasai. |
+    }
+}

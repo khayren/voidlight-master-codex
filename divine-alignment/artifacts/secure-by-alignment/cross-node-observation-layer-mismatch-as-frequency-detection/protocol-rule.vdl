@@ -1,0 +1,14 @@
+package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection
+
+artifact protocol-rule {
+    title "Protocol Rule"
+    passages [
+        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.protocol-rule.synthesis-external-detection-bukan-license-untuk-judge-atau,
+        prose {
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §16.5.4
+    }
+}

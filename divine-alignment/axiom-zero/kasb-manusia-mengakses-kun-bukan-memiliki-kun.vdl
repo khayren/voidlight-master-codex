@@ -1,0 +1,31 @@
+package soul.axiom-zero
+
+artifact kasb-manusia-mengakses-kun-bukan-memiliki-kun {
+    title "Kasb: Manusia Mengakses Kun, Bukan Memiliki Kun"
+    cites [soul.revelation.quran.8.17, soul.revelation.quran.37.96]
+    passages [
+        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.revelation-qs-al-anfal-8-17,
+        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.revelation-qs-as-saffat-37-96,
+        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.synthesis-posisi-kalam-framework-kasb-khalq-afal,
+        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.synthesis-manusia-mengakses-abstraksi-kun-dalam-scope-terbatas,
+        prose {
+            Ini doktrin **kasb** (acquisition) dalam kalam Asy'ari. Dua elemen yang dipisah:
+
+            - **Khalq al-Af'al** — Allah yang mencipta (khalq) setiap perbuatan, termasuk perbuatan voluntary manusia. Kun tetap sepenuhnya milik Allah.
+            - **Kasb** — manusia "memperoleh" perbuatan itu sebagai locus of attribution, cukup untuk perbuatan itu dianggap perbuatannya (karenanya tetap mukallaf, tetap dihisab), tanpa dia menjadi sumber daya cipta yang independen.
+
+            Posisi ini berdiri di antara dua ekstrem yang sama-sama ditolak:
+
+            | Posisi | Klaim | Kenapa ditolak |
+            |---|---|---|
+            | **Jabariyyah** | Manusia puppet total, tidak ada kasb sama sekali | Menghapus taklif — tanpa kasb, hisab tidak masuk akal |
+            | **Kasb (Asy'ari)** | Allah cipta perbuatan, manusia acquire — posisi framework ini | Preserve tanggung jawab tanpa memberi manusia daya cipta independen |
+            | **Qadariyyah** | Manusia independen mencipta perbuatannya sendiri | Implicitly memberi manusia sumber Kun sendiri di luar Allah — melanggar tawhid rububiyyah |
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.6
+    }
+}

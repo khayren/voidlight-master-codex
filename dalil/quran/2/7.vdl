@@ -1,0 +1,34 @@
+package soul.revelation.quran.2
+
+revelation 7 {
+    source "Al-Qur’an"
+    surah "Al-Baqarah"
+    locator "2:7"
+    title "QS. Al-Baqarah [2]:7"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ"
+    transliteration "Khatamallāhu 'alā qulūbihim wa 'alā sam'ihim, wa 'alā abṣārihim gisyāwatun, wa lahum 'ażābun 'aẓīm."
+    translation "Allah telah mengunci hati dan pendengaran mereka,<sup foot_note=134960>1</sup> penglihatan mereka telah tertutup, dan mereka akan mendapat azab yang berat."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah mengunci hati dan pendengaran mereka serta menjadikan penutup pada penglihatan mereka. Hal itu dijelaskan berkaitan dengan kekufuran dan pembangkangan mereka setelah kebenaran menjadi jelas. Mereka tidak diberi taufik kepada petunjuk dan akan menerima azab yang keras di neraka Jahanam.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pembahasan seal atas pemindahan; "Qalb Transparency Index" dan pemetaan Salim/Maridh/Aghlaf adalah analogi atau sintesis framework, bukan klasifikasi ayat.]
+    }
+}
+
+audit_note sanad-7-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 2:7 + tafsirs/16/by_ayah/2:7). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Markup catatan kaki terjemahan
+        API dipertahankan verbatim tanpa penghapusan. Ayat dan tafsir tidak
+        menetapkan metrik transparansi hati, klasifikasi tiga keadaan hati,
+        atau diagnosis keadaan batin individu.
+    }
+}

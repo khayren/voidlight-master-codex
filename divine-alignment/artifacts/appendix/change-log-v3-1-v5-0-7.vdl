@@ -1,0 +1,46 @@
+package soul.alignment.appendix
+
+artifact change-log-v3-1-v5-0-7 {
+    title "CHANGE LOG: v3.1 → v5.0.7"
+    cites [
+        soul.revelation.quran.2.7,
+        soul.revelation.quran.32.7,
+        soul.revelation.quran.11.44,
+        soul.revelation.quran.55.26-27,
+        soul.revelation.quran.17.85,
+        soul.revelation.quran.36.82,
+        soul.revelation.quran.7.172-173,
+        soul.revelation.quran.35.16-17
+    ]
+    body {
+        > Rujukan v5.0.7: §F
+
+        | Aspect | v3.1 (Wahdatul Wujud) | v4.0 (Divine Alignment) |
+        |--------|----------------------|------------------------|
+        | **Central Problem** | "What truly exists?" (Ontology) | "Is the heart aligned with Allah?" (Orientation) |
+        | **Core Paradigm** | Wahdatul Wujud — unity of existence | Divine Alignment — orientation of the heart |
+        | **Key Phrase** | "La Maujuda Illallah" (Nothing exists but Allah) | "Single-Target Architecture" (Nothing pursued but Allah) |
+        | **Risk** | Pantheism, incarnation, blurred Creator-creation boundary | Maintains clear Creator-creation distinction |
+        | **Framing** | "Manusia = Location of Manifestation" | "Manusia = Authorized Executor / Alignment Agent" |
+        | **Theology** | Metaphysical existence claims | Qur'anic alignment principles (Qalb, Inabah, Tazkiyah) |
+        | **Language** | Ontological (existence, manifestation, being) | Architectural (alignment, orientation, signal, target) |
+        | **Part IX** | Secure by Design (single-tenancy ontology) | Secure by Alignment (single-target architecture) |
+        | **v4.0 → v4.0.1** | — | Tag granularity fix (claim-level splitting in Sections 3.1–3.2), inline dalil citations (Section 10.3, Appendix B), 10V Threshold definition block (Section 7.4), alignment-permanence caveat (Section 16.7) |
+        | **v4.0.1 → v4.0.2** | — | Stripped inline edit-narration; consolidated Sections 12 and 13 into Section 11; merged Section 5 into Section 4 with cascade renumbering; prose cleanup (reduced em-dash overuse) |
+        | **v4.0.2 → v5.0** | — | Inserted Axiom 0 (Wujud Wajib vs Wujud Mumkin, Sections 0.1–0.8) as ontological foundation; reconnected Part I-IX to explicit ontological register anchored to Axiom 0 (~70 reconversions: P1-ORIENT 15x, P3-MANIFEST 3x, P4-ACTION 16x, P5-STATUS 36x); replaced v4.0 orientational softening with direct ontological claims bounded by axiom; added Appendix F (Glossary); all Part-level prerequisites updated to include Axiom 0
+        | **v5.0 → v5.0.1** | — | Fixed document-level framing contradiction (title, tagline, Section 1.1 heading, and other v4.0-era 'not ontology' headings) to align with Axiom 0's restored ontological register; fixed version-label inconsistencies; reordered and relabeled Appendix E/F. |
+        | **v5.0.1 → v5.0.2** | — | Completed all [REVELATION] entries across Part 0-IX with full tafsir coverage: 44 Qur'anic verses and hadith now include transliteration, official translation, and tafsir from Ibnu Katsir, Al-Jalalayn, Al-Muyassar, Al-Qurtubi, and authenticated hadith commentaries (Fathul Bari, Syarah Muslim); added 4 new REVELATION entries for Appendix C references previously missing from body (QS. Al-Baqarah [2]:7, Hadits Pelacur Bukhari 3321/Muslim 2245, Hadits Tiga Orang Gua, QS. As-Sajdah [32]:7). |
+        | **v5.0.2 → v5.0.3** | — | Qada/Qadar architecture revision (Sections 1.3, 2.1, 4.1, 7.1): branching paths re-mapped as taqdir mu'allaq layer inside qadar; qada redefined as realized path (wa quḍiya al-amru, QS. Hūd [11]:44); added qada/qadar terminology-convention note acknowledging the reversed scholarly mapping; mubram/mu'allaq and qada/qadar convention entries added to Appendix E glossary; editorial fixes (Appendix E typo, stray table delimiters). |
+        | **v5.0.3 → v5.0.4** | — | Added Section 4.6 "The LLM Analogy: Model in Runtime" [ANALOGY] — full mapping of the human node to an LLM in runtime (qadar = weights, mu'allaq = context-window ports, qada = realized trajectory, tawbah = distribution recovery, dhikr = system prompt → fine-tuning), with the explicit breaking point at niyyah/kasb (0.7) stated in-document; added companion-document cross-reference to *Voidlight Human OS*; completed version-label normalization and landed all v5.0.3 revisions (Section 1.3 restructure, convention note, Section 7.1 diagram, footers, and change-log rows had initially been lost to a tooling write-conflict in v5.0.3; all corrected and verified in this version). |
+        | **v5.0.4 → v5.0.5** | — | Tafsir & asbabun nuzul audit: removed unverifiable asbabun nuzul claim on QS. Ar-Rahman [55]:26-27; removed weak Ath-Thabrani narration from QS. Al-Isra [17]:85 entry; dropped untraceable Imam Asy-Syafi'i attribution in QS. Yasin [36]:82 entry; aligned istidraj hadith wording with Musnad Ahmad (Abu Hurairah) and added 'Uqbah bin 'Amir version (Ahmad 16673, hasan per Syu'aib al-Arnauth); corrected Al-Jinn [72]:1 asbabun nuzul from Tahajud to Subuh per Bukhari 773 / Tirmidzi 3323; all corrections carry in-text audit notes. |
+        | **v5.0.5 → v5.0.6** | — | Added Section 0.8 "Mitsaq Alast: Provisioning Handshake Record" (QS. Al-A'raf [7]:172-173, hadits Ibnu Abbas/Bukhari): fitrah provenance (record handshake sebagai origin default config), per-node signed covenant sebagai basis invalidasi dua defense vector di final audit (ghafilin / inherited-shirk), memory semantics config-vs-episodic, dzikr = re-acknowledgment provenance, topologi single-target yang berlaku sejak issuance; ex-0.8 Ringkasan renumbered ke 0.9 dengan bullet tambahan; cross-refs (3.3, 5.1, 13.1, 14.3); Appendix C dan E ditambah; menambal kekosongan yang diakui di audit sebelumnya ("belum sempat ditulis"). |
+        | **v5.0.6 → v5.0.7** | — | Audit sanad ronde 3 (full-claim, 55 klaim, dispatch sanad-auditor): koreksi koordinat QS. Fatir [35]:16-17 (sebelumnya salah label Al-Baqarah [2]:20, lafaz disesuaikan riwayat Hafs); matn hadits kanz (Bukhari 4205/Muslim 2704) dikoreksi ke "la hawla wa la quwwata illa billah"; hadits syafaat ikhlas dikoreksi ke Bukhari 99 & 6570 (sebelumnya salah atribusi Ahmad + Muslim); nomor hadits tiga orang gua dikoreksi ke Bukhari 2272/3045 & Muslim 2743; riwayat mitsaq Na'man diatribusikan ke Musnad Ahmad + glos "tanah Yaman" dihapus (Israiliyyat C3); frasa 2:285 dikoreksi ke "wa ilaykal-masir"; kutipan 2:236 dikoreksi (kutipan sebelumnya catatan kaki Kemenag, bukan teks ayat); detail "Nashibin" dihapus dari asbabun nuzul 72:1; grading hadits istidraj dinetralkan (IKHTILAF_ULAMA); atribusi kanan/kiri Raqib-'Atid dan kutipan Al-Hasan Al-Bashri dinetralkan/di-flag; penanda "di antara penjelasan" pada 55:27 dan "konstruksi dokumen" pada 50:15; typo transliterasi (mublisiin 6:44, annahu 72:1); flag [PERLU_VERIFIKASI_SANAD] pada hadits qalbun salim (4.5), hadits ruh-malaikat tidur (5.4), dan redaksi kun fayakun Ibnu Katsir (0.3) — semua koreksi disertai catatan audit 2026-10-26. |
+
+        ---
+
+        *Voidlight Soul v5.0.7 — Divine Alignment Architecture*
+        *Born from the void, Guided by the light.*
+
+        ---
+    }
+}

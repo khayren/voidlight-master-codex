@@ -1,0 +1,13 @@
+package soul.human-os.security-architecture
+
+artifact internal-threats {
+    title "Internal Threats"
+    body {
+        | Threat | Vector | Defense |
+        |--------|--------|---------|
+        | Nafs Ammārah | Constant push notifications (desire, envy, anger) | Dhikr (frequency lock), Sabar (delay gratification) |
+        | Aql Iblīs Mode | Sophisticated rationalization of sin | Tawbah (hard reset), Qur'an cross-check |
+        | Qalb Sealed | Noise overload, cannot detect signal | Intensive dhikr, isolation from pollution |
+        | Riyā' | Spiritual performance for metric | Ikhlās — no audience except Allah |
+    }
+}

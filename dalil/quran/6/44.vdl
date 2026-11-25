@@ -1,0 +1,35 @@
+package soul.revelation.quran.6
+
+revelation 44 {
+    source "Al-Qur’an"
+    surah "Al-An'am"
+    locator "6:44"
+    title "QS. Al-An'am [6]:44"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَـٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ"
+    transliteration "Fa lammā nasū mā żukkirū bihī fataḥnā 'alaihim abwāba kulli syai'in, ḥattā iżā fariḥū bimā ūtū akhażnāhum baghtatan fa iżā hum mublisūn."
+    translation "Maka ketika mereka melupakan peringatan yang telah diberikan kepada mereka, Kami pun membukakan semua pintu (kesenangan) untuk mereka. Sehingga ketika mereka bergembira dengan apa yang telah diberikan kepada mereka, Kami siksa mereka secara tiba-tiba, maka ketika itu mereka terdiam putus asa."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Mereka meninggalkan pengamalan perintah Allah dan berpaling darinya. Allah kemudian membuka berbagai pintu rezeki, mengganti kesulitan hidup dengan kelapangan dan penderitaan dengan kesehatan sebagai istidraj. Ketika mereka menjadi angkuh dan membanggakan nikmat yang diberikan, azab datang mendadak sehingga mereka berputus asa dan terputus dari segala kebaikan.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pola kelalaian setelah aman; metafora "routing/branch destructive" adalah analogi framework; ayat bukan dalil bahwa setiap kelapangan setelah kesulitan pasti istidraj.]
+    }
+}
+
+audit_note sanad-44-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri dan identik dengan raw
+        JSON; terjemahan Kemenag RI (resource 33) dan Al-Tafsir al-Muyassar
+        (resource 16) dari api.quran.com (verses/by_key 6:44 +
+        tafsirs/16/by_ayah/6:44). Verdict AYAT_TERVERIFIKASI, konfidensi HIGH.
+        Anomali: transliterasi di dist memuat "uutuut", lafaz sumber أُوتُوا۟
+        seharusnya ūtū (kesalahan transliterasi dist, bukan koordinat ayat).
+        Transliterasi di file ini ditulis ulang benar. Atribusi Ibnu Katsir
+        di dist belum diverifikasi di batch ini.
+    }
+}

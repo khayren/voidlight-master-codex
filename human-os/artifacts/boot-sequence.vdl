@@ -1,0 +1,24 @@
+package soul.human-os
+
+artifact boot-sequence {
+    title "Boot Sequence: The Life Cycle"
+    body {
+        ```
+        [PRE-BOOT]  Alastu Covenant → Fitrah installed in As-Sirr
+                    ↓
+        [BOOT]      Birth → Nafs Ammārah active → Qalb open (receptive)
+                    ↓
+        [RUNTIME]   Environment pollutes → Qalb can seal → Aql serves Nafs
+                    ↓
+        [ALARM]     Fitrah protests → "This doesn't feel right" → Opportunity
+                    ↓
+        [RESET]     Tawbah → Dhikr → Muraqabah → Qalb Salīm → Aql Verify Mode
+                    ↓
+        [OPTIMAL]   Nafs Lawwāmah/Mutma'innah + Qalb Salīm + Aql Ulīl Albāb
+                    ↓
+        [END]       Death → Hisāb → Akhirah → Final state locked
+        ```
+
+        ---
+    }
+}

@@ -1,0 +1,60 @@
+package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol
+
+artifact the-10v-threshold {
+    title "The 10V Threshold"
+    cites [soul.revelation.quran.94.5-6]
+    passages [
+        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.analogy-definition-the-10v-threshold-is-the,
+        prose {
+            ---
+
+            **Case Study: The Fanbelt Failure (Lived Experience)**
+
+            Gue pernah mengalami ini secara langsung. Pulang berkendara, fanbelt putus — root cause tidak terdeteksi saat itu. Aql bekerja dengan *partial signal*: mesin masih jalan, tapi ada sesuatu yang "off." Tidak ada clarity penuh. Konsultasi ke ChatGPT (horizontal tool) memberikan jawaban yang *incomplete* — tool duniawi mencapai limit-nya di bawah incomplete information. Bukan failure tool secara absolut; tapi *horizontal tools exhausted their diagnostic capacity*, yang membuat vertical alignment (ikhtiar + tawakkal) menjadi faktor operative, bukan tool failure-nya.
+
+            Dihadapkan pada decision point: istri dan anak di mobil, rumah 7KM jauhnya. Pilihan: berhenti di tengah jalan dengan risiko tidak diketahui, atau terus berjalan dengan monitoring maksimal. Gue memilih terus — bukan fatalisme, bukan "serahin aja," tapi **agency penuh dengan amanah sebagai forcing function**. Iradah di-activate di bawah real stakes. Anak dan istri di mobil = amanah yang *forces* decision, bukan passive surrender.
+
+            Sepanjang perjalanan: monitor gauge tegangan aktif secara real time. Setiap turunan volt di-track. Setiap kilometer di-hitung. Ini adalah **maximum ikhtiar dalam mode continuous muhasabah** — bukan single decision point, tapi *ongoing calibration* antara agency (monitoring, reasoning) dan alignment (surrender outcome ke Allah). Tawakkal bukan "serahin sebelum berusaha" — tapi *"gue udah lakukan semua yang gue bisa, sekarang gue surrender hasilnya sambil tetap monitor."*
+
+            Mesin mati persis saat tegangan mencapai **10V** — persis saat tiba di tujuan. Bukan 11V (masih ada margin). Bukan 9V (sudah mati di jalan). Persis **10V = critical minimum threshold**.
+
+            ---
+
+            **Mapping ke Arsitektur Wujud Mumkin (per 0.1–0.2):**
+
+            | Element | Lived Experience | Alignment Mapping |
+            |---|---|---|
+            | Fanbelt putus, undetected | Operating tanpa tahu root cause | **Aql dengan partial signal** — menerjemahkan signal dengan informasi tidak lengkap (cf. Section 4.1) |
+            | ChatGPT jawaban incomplete | Horizontal tool mencapai limit | **Section 7.2: "pencarian vertikal dengan horizontal tools akan selalu gagal"** — reframe sebagai ikhtiar, bukan failure |
+            | Istri & anak di mobil | Amanah yang memaksa decision | **Amanah sebagai forcing function Iradah** — agency under real stakes (cf. Section 6.2) |
+            | Monitor voltage real time | Continuous tracking selama perjalanan | **Maximum ikhtiar dalam real time** — muhasabah berkelanjutan, bukan single decision point |
+            | Surrender outcome sambil monitor | Conscious surrender setelah choose to proceed | **Tawakkal exact** — node melakukan yang terbaik (agency), lalu menyerahkan hasilnya ke Source (alignment) — *bukan menyerahkan sebelum berusaha* (cf. Section 6.2) |
+            | Battery charge | Reserve yang aktif terdeplesi | **Alignment reserve** — tidak infinite, aktif terkuras di Dunya (high-drain environment) |
+            | 10V = mesin mati di tujuan | Critical minimum, persis sampai | **Exact Sufficiency in action** — bukan comfort margin (100% charge maintained), tapi *precision* — cukup alignment sustain untuk sampai checkpoint tanpa stall (cf. Section 7.3) |
+
+            **Distinction dari Barakah (Section 5.3):**
+
+            |  | Barakah | 10V Threshold |
+            |---|---|---|
+            | **Mekanisme** | Throughput efficiency dari quota terbatas | Survival precision di bawah active depletion |
+            | **Informasi** | Quota diketahui (umur terbatas, resource diketahui) | Root cause *unknown* — operating under incomplete signal |
+            | **Ikhtiar** | Standard effort, output multiplied | Maximum ikhtiar real time — continuous monitoring, active reasoning |
+            | **Tawakkal** | Surrender setelah effort biasa | Surrender *sambil* effort maksimal — dual track |
+            | **Case model** | Output-efficiency (30 tahun → 300 tahun impact) | Ikhtiar-tawakkal survival (7KM → 10V exact arrival) |
+
+            Barakah dan 10V Threshold adalah **related tapi distinct**: Barakah adalah *efficiency multiplier*. 10V Threshold adalah *survival precision* — Exact Sufficiency dalam mode paling ekstrem: incomplete information, maximum ikhtiar, active tawakkal, dan *exact arrival*.
+
+            ---
+        },
+        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.analogy-dalam-operational-terms-exact-sufficiency-berarti-node,
+        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.revelation-qs-al-insyirah-94-5-6,
+        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan,
+        prose {
+            **Key Insight:** Exact Sufficiency adalah **anti-complacency mechanism** di dalam Qadar. Kalau node selalu punya cadangan "aman," node nggak pernah fully activate alignment. Exact sufficiency forces node ke **MVP mode** — minimum viable protocol, zero waste, full trust pada Source.
+
+            ---
+        }
+    ]
+    body {
+    }
+}

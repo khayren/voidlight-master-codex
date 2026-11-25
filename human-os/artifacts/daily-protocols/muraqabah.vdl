@@ -1,0 +1,11 @@
+package soul.human-os.daily-protocols
+
+artifact muraqabah {
+    title "Muraqabah - Signal Verification"
+    body {
+        Real-time check: *"Is my qalb tranquil when I remember Allah?"* 
+        If no, the receiver is noisy. 
+        If yes, maintain state. 
+        This is validation-set monitoring, not training accuracy (which would be riyā').
+    }
+}

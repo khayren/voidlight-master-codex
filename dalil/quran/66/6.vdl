@@ -1,0 +1,36 @@
+package soul.revelation.quran.66
+
+revelation 6 {
+    source "Al-Qur’an"
+    surah "At-Tahrim"
+    locator "66:6"
+    title "QS. At-Tahrim [66]:6"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَـٰٓئِكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ"
+    transliteration "Yā ayyuhallażīna āmanū qū anfusakum wa ahlīkum nāran waqūduhan-nāsu wal-ḥijārah, 'alaihā malā'ikatun gilāẓun syidādun lā ya'ṣūnallāha mā amarahum wa yaf'alūna mā yu'marūn."
+    translation "Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak durhaka kepada apa yang Allah perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Orang-orang yang membenarkan Allah dan Rasul-Nya serta menjalankan syariat-Nya diperintahkan menjaga diri dengan melaksanakan perintah Allah dan meninggalkan larangan-Nya. Mereka juga menjaga keluarga dengan cara yang sama dari api yang berbahan bakar manusia dan batu. Malaikat yang kuat serta keras dalam perlakuannya melaksanakan penyiksaan terhadap penghuni neraka, tidak menyalahi perintah Allah, dan menjalankan apa yang diperintahkan.
+
+        [Konteks pemakaian di dokumen: dirujuk pada ketaatan malaikat penjaga neraka; "immutable background service / hard-coded logic" adalah analogi framework; klaim tambahan tentang kapasitas batin malaikat memerlukan dalil tersendiri.]
+    }
+}
+
+audit_note sanad-6-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 66:6 + tafsirs/16/by_ayah/66:6). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Temuan penting: kutipan di dist
+        baris sekitar 632 mengandung tambahan "alladhīna hum min 'ibadihī"
+        yang TIDAK terdapat dalam ayat (AYAT_SALAH_KUTIP, perlu koreksi di
+        passage); potongan ayat yang sesuai mulai "lā ya'ṣūnallāha mā
+        amarahum". Klaim ketiadaan free will/nafs/qalb/niyyah malaikat tidak
+        dinyatakan ayat ini; eskalasi ke owner untuk penanganan passage.
+    }
+}

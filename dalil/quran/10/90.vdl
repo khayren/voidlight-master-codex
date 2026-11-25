@@ -1,0 +1,34 @@
+package soul.revelation.quran.10
+
+revelation 90 {
+    source "Al-Qur’an"
+    surah "Yunus"
+    locator "10:90"
+    title "QS. Yunus [10]:90"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "۞ وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ"
+    transliteration "Wa jāwaznā bi-banī isrā'īlal-baḥra fa-atba'ahum fir'aunu wa junūduhū bagyan wa 'adwan, ḥattā iżā adrakahul-garaqu qāla āmantu annahū lā ilāha illallażī āmanat bihī banū isrā'īla wa anā minal-muslimīn."
+    translation "Dan Kami selamatkan Bani Israil melintasi laut, kemudian Fir'aun dan bala tentaranya mengikuti mereka, untuk menzalimi dan menindas (mereka). Sehingga ketika Fir'aun hampir tenggelam dia berkata, \"Aku percaya bahwa tidak ada tuhan melainkan Tuhan yang dipercayai oleh Bani Israil, dan aku termasuk orang-orang muslim (berserah diri).\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah membawa Bani Israil menyeberangi laut hingga mereka berhasil melintasinya. Fir'aun dan tentaranya mengikuti mereka dengan kezaliman dan permusuhan, lalu menempuh laut di belakang mereka. Ketika tenggelam telah mengepung Fir'aun, ia menyatakan iman kepada Tuhan yang diimani Bani Israil dan mengaku termasuk orang yang bertauhid serta berserah diri dalam ketaatan.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pengakuan iman Fir'aun saat tenggelam (bersama 10:91); "frozen state/alignment engine" dan klaim hilangnya kapasitas menerima ampunan adalah analogi framework, bukan keterangan ayat atau tafsir.]
+    }
+}
+
+audit_note sanad-90-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 10:90 + tafsirs/16/by_ayah/10:90). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Ayat memuat pengakuan iman
+        Fir'aun saat tenggelam; penolakan ada pada ayat berikutnya (10:91).
+        Atribusi uraian ke Ibnu Katsir di dist dan klaim CORE QUOTES tentang
+        rusaknya kapasitas menerima ampunan tidak diverifikasi di batch ini.
+    }
+}

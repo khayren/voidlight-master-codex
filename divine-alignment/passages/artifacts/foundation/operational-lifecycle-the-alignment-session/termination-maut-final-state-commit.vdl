@@ -1,0 +1,71 @@
+package soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit
+
+revelation revelation-revelation {
+    body {
+    }
+}
+
+synthesis synthesis-proses-token-revocation-alignment-token-ruh-ditarik {
+    body {
+        Proses **Token Revocation**. Alignment Token (Ruh) ditarik kembali ke Allah. Hardware masuk fase Deprecation (kembali ke tanah).
+    }
+}
+
+revelation revelation-qs-az-zumar-39-42 {
+    cites [soul.revelation.quran.39.42, soul.revelation.hadith.bukhari.595, soul.revelation.hadith.bukhari.7471, soul.revelation.hadith.bukhari.6320, soul.revelation.hadith.muslim.2714a]
+    body {
+        QS. Az-Zumar [39]:42 —
+        > *"Allahu yatawaffal anfusa hina mautiha wallati lam tamut fi manamiha, fa yumsiku allati qada 'alaihal mauta wa yursilu ukhra ila ajalin musamma, inna fi dzalika la ayatil liqaumin yatafakkarun"*
+        > *(Allah memegang (menyempurnakan) jiwa-jiwa pada saat matinya dan (memegang) jiwa-jiwa yang belum mati di waktu tidurnya. Maka Dia menahan jiwa yang telah Dia tetapkan kematiannya dan melepaskan kembali jiwa yang lain sampai waktu yang sudah ditentukan. Sesungguhnya pada yang demikian itu terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir).*
+        >
+        > **Tafsir Ibnu Katsir:** Allah menjelaskan bahwa Dia-lah yang menyempurnakan jiwa seseorang ketika meninggal dunia, dan Dia juga memegang jiwa orang yang belum mati ketika mereka tidur. Ketika tidur, ruh manusia diangkat ke langit dan diberikan kehidupan di alam barzakh, lalu dikembalikan ke jasad sebelum bangun. Adapun yang sudah ditetapkan kematiannya, Allah menahan ruhnya dan tidak mengembalikannya — inilah kematian yang sesungguhnya.
+        >
+        > **Hadits pendukung:** HR. Bukhari no. 595, dari Abu Qatadah — konteksnya rombongan yang tertidur di perjalanan malam hingga terlewat shalat Subuh. Nabi SAW menjelaskan:
+        > *"Innallaha qabaḍa arwāḥakum ḥīnā syā'a, wa raddahā 'alaikum ḥīnā syā'a."*
+        > *(Sesungguhnya Allah menangkap ruh kalian saat Dia menghendaki, dan mengembalikannya kepada kalian saat Dia menghendaki.)*
+        Dan doa ketika hendak tidur, HR. Bukhari no. 6320 dan Muslim no. 2714a, dari Abu Hurairah:
+        > *"Bismika Rabbi waḍa'tu jambi, wa bika arfa'uhu. In amsakta nafsi farḥamhā (Muslim: fa-aghfir lahā), wa in arsaltahā faḥfaẓhā bimā taḥfazu bihi 'ibādakash-shāliḥīn."*
+        > *(Dengan nama-Mu ya Rabb aku meletakkan sisiku, dan dengan-Mu aku mengangkatnya. Jika Engkau menahan jiwaku, maka rahmatilah ia (Muslim: ampunilah ia); dan jika Engkau melepaskannya, maka peliharalah ia sebagaimana Engkau memelihara hamba-hamba-Mu yang salih.)*
+        >
+        > [Catatan audit 2026-11-15: auditor batch 6 (matn verbatim di module dalil/hadith/bukhari/6320.vdl dan muslim/2714a.vdl, keduanya SAHIH_TERVERIFIKASI HIGH) — kutipan komparatif di atas menggabungkan pembuka Bukhari ("Bismika Rabbi waḍa'tu jambi... farḥamhā") dengan varian Muslim ("faghfir lahā"); varian Muslim 2714a juga berbeda pembuka: "Subḥānakallāhumma Rabbī bika waḍa'tu jambī". Gabungan boleh dipakai sebagai perbandingan varian, tetapi jangan disimpan sebagai matn verbatim satu kitab.]
+
+        [Catatan pemakaian: konsep "tidur = minor death" bertumpu pada QS. 39:42 (Al-Muyassar: kematian kecil) dan pasangan hadits di atas (ruh ditahan/dikembalikan saat tidur). Tidak ada dalil yang menyatakan malaikat menerima ruh saat tidur atau memberitahukan ketetapan — unsur itu tidak lagi digunakan.]
+    }
+}
+
+audit_note sanad-re-audit-2026-11-15 {
+    auditor "sanad-auditor (re-audit Task B, owner decision)"
+    date "2026-11-15"
+    body {
+        Kutipan lama "Allah menyerahkan urusan ruh-ruh kalian ke tangan malaikat...
+        malaikat menerima ruh kalian dan memberitahukan apa yang sudah
+        ditetapkan" dengan atribusi Bukhari-Muslim: TIDAK_TERVERIFIKASI dan
+        ATRIBUSI_SALAH (re-audit 2026-11-15: tidak ditemukan di Bukhari 595,
+        7471, Muslim 681, maupun varian Ahmad/al-Bayhaqi/Ibnu Hibban via
+        dorar.net; unsur malaikat-menjaga yang ditemukan — al-Hakim
+        al-Mustadrak 2037 — fungsinya menjaga, bukan menerima ruh).
+        Owner memilih penggantian: lafaz Bukhari 595/7471 dari Abu Qatadah
+        sebagai dalil utama + doa tidur Bukhari 6320 & Muslim 2714a sebagai
+        pelengkap; unsur malaikat dan pemberitahuan ketetapan dihapus dari
+        kutipan. Perbedaan lafaz antar kitab dicatat: Bukhari "farḥamhā",
+        Muslim "fa-aghfir lahā". Teks Arab diverifikasi verbatim dari
+        sunnah.com.
+    }
+}
+
+revelation revelation-hadits-riwayat-bukhari-no-3321-dan-muslim {
+    cites [soul.revelation.hadith.bukhari.3321, soul.revelation.hadith.muslim.2245]
+    body {
+        Hadits riwayat Bukhari no. 3321 dan Muslim no. 2245, dari Abu Hurairah — Nabi SAW bersabda:
+        > *"...Allah mengampuni seorang pelacur karena dia memberi minum seekor anjing yang kehausan."*
+        > *(Ringkasan: Allah mengampuni seorang pelacur yang akumulasi dosanya sangat besar, bukan karena amal shalih yang besar, tapi karena kemurnian hati dalam satu momen kebaikan yang tulus).*
+        >
+        > **Syarah Hadits (Fathul Bari & Syarah Muslim):** Hadits ini adalah salah satu bukti paling kuat bahwa **final state qalb lebih menentukan daripada akumulasi amal masa lalu** — seorang pelacur yang akumulasi dosanya sangat besar diampuni oleh Allah bukan karena amal shalih yang besar, tapi karena kemurnian hati dalam satu momen kebaikan yang tulus. Imam Ibnu Hajar Al-Asqalani dalam Fathul Bari menjelaskan bahwa wanita ini melakukan satu perbuatan kebaikan yang murni — tanpa riya', tanpa pamrih, tanpa mengharap balasan manusia — dan di dalam momen itu, hatinya berada dalam kondisi yang sangat bersih sehingga Allah mengampuni segala dosanya. Ini secara langsung mendukung konsep framework alignment: **bukan jumlah transaksi amal yang menentukan, tapi state qalb pada saat amal dilakukan.**
+    }
+}
+
+analogy analogy-termination-final-state-commit-ke-immutable {
+    body {
+        Termination = final state commit ke immutable database (Lauhul Mahfuzh). State tidak bisa diubah setelah commit. Node dengan Qalb Salim = committed dalam state aligned. Node dengan Qalb Aghlaf = committed dalam state drifted.
+    }
+}

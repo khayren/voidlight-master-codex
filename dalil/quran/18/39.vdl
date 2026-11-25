@@ -1,0 +1,37 @@
+package soul.revelation.quran.18
+
+revelation 39 {
+    source "Al-Qur’an"
+    surah "Al-Kahfi"
+    locator "18:39"
+    title "QS. Al-Kahfi [18]:39"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًا وَوَلَدًا"
+    transliteration "Wa lawlā iż dakhalta jannataka qulta mā syā'allāhu lā quwwata illā billāh, in tarani ana aqalla minka mālan wa waladā."
+    translation "Dan mengapa ketika engkau memasuki kebunmu tidak mengucapkan \"Māsyā Allāh, lā quwwata illā billāh\" (Sungguh, atas kehendak Allah, semua ini terwujud), tidak ada kekuatan kecuali dengan (pertolongan) Allah, sekalipun engkau anggap harta dan keturunanku lebih sedikit daripadamu."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Pemilik kebun dinasihati agar ketika memasuki dan mengagumi kebunnya ia memuji Allah serta mengakui bahwa nikmat itu terwujud atas kehendak Allah dan tidak diperoleh dengan kekuatannya sendiri tanpa pertolongan-Nya. Dalam penjelasan gabungan untuk ayat 39-41, temannya yang lebih sedikit harta dan anak menyatakan harapan agar Allah memberinya sesuatu yang lebih baik daripada kebun tersebut. Penjelasan itu juga menyebut kemungkinan dicabutnya nikmat karena kekufuran pemiliknya, melalui bencana dari langit atau hilangnya air ke dalam tanah sehingga tidak dapat diperoleh kembali.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pengakuan nikmat dan ketergantungan pada pertolongan Allah (bersama Bukhari 4205); istilah "husnul 'azhir" tidak ada di sumber dan arsitektur niat-kasb di dokumen adalah sintesis framework.]
+    }
+}
+
+audit_note sanad-39-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri dan identik dengan raw
+        JSON; terjemahan Kemenag RI (resource 33) dan Al-Tafsir al-Muyassar
+        (resource 16) dari api.quran.com (verses/by_key 18:39 +
+        tafsirs/16/by_ayah/18:39). Verdict AYAT_TERVERIFIKASI, konfidensi
+        HIGH. Catatan: respons Muyassar mencakup 18:39-41 sehingga ancaman
+        kerusakan kebun adalah konteks gabungan, bukan seluruhnya lafaz
+        18:39; klaim dist tentang pembatasan hisab hanya pada niat tidak
+        ditemukan dalam teks tafsir ini (eskalasi ke owner bila dipertahankan
+        untuk publikasi); hadis Bukhari 4205 dan atribusi Ibnu Katsir belum
+        diverifikasi di batch ini.
+    }
+}

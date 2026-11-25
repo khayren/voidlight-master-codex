@@ -1,0 +1,16 @@
+package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols
+
+artifact jamaah-alignment-mesh-network {
+    title "Jamaah — Alignment Mesh Network"
+    passages [
+        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.jamaah-alignment-mesh-network.synthesis-individual-node-yang-sync-bareng-create-temporary,
+        prose {
+            - **Imam** = designated primary node / reference node — alignment reference implementation
+            - **Jamaah** = mesh network. Kalau imam fully present → field effect bonus untuk semua node
+            - **Risk:** Dependency pattern. Healthy jamaah = imam sebagai *reference implementation*, bukan *proxy server* yang menggantikan personal alignment
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §13.4
+    }
+}

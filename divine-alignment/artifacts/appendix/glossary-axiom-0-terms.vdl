@@ -1,0 +1,35 @@
+package soul.alignment.appendix
+
+artifact glossary-axiom-0-terms {
+    title "GLOSSARY: AXIOM 0 TERMS"
+    cites [soul.revelation.quran.55.26, soul.revelation.quran.7.172]
+    body {
+        > Rujukan v5.0.7: §E
+
+        | Term | Definition | Axiom Reference |
+        |------|-----------|-----------------|
+        | **Wujud Wajib** | Eksistensi yang necessary karena Dzat-Nya sendiri; tidak butuh apapun untuk eksis; tidak binasa | 0.1 |
+        | **Wujud Mumkin** | Eksistensi yang contingent, diberi/dipinjamkan, butuh Source untuk eksis; faan (binasa/sementara) | 0.1 |
+        | **Amr** | Input class instan dari Allah (kun fayakun); non-material; beda dari Khalq (proses bertahap) | 0.3 |
+        | **Khalq** | Proses penciptaan bertahap, material, observable | 0.3 |
+        | **Al-Muzh-hir** | Allah, Yang Menyebabkan Sesuatu Berwujud — subjek af'al (perbuatan) Allah | 0.5 |
+        | **Mahall azh-Zhuhur** | Lokasi/tempat terjadinya perwujudan — objek, makhluk, bukan bagian dari Dzat Allah | 0.5 |
+        | **Wujud Majazi** | Eksistensi yang terjadi di mahall; hasil af'al Allah, bukan Dzat-Nya | 0.5 |
+        | **Kasb** | Acquisition — manusia "memperoleh" perbuatan sebagai locus of attribution tanpa jadi sumber daya cipta | 0.6 |
+        | **Khalq al-Af'al** | Allah yang mencipta setiap perbuatan, termasuk voluntary manusia; Kun sepenuhnya milik Allah | 0.6 |
+        | **Niyyah (as locus of hisab)** | Titik genuine agency; arah condong dipilih di sini; hisab jatuh di titik ini | 0.7 |
+        | **Iradah Juz'iyyah** | Kehendak parsial yang genuinely milik manusia; hanya ada di titik niyyah | 0.7 |
+        | **La Quwwata Illa Billah** | Tidak ada kekuatan kecuali dengan Allah — action 100% daya Allah | 0.6–0.7 |
+        | **Faan** | Binasa/sementara — sifat wujud mumkin (QS. Ar-Rahman [55]:26) | 0.1–0.2 |
+        | **Sustain Signal** | Refresh eksistensi per tick dari Wujud Wajib ke Wujud Mumkin | 0.2 |
+        | **Mitsaq Alast** | Provisioning handshake record (QS. Al-A'raf [7]:172): prompt issuer-initiated (alastu bi-rabbikum), response testimony per-node (bala syahidna); tersimpan sebagai fitrah dan menjadi audit log yang memvalidasi hisab | 0.8 |
+        | **Alam al-Dzarr** | Fase pemunculan dzurriyyat dari zhuhurihim; modality tidak dispesifikasi — ruh = Amr class, "sebelum" = prioritas ontologis, bukan timeline material | 0.8 |
+        | **Dzikr (re-acknowledgment)** | Re-pengakuan terhadap record Mitsaq Alast — re-send acknowledgment primordial, bukan akuisisi informasi baru | 0.8, 13.1 |
+        | **Taqdir Mubram** | Ketetapan firm yang tidak bisa diubah (ajal, orang tua, mukjizat); status flag immutable di dalam qadar | 1.3, 7.1 |
+        | **Taqdir Mu'allaq** | Ketetapan kondisional "jika X maka Y" — port yang terbuka menurut kondisi; realisasinya tergantung sebab dan pilihan | 1.3, 7.1 |
+        | **Qada (konvensi dokumen ini)** | Dekrit yang beroperasi dan terlaksana — realized path; bukan ruang kemungkinan (ruang kemungkinan = lapisan mu'allaq di dalam qadar) | 1.3, 7.1 |
+        | **Qadar (konvensi dokumen ini)** | Takaran yang tertulis di Lauhul Mahfuzh — node config per individu, berisi mubram dan mu'allaq | 1.3, 7.1 |
+
+        ---
+    }
+}

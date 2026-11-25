@@ -1,0 +1,21 @@
+package soul.alignment.appendix
+
+artifact core-quotes-updated {
+    title "CORE QUOTES (Updated)"
+    cites [soul.revelation.quran.10.91]
+    body {
+        > Rujukan v5.0.7: §B
+
+        > *"The purpose of Islam is maintaining Divine Alignment. Not transaction. Not reward-chasing. But an architecture where the heart is oriented toward Allah as Al-Haqq, Al-Mabda', Al-Muntaha."*
+
+        > *"Allah tidak berpindah — kita yang berpindah orientasi. Memahami hakikat wujud (wajib vs mumkin, per Axiom 0) dan menyelaraskan qalb ke arah Allah bukan dua tujuan terpisah — yang kedua adalah konsekuensi hidup dari yang pertama. Firewall yang menurun = alignment yang terbuka."*
+
+        > *"Ibadah gak akan pernah cukup untuk membalas apa yang Allah kasih ke manusia. Yang Allah minta bukan repayment — itu impossible. Yang Allah minta adalah alignment integrity: heart yang aligned enough untuk recognize the Source when token revoked."*
+
+        > *"Pendosa yang hancur dan tulus meminta maaf lebih baik daripada orang suci yang merasa paling benar — karena yang satu sedang realign, yang satu sedang drift."*
+
+        > *"Syirik tidak diampuni bukan karena Allah nggak mau — tapi karena kapasitas manusia untuk menerima ampunan (alignment signal) itu bisa rusak. Firaun adalah kasus total loss."* [^Lihat Section 10.3 "Why Firaun's Tobat Wasn't Accepted" — dalil langsung: QS. Yunus [10]:91.]* [Catatan audit 2026-11-15: auditor batch 5 (teks 10:90 dan 10:91 terverifikasi di module dalil/quran/10/90.vdl dan 10/91.vdl, AYAT_TERVERIFIKASI HIGH) — klaim "kapasitas menerima ampunan rusak" TIDAK ditetapkan oleh teks ayat atau Al-Muyassar; ayat 10:90 memuat pengakuan iman Fir'aun saat tenggelam dan 10:91 teguran "mengapa baru sekarang"; rumusan kapasitas/total loss adalah konstruksi dokumen di atas kedua ayat, dibaca bersama tafsir Ibnu Katsir yang atribusinya belum diverifikasi di batch tersebut.]
+
+        > *"Secure by alignment = tiada defense yang diperlukan terhadap ego attacks. Bukan karena node kuat, tapi karena arsitekturnya single-target — tiada port buat ego."*
+    }
+}

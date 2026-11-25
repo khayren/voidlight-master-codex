@@ -1,0 +1,33 @@
+package soul.revelation.quran.114
+
+revelation 5-6 {
+    source "Al-Qur’an"
+    surah "An-Nas"
+    locator "114:5-6"
+    title "QS. An-Nas [114]:5-6"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
+    transliteration "Allażī yuwaswisu fī ṣudūrin-nās. Minal-jinnati wan-nās."
+    translation "yang membisikkan (kejahatan) ke dalam dada manusia, dari (golongan) jin dan manusia.\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Pembisik menyebarkan keburukan dan keraguan ke dalam dada manusia. Pembisik tersebut dapat berasal dari setan golongan jin, dan juga dapat berasal dari setan golongan manusia.
+
+        [Konteks pemakaian di dokumen: dirujuk pada setan yang membisikkan kejahatan; cakupan pelaku jin DAN manusia — jangan dipersempit jadi jin saja saat dipakai untuk analogi gangguan/input adversarial.]
+    }
+}
+
+audit_note sanad-5-6-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks kedua ayat diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 114:5 dan 114:6, Al-Tafsir al-Muyassar (resource 16)
+        dari tafsirs/16/by_ayah 114:5 dan 114:6 (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Tanda petik penutup pada akhir
+        terjemahan ayat 6 adalah bagian hasil fetch, dipertahankan verbatim.
+        Ayat 6 mencakup jin dan manusia, tidak hanya jin.
+    }
+}

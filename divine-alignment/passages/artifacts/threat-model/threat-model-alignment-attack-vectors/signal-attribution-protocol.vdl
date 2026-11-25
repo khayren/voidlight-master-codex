@@ -1,0 +1,13 @@
+package soul.alignment.threat-model.threat-model-alignment-attack-vectors.signal-attribution-protocol
+
+synthesis synthesis-qalb-yang-mariidh-sebuah-wujud-mumkin {
+    body {
+        Qalb yang Mariidh — sebuah wujud mumkin (per 0.1) yang sustain signal-nya masih aktif (per 0.2) tapi filter-nya corrupted — nggak bisa bedain mana suara nafsu sendiri, mana bisikan setan, mana Divine Signal. Semua dibaca sebagai "suara diri sendiri." Framework alignment memerlukan **Signal Attribution Protocol** — kemampuan node untuk mengklasifikasikan sumber signal.
+    }
+}
+
+analogy analogy-signal-attribution-adalah-packet-tracing-node-harus {
+    body {
+        Signal attribution adalah *packet tracing*: node harus bisa trace sumber setiap "thought" atau "desire" yang muncul. Bukan "ini dari Allah atau dari setan?" yang oversimplified — tapi "signal ini mendekatkan ke Allah atau menjauhkan?"
+    }
+}

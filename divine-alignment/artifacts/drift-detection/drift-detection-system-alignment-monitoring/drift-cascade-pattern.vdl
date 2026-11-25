@@ -1,0 +1,14 @@
+package soul.alignment.drift-detection.drift-detection-system-alignment-monitoring
+
+artifact drift-cascade-pattern {
+    title "Drift Cascade Pattern"
+    passages [
+        soul.alignment.drift-detection.drift-detection-system-alignment-monitoring.drift-cascade-pattern.analogy-step-1-minor-ego-bruise-auto-defensive,
+        prose {
+            **Key Insight:** Drift bisa di-detect dan di-interrupt di **setiap checkpoint.** Firaun adalah kasus di mana *zero intervention* terjadi — bukan karena nggak ada kesempatan, tapi karena **dia sendiri yang nolak setiap alignment signal.**
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §9.2
+    }
+}

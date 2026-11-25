@@ -1,0 +1,103 @@
+package soul.alignment.appendix
+
+artifact dalil-references {
+    title "DALIL REFERENCES"
+    cites [
+        soul.revelation.quran.17.85,
+        soul.revelation.quran.32.9,
+        soul.revelation.quran.39.42,
+        soul.revelation.quran.26.88-89,
+        soul.revelation.quran.2.7,
+        soul.revelation.quran.2.102,
+        soul.revelation.quran.72.1,
+        soul.revelation.quran.30.30,
+        soul.revelation.quran.7.172-173,
+        soul.revelation.quran.51.56,
+        soul.revelation.quran.2.285,
+        soul.revelation.quran.82.10-11,
+        soul.revelation.quran.29.45,
+        soul.revelation.quran.91.9-10,
+        soul.revelation.quran.2.156,
+        soul.revelation.quran.6.44,
+        soul.revelation.quran.2.286,
+        soul.revelation.quran.114.5-6,
+        soul.revelation.quran.94.5-6,
+        soul.revelation.quran.66.6,
+        soul.revelation.hadith.bukhari.1,
+        soul.revelation.quran.10.91,
+        soul.revelation.quran.20.14,
+        soul.revelation.quran.17.100,
+        soul.revelation.hadith.muslim.1907,
+        soul.revelation.hadith.muslim.2653,
+        soul.revelation.hadith.bukhari.3321,
+        soul.revelation.hadith.muslim.2245,
+        soul.revelation.hadith.bukhari.2272,
+        soul.revelation.hadith.muslim.2743,
+        soul.revelation.hadith.bukhari.4981,
+        soul.revelation.hadith.muslim.152,
+        soul.revelation.hadith.bukhari.595,
+        soul.revelation.hadith.bukhari.7471,
+        soul.revelation.hadith.bukhari.6320,
+        soul.revelation.hadith.muslim.2714a,
+        soul.revelation.hadith.ibnmajah.4216,
+        soul.revelation.quran.2.183,
+        soul.revelation.quran.2.236,
+        soul.revelation.quran.7.172,
+        soul.revelation.quran.8.17,
+        soul.revelation.quran.9.104,
+        soul.revelation.quran.10.90,
+        soul.revelation.quran.11.44,
+        soul.revelation.quran.13.28,
+        soul.revelation.quran.18.39,
+        soul.revelation.quran.20.115,
+        soul.revelation.quran.21.33,
+        soul.revelation.quran.25.2,
+        soul.revelation.quran.32.7,
+        soul.revelation.quran.32.7-9,
+        soul.revelation.quran.35.16-17,
+        soul.revelation.quran.36.82,
+        soul.revelation.quran.37.96,
+        soul.revelation.quran.42.27,
+        soul.revelation.quran.50.15,
+        soul.revelation.quran.55.26,
+        soul.revelation.quran.55.26-27,
+        soul.revelation.quran.55.33,
+        soul.revelation.quran.107.4-5,
+        soul.revelation.quran.112.1-4,
+        soul.revelation.quran.114.5,
+        soul.revelation.hadith.bukhari.773,
+        soul.revelation.hadith.bukhari.99,
+        soul.revelation.hadith.bukhari.4205
+    ]
+    body {
+        > Rujukan v5.0.7: §C
+
+        | Konsep | Dalil |
+        |---|---|
+        | Ruh dari Allah | QS. Al-Isra [17]:85, QS. As-Sajdah [32]:9 |
+        | Tidur = minor death | QS. Az-Zumar [39]:42, Hadits Bukhari-Muslim |
+        | Qalb sebagai determinen | QS. Asy-Syu'ara [26]:88-89, QS. Al-Baqarah [2]:7 |
+        | Final state > accumulated amal | Hadits Pelacur (Bukhari 3321, Muslim 2245) |
+        | Doa dengan amal saleh | Hadits Tiga Orang Gua (Bukhari-Muslim) |
+        | Jin & Sihir | QS. Al-Baqarah [2]:102, QS. Al-Jinn [72]:1 |
+        | Fitrah | QS. Ar-Rum [30]:30 |
+        | Mitsaq Alast (handshake fitrah) | QS. Al-A'raf [7]:172-173, riwayat Ibnu Abbas (Musnad Ahmad; catatan audit 2026-10-26) |
+        | Tujuan penciptaan: ibadah | QS. Adz-Dzariyat [51]:56 |
+        | Kepada Allah kembalinya | QS. Al-Baqarah [2]:285, 2:156 |
+        | Malaikat sebagai penjaga | QS. Al-Infitar [82]:10-11 |
+        | Sholat mencegah keji & munkar | QS. Al-Ankabut [29]:45 |
+        | Tazkiyah | QS. Asy-Syams [91]:9-10 |
+        | Inna lillahi wa inna ilaihi raji'un | QS. Al-Baqarah [2]:156 |
+        | Istidraj | QS. Al-An'am [6]:44 |
+        | Allah tidak membebani | QS. Al-Baqarah [2]:286 |
+        | Setan membisikkan kejahatan | QS. An-Nas [114]:5-6 |
+        | Sesudah kesulitan ada kemudahan | QS. Al-Insyirah [94]:5-6 |
+        | Malaikat taat | QS. At-Tahrim [66]:6 |
+        | Niat menentukan amal | HR. Bukhari no. 1, Muslim |
+        | Firaun tobat ditolak | QS. Yunus [10]:91 |
+        | Mukjizat Nabi | HR. Bukhari & Muslim |
+        | Tidak ada tuhan selain Allah | QS. Taha [20]:14 |
+        | Takdir 50.000 tahun | HR. Muslim |
+        | Rezeki dan melampaui batas | QS. Al-Isra [17]:100 |
+    }
+}

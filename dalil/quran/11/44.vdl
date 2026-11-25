@@ -1,0 +1,36 @@
+package soul.revelation.quran.11
+
+revelation 44 {
+    source "Al-Qur’an"
+    surah "Hud"
+    locator "11:44"
+    title "QS. Hud [11]:44"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ"
+    transliteration "Wa qīla yā arḍubla'ī mā'aki wa yā samā'u aqli'ī wa ghīḍal-mā'u wa quḍiyal-amru wastawat 'alal-jūdiyyi wa qīla bu'dal lil-qaumiẓ-ẓālimīn."
+    translation "Dan difirmankan, \"Wahai bumi! Telanlah airmu dan wahai langit (hujan!) berhentilah.\" Dan air pun disurutkan, dan perintah pun diselesaikan,<sup foot_note=135351>1</sup> dan kapal itu pun berlabuh di atas gunung Judi,<sup foot_note=135352>2</sup> dan dikatakan, \"binasalah orang-orang zalim.\""
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Setelah kebinasaan kaum Nuh, Allah memerintahkan bumi menyerap airnya dan langit menghentikan hujan. Air berkurang dan surut, serta terlaksanalah ketetapan Allah mengenai kebinasaan kaum Nuh. Kapal berlabuh di Gunung Judi, dan dinyatakan kebinasaan serta kejauhan bagi kaum zalim yang melampaui batas-batas Allah dan tidak beriman kepada-Nya.
+
+        [Konteks pemakaian di dokumen: dirujuk pada selesainya peristiwa banjir dan terlaksananya ketetapan ("wa quḍiyal-amru", bersama 25:2); "termination event" adalah analogi framework.]
+    }
+}
+
+audit_note sanad-44-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri dan identik dengan raw
+        JSON; terjemahan Kemenag RI (resource 33) dan Al-Tafsir al-Muyassar
+        (resource 16) dari api.quran.com (verses/by_key 11:44 +
+        tafsirs/16/by_ayah/11:44). Verdict AYAT_TERVERIFIKASI, konfidensi
+        HIGH. Anomali: kata "wamil" yang disebut di dist TIDAK terdapat dalam
+        lafaz ayat; perintahnya ibla'ī dan aqli'ī, bagian yang dirujuk dist
+        adalah "wa quḍiyal-amru". Tag catatan kaki HTML terjemahan API
+        dipertahankan verbatim. Konvensi teknis qada-qadar di dist dan ayat
+        pendamping 25:2 tidak diverifikasi di batch ini.
+    }
+}

@@ -1,0 +1,15 @@
+package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols
+
+artifact transmutasi-fuel-redirect-protocol {
+    title "Transmutasi: Fuel Redirect Protocol"
+    cites [soul.revelation.quran.2.156]
+    includes [soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.redirect-vs-deny, soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.the-redirect-mechanism]
+    passages [
+        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.synthesis-tazkiyah-adalah-quarantine-delete-noise,
+        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.revelation-qs-al-baqarah-2-156,
+        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.revelation-ayat-ini-adalah-ownership-dissolution-command-yang
+    ]
+    body {
+        > Rujukan v5.0.7: §13.5
+    }
+}

@@ -1,0 +1,39 @@
+package soul.revelation.quran.42
+
+revelation 27 {
+    source "Al-Qur’an"
+    surah "Asy-Syura"
+    locator "42:27"
+    title "QS. Asy-Syura [42]:27"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "۞ وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ"
+    transliteration "Wa law basaṭallāhur-rizqa li'ibādihī labaghau fil-arḍi wa lākin yunazzilu biqadarin mā yasyā'u, innahū bi'ibādihī khabīrun baṣīr."
+    translation "Dan sekiranya Allah melapangkan rezeki kepada hamba-hamba-Nya niscaya mereka akan berbuat melampaui batas di bumi, tetapi Dia menurunkan dengan ukuran yang Dia kehendaki. Sungguh, Dia Mahateliti terhadap (keadaan) hamba-hamba-Nya, Maha Melihat."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Seandainya Allah melapangkan rezeki hamba-hamba-Nya secara berlebihan, mereka akan melampaui batas di bumi karena keangkuhan dan kesombongan; sebagian mereka akan bertindak sewenang-wenang terhadap sebagian lainnya. Namun, Allah menurunkan rezeki menurut ukuran yang Dia kehendaki untuk mencukupi mereka. Dia mengetahui apa yang membawa kebaikan bagi hamba-hamba-Nya dan Maha Melihat dalam mengatur serta mengarahkan keadaan mereka.
+
+        [Konteks pemakaian di dokumen: dirujuk pada istidraj — kelapangan rezeki yang berlebihan memicu melampaui batas; terminologi Qalb/tier/drift adalah analogi atau sintesis framework.]
+    }
+}
+
+audit_note sanad-27-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri (dua kali: tracing dan
+        fetch verbatim); terjemahan Kemenag RI (resource 33) dan Al-Tafsir
+        al-Muyassar (resource 16) dari api.quran.com (verses/by_key 42:27 +
+        tafsirs/16/by_ayah/42:27). Verdict AYAT_TERVERIFIKASI, konfidensi
+        HIGH. File ini dibuat sebagai koordinat pengganti dalam koreksi
+        passage istidraj (scenario-b): kutipan lama yang dinisbatkan ke
+        QS. Al-Isra 17:100 terbukti AYAT_SALAH_KUTIP — hasil tracing auditor:
+        parafrase tidak presisi dengan kemungkinan pencampuran ungkapan
+        Quran, kandidat terverifikasi terdekat 42:27 (makna bagian pertama
+        cocok; Ibnu Katsir di konteks 42:27 mendukung inti argumen
+        baghy/thughyan). Ibnu Katsir 42:27 juga menyebut kelapangan berlebihan
+        membawa pada al-baghy wa al-thughyan.
+    }
+}

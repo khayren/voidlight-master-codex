@@ -1,0 +1,37 @@
+package soul.revelation.quran.2
+
+revelation 117 {
+    source "Al-Qur’an"
+    surah "Al-Baqarah"
+    locator "2:117"
+    title "QS. Al-Baqarah [2]:117"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ"
+    transliteration "Badī'u as-samāwāti wa al-arḍi, wa iżā qaḍā amran fa innamā yaqūlu lahu kun fa yakūn."
+    translation "(Allah) Pencipta langit dan bumi. Apabila Dia hendak menetapkan sesuatu, Dia hanya berkata kepadanya, \"Jadilah!\" Maka jadilah sesuatu itu."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah Ta'ala adalah pencipta langit dan bumi tanpa contoh yang mendahuluinya. Apabila Dia menetapkan suatu perkara dan menghendaki keberadaannya, Dia cukup berfirman kepadanya: "Kun" (jadilah), maka terjadilah.
+
+        [Konteks pemakaian di dokumen: ayat ini dirujuk di passage "amr sebagai input class, bukan substance transfer" (Axiom Zero) melalui tafsir Ibnu Katsir; metafora "input class" adalah analogi penulis, bukan istilah ayat atau tafsir.]
+    }
+}
+
+audit_note sanad-117-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar
+        (resource 16). Verdict AYAT_TERVERIFIKASI, konfidensi MEDIUM
+        (verifikasi dari material API yang dilampirkan, tanpa re-fetch).
+        Catatan auditor: Al-Muyassar mendukung penciptaan tanpa contoh
+        sebelumnya dan terwujudnya sesuatu sesuai ketetapan dan kehendak
+        Allah; atribusi tafsir di passage tetap pada Ibnu Katsir dan tidak
+        diverifikasi ulang di sini. Anomali tipografis pada API tafsir
+        (penumpukan harakat pada "qaddara") tidak mengubah lafaz ayat.
+        Makki per konteks (bagian akhir Al-Baqarah).
+        Sumber: api.quran.com verses/by_key 2:117 + tafsirs/16 (Al-Muyassar).
+    }
+}

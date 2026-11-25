@@ -1,0 +1,49 @@
+package soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun
+
+revelation revelation-qs-al-anfal-8-17 {
+    cites [soul.revelation.quran.8.17]
+    body {
+        QS. Al-Anfal [8]:17 —
+        > *"Falam taqtuluhum wa lakinnallaha qatalahum, wa ma ramaita idz ramaita wa lakinnallaha rama, wa li yubliya al-mu'minina minhu balaan hasanan, innallaha sami'un 'alim"*
+        > *(Maka (sebenarnya) bukan kamu yang membunuh mereka, melainkan Allah yang membunuh mereka, dan bukan engkau yang melempar ketika engkau melempar, tetapi Allah yang melempar. (Allah berbuat demikian untuk membinasakan mereka) dan untuk memberi kemenangan kepada orang-orang mukmin, dengan kemenangan yang baik. Sungguh, Allah Maha Mendengar, Maha Mengetahui).*
+        >
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menolong orang-orang beriman menghadapi kaum musyrik pada hari Badar. Nabi melakukan lemparan, sedangkan Allah menyampaikan lemparan itu kepada wajah-wajah kaum musyrik. Melalui jihad, Allah menguji orang-orang beriman, mengangkat derajat mereka, dan memperkenalkan nikmat-Nya agar mereka bersyukur. Allah mendengar doa serta perkataan yang tersembunyi maupun terbuka dan mengetahui apa yang membawa kebaikan bagi hamba-Nya.
+        >
+        > **Tafsir Ibnu Katsir (tertelusur via tafsirs/14, ringkas):** Ibnu Katsir membuka penjelasan ayat ini dengan menegaskan bahwa Allah adalah pencipta perbuatan para hamba serta pemberi taufik dan pertolongan bagi kebaikan mereka («يبيّن تعالى أنه خالق أفعال العباد، وأنه المحمود على جميع ما صدر عنهم من خير»). Dalam konteks Badar, ia menyebut pelemparan segenggam tanah dan menjelaskan bahwa Allah yang menyampaikannya kepada orang-orang musyrik serta menundukkan mereka dengannya («فأوصل الله تلك الحصباء إلى أعين المشركين»); ia menukil riwayat bahwa tanah itu mengenai mata seluruh musyrik (sanad nukilan belum diaudit mandiri). Ia juga menilai pengaitan ayat dengan Khaibar dan Uhud sangat ganjil dan menegaskan konteksnya adalah Badar.
+        >
+        > [Catatan audit 2026-11-15 (penanganan doktrinal): verifikasi Ibnu Katsir via tafsirs/14 oleh auditor terpisah — atribusi khalq al-af'al TERTERVERIFIKASI (eksplisit dalam teks); istilah kasb, "locus of attribution", dan label kalam Asy'ari TIDAK ditemukan dalam teksnya dan tetap dipertahankan di blok SYNTHESIS sebagai rumusan framework/mazhab. Terjemahan kutipan diselaraskan ke Kemenag resource 33 verbatim (module dalil/quran/8/17.vdl, auditor batch 4).]
+    }
+}
+
+revelation revelation-qs-as-saffat-37-96 {
+    cites [soul.revelation.quran.37.96]
+    body {
+        QS. As-Saffat [37]:96 —
+        > *"Wallahu khalaqakum wa ma ta'malun"*
+        > *(padahal Allah lah yang menciptakan kamu dan apa yang kamu perbuat).*
+        >
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Ibrahim menghadapi kaumnya dengan teguh dan mempertanyakan penyembahan mereka kepada berhala. Berhala-berhala itu mereka pahat dan buat sendiri dengan tangan mereka. Ia menegur mereka karena meninggalkan penyembahan kepada Tuhan yang menciptakan mereka dan menciptakan perbuatan mereka.
+        >
+        > **Tafsir Ibnu Katsir (tertelusur via tafsirs/14, ringkas):** Ibnu Katsir menyebut dua kemungkinan pemaknaan "ma": mashdariyyah, dengan makna "Allah menciptakan kalian dan perbuatan kalian", atau bermakna "yang", yakni "Allah menciptakan kalian dan apa yang kalian kerjakan"; ia menilai kedua pendapat itu saling berkaitan dan yang pertama lebih jelas («وكلا القولين متلازم، والأول أظهر»). Ia juga menukil riwayat dari Hudzaifah: "Sesungguhnya Allah membuat setiap pembuat beserta apa yang dibuatnya" («إن الله يصنع كل صانع وصنعته»), dinukil dalam kitab af'al al-'ibad al-Bukhari — bukan klaim bahwa hadits itu berada dalam Shahih al-Bukhari.
+        >
+        > [Catatan audit 2026-11-15 (penanganan doktrinal): verifikasi Ibnu Katsir via tafsirs/14 — atribusi pembahasan penciptaan perbuatan TERTERVERIFIKASI (SEBAGIAN: eksplisit pada analisis "ma" dan nukilan hadits); istilah kasb, identifikasi Asy'ari, dan rincian "kemampuan-bahan-hasil" TIDAK ada dalam teks — tetap di blok SYNTHESIS. Ayat ini teguran Ibrahim tentang berhala (Al-Muyassar), bukan kisah pelemparan. Terjemahan diselaraskan ke Kemenag resource 33 verbatim (module dalil/quran/37/96.vdl, auditor batch 5).]
+    }
+}
+
+synthesis synthesis-posisi-kalam-framework-kasb-khalq-afal {
+    body {
+        [Posisi doktrinal framework — deklarasi eksplisit, dengan basis tekstual tertelusur:] Framework ini mengambil posisi kerja kalam Asy'ari: perbuatan makhluk adalah ciptaan Allah (khalq al-af'al), sementara perbuatan itu dikasbkan — diatribusikan — kepada manusia (kasb). Pemetaan teknis "akses Kun" adalah sintesis arsitektur framework atas posisi ini. Basis sumbernya:
+
+        (1) **Khalq al-af'al — Ibnu Katsir** (kutipan di blok REVELATION): «خالق أفعال العباد» (8:17) dan analisis "ma" mashdariyyah + nukilan hadits Hudzaifah (37:96).
+
+        (2) **Kasb sebagai nama bagi jenis nisbah — al-Ghazali, *Al-Iqtishad fil-I'tiqad*** (bahasan sifat qudrah, salinan Syamilah no. 9217): «وجب أن يطلب لهذا النمط من النسبة اسم آخر مخالف فطلب له اسم الكسب تيمنا بكتاب الله» — "untuk jenis hubungan ini perlu nama lain yang berbeda, maka dipilihlah nama kasb"; Allah menciptakan gerakan bersama kemampuan atas gerakan itu, sehingga hamba "memiliki kemampuan atasnya" tanpa menjadi pengada atau pencipta perbuatannya.
+
+        Batas redaksi: frasa "locus of attribution" adalah parafrase framework atas "هذا النمط من النسبة" al-Ghazali, bukan terjemahan literal (teks tidak memakai kata mahall). Sumber digital via Shamela/OpenITI — paginasi digital, kolasi cetakan/manuskrip belum dilakukan. Yang masih terbuka: audit sanad nukilan "segenggam tanah" dalam tafsir Ibnu Katsir; telaah ahli atas hubungan Ibnu Katsir ↔ istilah kasb ↔ sintesis framework sebelum jadi materi pengajaran.
+    }
+}
+
+synthesis synthesis-manusia-mengakses-abstraksi-kun-dalam-scope-terbatas {
+    body {
+        Manusia mengakses abstraksi Kun dalam scope terbatas — berjalan, melihat, bernafas, berpikir — lewat koneksi Amr yang disediakan Source secara terus-menerus. Ini bukan agency di level daya cipta. Ini layer sistem yang terhubung, dan koneksi itu bukan fitur opsional: tanpanya, tidak ada eksekusi sama sekali, sebagaimana thread tanpa scheduler access tidak bisa jalan meski kodenya lengkap.
+    }
+}

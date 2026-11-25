@@ -1,0 +1,13 @@
+package soul.alignment.secure-by-alignment
+
+artifact case-study-reward-centric-daawah-as-invalid-system-call {
+    title "CASE STUDY: REWARD-CENTRIC DAAWAH AS INVALID SYSTEM CALL"
+    includes [
+        soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.the-phenomenon-layer-drift,
+        soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.why-it-fails-on-aligned-kernel,
+        soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.the-auto-routing-behavior
+    ]
+    body {
+        > Rujukan v5.0.7: §16.2
+    }
+}

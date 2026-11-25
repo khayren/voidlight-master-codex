@@ -1,0 +1,17 @@
+package soul.human-os.immutable-core
+
+artifact fitrah {
+    title "Fitrah - The Factory Firmware"
+    cites [soul.revelation.quran.30.30]
+    body {
+        Inside as-sirr sits **`fitrah`** — the default spiritual orientation toward tawḥīd.
+
+        - **Pre-installed.** Not learned. Not earned. Not inherited from parents.
+        - **Immutable.** *Lā tabdīla li khalqillāh* — "There is no altering the creation of Allah." (Ar-Rūm 30:30)
+        - **Muted, not deleted.** Parents, culture, and systems can bury it. But they cannot erase it.
+
+        > **Implication:** Tawbah (repentance) is not installing something new. It is **unmuting** what was always there. A reconnect, not a reinstall.
+
+        ---
+    }
+}

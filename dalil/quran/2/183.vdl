@@ -1,0 +1,33 @@
+package soul.revelation.quran.2
+
+revelation 183 {
+    source "Al-Qur’an"
+    surah "Al-Baqarah"
+    locator "2:183"
+    title "QS. Al-Baqarah [2]:183"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ"
+    transliteration "Yā ayyuhallażīna āmanū kutiba 'alaikumuṣ-ṣiyāmu kamā kutiba 'alallażīna min qablikum la'allakum tattaqūn."
+    translation "Wahai orang-orang yang beriman! Diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang sebelum kamu agar kamu bertakwa,"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Seruan ayat ditujukan kepada orang-orang yang membenarkan Allah dan Rasul-Nya serta mengamalkan syariat-Nya. Allah mewajibkan puasa atas mereka sebagaimana atas umat-umat sebelumnya. Tujuannya agar mereka bertakwa kepada Tuhan dengan menjadikan ketaatan dan ibadah kepada-Nya semata sebagai pelindung dari kemaksiatan.
+
+        [Konteks pemakaian di dokumen: dirujuk sebagai dasar puasa dengan tujuan ketakwaan; "Full System Realignment Scan" dan mekanisme teknisnya adalah analogi framework.]
+    }
+}
+
+audit_note sanad-183-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 2:183 + tafsirs/16/by_ayah/2:183). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Koma akhir terjemahan
+        dipertahankan verbatim. Terjemahan di dist bukan verbatim resource 33;
+        analogi safe mode/scan dipisahkan dari isi ayat.
+    }
+}

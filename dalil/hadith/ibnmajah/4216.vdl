@@ -1,0 +1,37 @@
+package soul.revelation.hadith.ibnmajah
+
+revelation 4216 {
+    source "HR. Ibnu Majah"
+    locator "no. 4216 (Kitab az-Zuhd)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abdullah bin Amr"
+    book_section "Kitab az-Zuhd"
+    grade_status "Sahih"
+    grade_by "Darussalam (tercantum di sunnah.com); al-Albani menurut audit Task B 2026-11-15 (rujukan 3416/Silsilah 948)"
+    sanad_status "verified"
+    original_text "\"‏ كُلُّ مَخْمُومِ الْقَلْبِ صَدُوقِ اللِّسَانِ ‏\"‏ ‏.‏ قَالُوا صَدُوقُ اللِّسَانِ نَعْرِفُهُ فَمَا مَخْمُومُ الْقَلْبِ قَالَ ‏\"‏ هُوَ التَّقِيُّ النَّقِيُّ لاَ إِثْمَ فِيهِ وَلاَ بَغْىَ وَلاَ غِلَّ وَلاَ حَسَدَ ‏\""
+    transliteration "Kullu makhmūmil-qalbi ṣadūqil-lisān. Qālū: Ṣadūqul-lisānī na'rifuhū, fa-mā makhmūmul-qalb? Qāla: Huwat-taqiyyun-naqiyyu, lā itsm fīhī wa lā baghya wa lā ghilla wa lā ḥasad."
+    translation "Setiap orang yang bersih hatinya dan jujur ucapannya. Mereka bertanya: jujur ucapannya kami pahami, tetapi bagaimana orang yang bersih hatinya? Beliau menjawab: yaitu hati yang bertakwa dan bersih, tidak ada dosa, kezaliman, kedengkian, atau iri hati di dalamnya."
+    body {
+        > **Isi hadits (ringkas):** Keutamaan dikaitkan dengan hati yang bersih (makhmum al-qalb) dan lisan yang jujur; kebersihan hati dijelaskan sebagai takwa dan ketiadaan dosa, kezaliman, kedengkian, dan iri hati.
+
+        [Konteks pemakaian di dokumen: pengganti hadits qalb salim pada passage 4.5 (re-audit Task B 2026-11-15); hadits tidak memuat istilah danger zone, kapasitas sinyal alignment, atau diagnosis teknis qalb.]
+    }
+}
+
+audit_note sanad-4216-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim disalin dari ARABIC_BLOCK_1 hasil dalil-fetch.py
+        yang dijalankan auditor sendiri dari sunnah.com/ibnmajah:4216 (Kitab
+        az-Zuhd). Nomor mengikuti referensi sunnah.com; edisi cetak Fuad Abdul
+        Baqi belum dicek langsung. Grade di HTML sunnah.com eksplisit: Sahih
+        (Darussalam), tanpa nama penilai individual. Penilaian sahih al-Albani
+        (3416/Silsilah 948) diterima sebagai laporan audit Task B 2026-11-15,
+        bukan hasil pemeriksaan ulang di batch ini. Gotcha ekstraksi: pertanyaan
+        pembuka "ayumul-qaulu..." berada di elemen sanad HTML dan ENGLISH_BLOCK,
+        tidak termasuk blok Arab; ARAB dipertahankan tanpa penambahan.
+        Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

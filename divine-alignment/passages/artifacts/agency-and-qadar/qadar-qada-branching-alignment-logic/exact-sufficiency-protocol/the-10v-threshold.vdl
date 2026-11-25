@@ -1,0 +1,32 @@
+package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold
+
+analogy analogy-definition-the-10v-threshold-is-the {
+    body {
+        > **Definition:** The 10V Threshold is the precise operational boundary where a wujud mumkin's (per 0.1) available resources (alignment reserve, material capacity, time) are depleted *exactly* at the moment the next checkpoint is reached — not a moment sooner, not a moment later. It is the lived manifestation of Exact Sufficiency under conditions of incomplete information, maximum ikhtiar, and active tawakkal.
+    }
+}
+
+analogy analogy-dalam-operational-terms-exact-sufficiency-berarti-node {
+    body {
+        Dalam operational terms, exact sufficiency berarti node nggak pernah diberi *surplus safety* yang bikin dia bisa "coba-coba" atau "nanti aja." Node (wujud mumkin, per 0.1) diberi exact resource yang cukup untuk sampai ke checkpoint berikutnya dengan selamat — lewat sustain signal dari Source (per 0.2), bukan tenaga sendiri. Tidak ada surplus untuk "main-main" karena Kun bukan milik node (per 0.6: la quwwata illa billah).
+    }
+}
+
+revelation revelation-qs-al-insyirah-94-5-6 {
+    cites [soul.revelation.quran.94.5-6]
+    body {
+        QS. Al-Insyirah [94]:5-6 —
+        > *"Fa inna ma'al-'usri yusra, inna ma'al-'usri yusra"*
+        > *(Maka sesungguhnya bersama kesulitan ada kemudahan, sesungguhnya bersama kesulitan ada kemudahan).*
+        >
+        > [Catatan audit 2026-11-15: terjemahan sebelumnya "sesudah kesulitan itu ada kemudahan" adalah edisi terjemahan lain; Kemenag resource 33 (hasil dalil-fetch.py, auditor batch 4, AYAT_TERVERIFIKASI HIGH; teks lengkap di module dalil/quran/94/5-6.vdl) memakai "bersama kesulitan". Pembacaan timing "sesudah/exact next step" di bawah adalah konstruksi framework di atas lafaz "ma'a" (bersama), bukan janji ayat tentang sumber daya pas tanpa surplus.]
+        >
+        > **Tafsir Ibnu Katsir:** Janji Allah yang paling besar dalam Al-Qur'an tentang adanya kemudahan setelah kesulitan. Ibnu Abbas: "Kesulitan tidak akan mengalahkan dua kemudahan — kemudahan di dunia dan kemudahan di akhirat." Penegangan ayat yang diulang menegaskan kepastian janji: satu kesulitan selalu diikuti oleh dua kemudahan. Surah Al-Insyirah diturunkan setelah Nabi SAW mengalami masa-masa sulit di Makkah — diusir, diolok-olok, dan diuji. Allah menurunkan surah ini sebagai penghiburan dan penegasan bahwa setiap kesulitan akan diikuti oleh kemudahan. Kemudahan tidak datang sebagai excess buffer — kemudahan datang sebagai exact next step yang muncul pas node sudah jalan dengan alignment protocol yang benar. [Catatan audit 2026-11-15: narasi sabab nuzul, kutipan Ibnu Abbas, dan rumusan "satu kesulitan dua kemudahan" belum diverifikasi di batch ini; frasa "exact next step" adalah analogi framework.]
+    }
+}
+
+revelation revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan {
+    body {
+        — Satu kesulitan, dua kemudahan. Tapi kemudahan nggak datang sebagai *excess buffer* — kemudahan datang sebagai **exact next step** yang muncul pas node udah jalan dengan alignment protocol bener. Nggak sebelum, nggak setelah. Exact timing.
+    }
+}

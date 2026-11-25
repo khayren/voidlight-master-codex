@@ -1,0 +1,17 @@
+package soul.alignment.drift-detection.drift-detection-system-alignment-monitoring
+
+artifact early-warning-signals {
+    title "Early Warning Signals"
+    body {
+        > Rujukan v5.0.7: §9.1
+
+        | Signal | Interpretasi Alignment | Qalb State | Action |
+        |--------|----------------------|------------|--------|
+        | **Auto-defensive ketika dikoreksi** | Qalb mulai Mariidh — ego mulai block alignment signal yang kontra | 🟡 Mariidh (early) | Pause, audit: gue nolak karena salah, atau karena ego? |
+        | **Rationalize terus meski bukti jelas** | Drift aktif — Qalb sudah selective reception | 🟠 Mariidh (advanced) | Forced shutdown (khalwah, dzikr, puasa). Cut all input. Realign. |
+        | **Baru "sadar" pas kepepet** | Qalb hampir Aghlaf — cuma bisa nerima signal saat nggak ada pilihan | 🔴 Near-Aghlaf | Emergency realignment, tapi evaluate: tulus atau desperation? |
+        | **Ngerasa "paling bener" dibanding orang lain** | Self-deification seed — Firaun-pattern detected | 🔴 Critical | Tawadhu audit, cari mentor/korektor, forced humility practice |
+        | **Nyalahin Allah/takdir untuk kondisi sendiri** | Agency loss — victim mode, Iradah disabled | 🟡 Mariidh | Alignment Recovery Protocol (Acknowledge → Audit → Realign) |
+        | **Ritual compliance tanpa presence** | Heartbeat signal spoofing — sholat jalan, tapi Qalb nggak sync | 🟡 Mariidh | Re-evaluate intent, bukan ritual. Presence > repetition. |
+    }
+}

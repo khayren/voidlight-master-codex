@@ -1,0 +1,24 @@
+package soul.alignment.foundation.core-philosophy-divine-alignment.lauhul-mahfuzh-as-alignment-map
+
+synthesis synthesis-lauhul-mahfuzh-bukan-satu-garis-takdir-yang {
+    body {
+        Lauhul Mahfuzh bukan "satu garis takdir" yang linear. Ia adalah **Complete Graph / Immutable Database** yang berisi seluruh *possibility space* dari alignment journey setiap node:
+    }
+}
+
+revelation revelation-hadits-shahih-riwayat-muslim-dari-abdullah-bin {
+    cites [soul.revelation.hadith.muslim.2653]
+    body {
+        Hadits Shahih riwayat Muslim no. 2653, dari Abdullah bin Amr bin Al-As — [Catatan audit 2026-11-14 (sanad-auditor): koordinat sebelumnya tanpa nomor edisi; nomor 2653 terverifikasi via sunnah.com/muslim:2653b; lafaz dikoreksi dari "taqādīr" ke "maqādīr" sesuai redaksi sumber.]
+        > *"Kataba Allāhu maqādīral-khalā'iqi qabla an yakhluqas-samāwāti wal-arḍa bi-khamsīna alfa sana, wa 'Arsyuhu 'alal-mā'i"* [Catatan audit 2026-11-15: transliterasi sebelumnya "maqādīral-khalāqi" kehilangan lafaz "al-khalā'iq" — dikoreksi sesuai matn verbatim hasil dalil-fetch.py (auditor batch hadits 2026-11-15, SAHIH_TERVERIFIKASI HIGH; matn lengkap di module dalil/hadith/muslim/2653.vdl, varian sunnah.com 2653b).]
+        > *(Allah menulis takdir-takdir para makhluk-Nya 50.000 tahun sebelum menciptakan langit dan bumi, dan 'Arsy-Nya berada di atas air).*
+        >
+        > **Syarah Hadits Muslim (an-Nawawi):** Hadits ini merupakan salah satu hadits paling utama dalam pembahasan Qada dan Qadar. An-Nawawi menjelaskan bahwa hadits ini menetapkan urutan kronologis dalam penciptaan: pertama, Allah mencatat takdir segala sesuatu di Lauhul Mahfuzh; kemudian Allah menciptakan langit dan bumi dan segala isinya sesuai catatan tersebut. Takdir yang ditulis mencakup seluruh perkara yang terjadi di alam ini: kebaikan dan keburukan, rezeki, ajal, amal, dan segala sesuatu. Ini adalah catatan yang tidak berubah — karena Allah sudah mengetahui segala sesuatu sejak azali. Para ulama menjelaskan bahwa hadits ini harus dipahami sebagai kebenaran takdir tanpa merampas kehendak manusia (iradah juz'iyyah) — manusia tetap memilih, tapi pilihan mereka sudah diketahui dan dicatat oleh Allah.
+    }
+}
+
+analogy analogy-lauhul-mahfuzh-adalah-compiled-binary-yang-berisi {
+    body {
+        Lauhul Mahfuzh adalah compiled binary yang berisi seluruh execution tree. Node tidak bisa mengubah binary — tapi node bisa memilih branch mana yang akan di-execute melalui Iradah (free will), dari port mu'allaq yang sedang terbuka. Setiap branch punya alignment gradient-nya sendiri: beberapa mendekatkan ke Source, beberapa mendrift menjauh. Mubram adalah branch yang sudah di-hardcode; mu'allaq adalah branch yang menunggu trigger kondisional.
+    }
+}

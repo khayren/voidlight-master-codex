@@ -1,0 +1,36 @@
+package soul.revelation.quran.91
+
+revelation 9-10 {
+    source "Al-Qur’an"
+    surah "Asy-Syams"
+    locator "91:9-10"
+    title "QS. Asy-Syams [91]:9-10"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "قَدْ أَفْلَحَ مَن زَكَّىٰهَا وَقَدْ خَابَ مَن دَسَّىٰهَا"
+    transliteration "Qad aflaḥa man zakkāhā. Wa qad khāba man dassāhā."
+    translation "sungguh beruntung orang yang menyucikannya (jiwa itu), dan sungguh rugi orang yang mengotorinya."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Dalam rangkaian sumpah ini Allah menyebut matahari, bulan, siang, malam, langit, bumi, dan jiwa yang disempurnakan penciptaannya untuk menjalankan tugasnya. Allah menjelaskan kepada jiwa jalan keburukan dan jalan kebaikan. Beruntunglah orang yang membersihkan serta mengembangkan jiwanya dengan kebaikan, dan merugilah orang yang membenamkan jiwanya dalam kemaksiatan.
+
+        [Konteks pemakaian di dokumen: dirujuk pada pertentangan tazkiyah vs tagsiyah; lafaz ayat adalah zakkāhā vs dassāhā; metafora "rootkit/deep scan/safe mode" dan prosedur remediasi adalah analogi framework.]
+    }
+}
+
+audit_note sanad-9-10-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab kedua ayat diambil per ayat melalui dalil-fetch.py yang
+        dijalankan auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 91:9 dan 91:10, Al-Tafsir al-Muyassar (resource 16)
+        dari tafsirs/16/by_ayah 91:9 dan 91:10 (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Arab dan terjemahan masing-masing
+        ayat digabung dengan satu spasi tanpa perubahan teks. Tafsir yang
+        dikembalikan identik untuk kedua koordinat dan mencakup rangkaian
+        sumpah; istilah "tagsiyah" bukan lafaz ayat, lafaz pembandingnya
+        dassāhā. Prosedur remediasi teknis (khalwah/zikir/puasa) merupakan
+        analogi, bukan redaksi tafsir.
+    }
+}

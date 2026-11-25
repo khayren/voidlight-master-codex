@@ -1,0 +1,33 @@
+package soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in
+
+synthesis synthesis-kalau-tidur-temporary-preview-tier-lain {
+    body {
+        Kalau tidur = temporary preview tier lain, **maut = state wujud mumkin yang frozen** (per 0.1: node tetap mumkin, tidak upgrade ke wajib — hanya tier access yang permanentized berdasarkan final alignment state).
+    }
+}
+
+synthesis synthesis-dua-defense-audit-sudah-structurally-invalid-sejak-iss {
+    body {
+        Dua defense audit sudah structurally-invalid sejak issuance (per 0.8): record Mitsaq Alast menutup klaim ghafilin dan klaim inherited-shirk sebelum runtime pertama dimulai. Final commit di sini membaca state terhadap record yang signed per node — bukan menilai defense-claim yang diajukan di pengadilan.
+    }
+}
+
+revelation revelation-qs-asy-syu-ara-26-88-89 {
+    cites [soul.revelation.quran.26.88-89, soul.revelation.hadith.bukhari.99]
+    body {
+        QS. Asy-Syu'ara [26]:88-89 —
+        > *"Yauma lā yanfa'u mālun wa lā banūna, illā man atā Allāha biqalbin salīmin"*
+        > *(Dan harta kekayaan serta anak-anak tidak berguna, kecuali orang yang datang kepada Allah dengan hati yang bersih).*
+        >
+        > [Catatan audit 2026-11-15: kutipan transliterasi sebelumnya "Laa tanfa'usy-syahaa-idu walaa waladun" salah lafaz — lafaz ayat (terverifikasi di module dalil/quran/26/88-89.vdl, auditor batch 1 AYAT_TERVERIFIKASI HIGH) adalah "yauma lā yanfa'u mālun wa lā banūna" — dikoreksi (AYAT_SALAH_KUTIP, auditor batch hadits 2026-11-15).]
+        > *(Dan harta kekayaan serta anak-anak tidak berguna, kecuali orang yang datang kepada Allah dengan hati yang bersih).*
+        >
+        > **Tafsir Ibnu Katsir:** Allah menyatakan bahwa pada hari Kiamat, harta benda dan anak-anak tidak akan memberikan manfaat apa pun — kecuali bagi orang yang datang kepada Allah dengan hati yang bersih (qalbun salim). Dari Abu Hurairah RA, Rasulullah SAW ditanya: *"Siapakah orang yang paling beruntung yang mendapatkan syafaatmu?"* Beliau menjawab: *"Orang yang mengucapkan La ilaha illallah dengan ikhlas dari hatinya."* (HR. Bukhari no. 99 dan no. 6570). [Catatan audit 2026-10-26: atribusi ganda sebelumnya ("Imam Ahmad meriwayatkan" + "(HR. Muslim)") salah — hadits terverifikasi di Shahih Bukhari dari Abu Hurairah (ATRIBUSI_SALAH, audit ronde 3).] *Qalbun salim* adalah hati yang bebas dari syirik, kebencian, dengki, dan hasad. Hati yang mengakui hanya Allah sebagai Tuhan, yang ridha dengan ketentuan-Nya, yang jujur dalam beribadah, dan yang bersih dari penyakit-penyakit hati. Semua amal dan ibadah yang kita lakukan di dunia ini akan menjadi tidak berguna jika hati kita tidak bersih. Orang kaya tidak bisa membeli keselamatan dengan hartanya, orang berkuasa tidak bisa menggunakan pengaruhnya — yang berharga hanyalah keadaan hati saat menghadap Allah.
+    }
+}
+
+revelation revelation-ayat-ini-adalah-alignment-finalization-principle-hany {
+    body {
+        Ayat ini adalah *alignment finalization principle*: hanya Qalb Salim yang memiliki value di final state. Semua yang lain (harta, keturunan, status) tidak berguna tanpa alignment.
+    }
+}

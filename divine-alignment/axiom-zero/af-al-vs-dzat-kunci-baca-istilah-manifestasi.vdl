@@ -1,0 +1,29 @@
+package soul.axiom-zero
+
+artifact af-al-vs-dzat-kunci-baca-istilah-manifestasi {
+    title "Af'al vs Dzat: Kunci Baca Istilah \"Manifestasi\""
+    cites [soul.revelation.quran.35.16-17]
+    passages [
+        soul.axiom-zero.af-al-vs-dzat-kunci-baca-istilah-manifestasi.synthesis-manusia-sebagai-location-of-manifestation-makna,
+        prose {
+            Ini kalimat aktif dengan objek terpisah, bukan kalimat identitas. Vocabulary yang dipakai konsisten di seluruh dokumen untuk menjaga distinction ini:
+
+            | Istilah | Makna | Fungsi |
+            |---|---|---|---|
+            | **Al-Muzh-hir** | Allah, Yang Menyebabkan Sesuatu Berwujud | Subjek — ini af'al (perbuatan) Allah |
+            | **Mahall azh-Zhuhur** | Lokasi/tempat terjadinya perwujudan | Objek — makhluk, bukan bagian dari Dzat Allah |
+            | **Wujud Majazi** | Eksistensi yang terjadi di mahall tersebut | Hasil dari af'al, bukan Dzat itu sendiri |
+
+            Kunci pemisahnya: Dzat Allah (Esensi-Nya, tidak terbagi, tidak menempati apa pun) dipisah dari Af'al Allah (perbuatan-Nya, efeknya terjadi di mana saja termasuk di dalam diri makhluk). Manusia sebagai location of manifestation dibaca: lokasi tempat Af'al Allah — menciptakan wujud majazi, terus-menerus, per 0.2 — sedang berlangsung. Bukan lokasi tempat Dzat Allah hadir secara substansial.
+        },
+        soul.axiom-zero.af-al-vs-dzat-kunci-baca-istilah-manifestasi.revelation-qs-fatir-35-16-17,
+        prose {
+            Setiap kemunculan istilah "manifestasi" di Part I-IX dibaca lewat pasangan Muzh-hir/Mahall ini — bukan lewat gagasan mazhar yang mengandaikan kontinuitas substansi antara yang manifest dan yang dimanifestasikan.
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.5
+    }
+}

@@ -1,0 +1,29 @@
+package soul.axiom-zero
+
+artifact mitsaq-alast-provisioning-handshake-record {
+    title "Mitsaq Alast: Provisioning Handshake Record"
+    cites [soul.revelation.quran.7.172-173]
+    includes [
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.fitrah-dapat-provenance-nya,
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.memory-semantics-config-bukan-episodic,
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.double-excuse-firewall-di-final-audit,
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.dzikr-re-acknowledgment-terhadap-record-yang-sama
+    ]
+    passages [
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.revelation-qs-al-a-raf-7-172-173,
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.synthesis-ini-satu-satunya-ceremony-di-seluruh-arsitektur-yang,
+        prose {
+            | Komponen Handshake | Realisasi | Tag |
+            |---|---|---|
+            | Prompt | "Alastu bi rabbikum?" — issuer-initiated istifham, bukan node yang request | [REVELATION] |
+            | Response | "Bala syahidna" — testimony; jawaban itu sendiri berstatus kesaksian | [REVELATION] |
+            | Scope | Per-node ("'ala anfusihim") — session individual, bukan broadcast | [REVELATION] |
+            | Storage | Fitrah (config partition node) + Lauhul Mahfuzh (audit log) | [SYNTHESIS] |
+            | Runtime visibility | Non-episodic — tidak bisa di-recall, hanya bisa di-recognize | [SYNTHESIS] |
+            | Audit function | Menutup dua defense vector sebelum runtime dimulai (lihat C) | [REVELATION] |
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.8
+    }
+}

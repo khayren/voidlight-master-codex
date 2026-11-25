@@ -1,0 +1,11 @@
+package soul.human-os.daily-protocols
+
+artifact sabar {
+    title "Sabar - Delayed Gratification Engine"
+    body {
+        Overrides nafs ammārah's demand for instant feedback. 
+        Builds qalb strength through endurance. 
+        Not passive waiting. 
+        Active, painful, necessary resistance.
+    }
+}

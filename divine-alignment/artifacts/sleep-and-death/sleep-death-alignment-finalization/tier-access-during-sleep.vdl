@@ -1,0 +1,12 @@
+package soul.alignment.sleep-and-death.sleep-death-alignment-finalization
+
+artifact tier-access-during-sleep {
+    title "Tier Access During Sleep"
+    passages [
+        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tier-access-during-sleep.synthesis-qalb-state-tier-access,
+        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tier-access-during-sleep.analogy-tidur-temporary-firewall-relaxation-node-dengan
+    ]
+    body {
+        > Rujukan v5.0.7: §14.2
+    }
+}

@@ -1,0 +1,26 @@
+package soul.axiom-zero.wujud-mumkin-disustain-bukan-dilaunch
+
+revelation revelation-qs-qaf-50-15 {
+    cites [soul.revelation.quran.50.15]
+    body {
+        QS. Qaf [50]:15 —
+        > *"Afa'ayina bil-khalqi al-awwali bal hum fi labsin min khalqin jadid"*
+        > *(Maka apakah Kami letih dengan penciptaan yang pertama? (Sama sekali tidak), bahkan mereka dalam keadaan ragu-ragu tentang penciptaan yang baru).*
+        >
+        > [Catatan audit 2026-11-15: terjemahan sebelumnya "Apakah mereka telah berputus asa dari (memikirkan) penciptaan yang pertama? Bahkan mereka dalam kebingungan tentang penciptaan yang baru" mengalami TERJEMAHAN_DRIFT — subjek pertanyaan ayat adalah Kami dan menyangkut letih/ketidakmampuan, bukan keputusasaan mereka; terjemahan diganti verbatim Kemenag RI (resource 33) hasil dalil-fetch.py (auditor batch 3, AYAT_TERVERIFIKASI HIGH); transliterasi "Afa'aina" dikoreksi jadi "Afa'ayina" sesuai lafaz أَفَعَيِينَا. Teks lengkap terverifikasi di module dalil/quran/50/15.vdl.]
+        >
+        > **Tafsir Ibnu Katsir:** Ayat ini mengingatkan bahwa Allah yang telah menciptakan langit dan bumi, yang lebih besar dan lebih dahsyat dari manusia, tentu tidak akan kesulitan untuk membangkitkan manusia setelah kematian. "Penciptaan yang pertama" adalah penciptaan manusia dari tanah, dari tiada menjadi ada. "Penciptaan yang baru" adalah penciptaan kembali setelah kematian pada hari kebangkitan. Orang-orang kafir berada dalam "labs" — keraguan, kebingungan, dan kegamangan — tentang kebangkitan ini. Ayat ini juga menjadi pijakan bacaan ontologis dokumen (konstruksi dokumen di atas ayat, bukan redaksi Ibnu Katsir): setiap saat, Allah terus-menerus menciptakan dan memperbarui penciptaan — eksistensi makhluk tidak terjadi sekali lalu berjalan otomatis, melainkan direfresh terus-menerus oleh Dzat yang menciptakannya.
+    }
+}
+
+synthesis synthesis-node-tidak-eksis-sekali-lalu-otomatis-lanjut {
+    body {
+        Node tidak eksis sekali lalu otomatis lanjut jalan atas tenaga sendiri. Node di-*sustain*, bukan di-*launch-and-forget*. Setiap saat — per tick, bukan per lifetime — eksistensi node direfresh oleh Source.
+    }
+}
+
+analogy analogy-ini-beda-dari-static-memory-allocation-dialokasikan {
+    body {
+        Ini beda dari static memory allocation (dialokasikan sekali, dipegang sampai di-free manual). Ini lebih dekat ke proses yang di-garbage-collect dan direalokasi ulang tiap cycle. Kalau Source berhenti nge-refresh satu tick saja, node tidak "kehabisan baterai" — node berhenti eksis. Ketergantungan ini bukan kondisi darurat. Ini kondisi default tiap saat.
+    }
+}

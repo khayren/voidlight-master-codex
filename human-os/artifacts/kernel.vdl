@@ -1,0 +1,10 @@
+package soul.human-os
+
+artifact kernel {
+    title "The Kernel: Where the War Happens"
+    includes [soul.human-os.kernel.ruh, soul.human-os.kernel.qalb, soul.human-os.kernel.aql, soul.human-os.kernel.nafs]
+    body {
+        Above the immutable core sits the **processing stack**, the layers that actually run your life. 
+        These can be corrupted. These are the battlefield.
+    }
+}

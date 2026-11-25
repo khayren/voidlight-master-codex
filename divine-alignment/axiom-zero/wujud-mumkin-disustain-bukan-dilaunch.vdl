@@ -1,0 +1,17 @@
+package soul.axiom-zero
+
+artifact wujud-mumkin-disustain-bukan-dilaunch {
+    title "Wujud Mumkin: Disustain, Bukan Dilaunch"
+    cites [soul.revelation.quran.50.15]
+    passages [
+        soul.axiom-zero.wujud-mumkin-disustain-bukan-dilaunch.revelation-qs-qaf-50-15,
+        soul.axiom-zero.wujud-mumkin-disustain-bukan-dilaunch.synthesis-node-tidak-eksis-sekali-lalu-otomatis-lanjut,
+        soul.axiom-zero.wujud-mumkin-disustain-bukan-dilaunch.analogy-ini-beda-dari-static-memory-allocation-dialokasikan,
+        prose {
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.2
+    }
+}

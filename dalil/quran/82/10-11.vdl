@@ -1,0 +1,35 @@
+package soul.revelation.quran.82
+
+revelation 10-11 {
+    source "Al-Qur’an"
+    surah "Al-Infitar"
+    locator "82:10-11"
+    title "QS. Al-Infitar [82]:10-11"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ كِرَامًا كَـٰتِبِينَ"
+    transliteration "Wa inna 'alaikum laḥāfiẓīn. Kirāman kātibīn."
+    translation "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu), yang mulia (di sisi Allah) dan yang mencatat (perbuatanmu),"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Rangkaian ayat ini membantah anggapan bahwa penyembahan selain Allah merupakan tindakan yang benar dan menyebut pendustaan terhadap hari perhitungan serta pembalasan. Manusia diawasi oleh malaikat yang mulia di sisi Allah dan mencatat apa yang ditugaskan kepada mereka untuk dihitung. Tidak ada perbuatan maupun rahasia manusia yang luput dari mereka; mereka mengetahui kebaikan dan keburukan yang manusia lakukan.
+
+        [Konteks pemakaian di dokumen: dirujuk pada fungsi pengawasan dan pencatatan amal; "observer/logging" adalah analogi framework; fungsi network security lain di passage tidak dibuktikan ayat ini.]
+    }
+}
+
+audit_note sanad-10-11-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab kedua ayat diambil per ayat melalui dalil-fetch.py yang
+        dijalankan auditor sendiri; terjemahan Kemenag RI (resource 33) dari
+        verses/by_key 82:10 dan 82:11, Al-Tafsir al-Muyassar (resource 16)
+        dari tafsirs/16/by_ayah 82:10 dan 82:11 (api.quran.com). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Arab dan terjemahan masing-masing
+        ayat digabung dengan satu spasi, termasuk koma terakhir terjemahan
+        (kalimat berlanjut). Tafsir yang dikembalikan identik dan mencakup
+        konteks lebih luas; fungsi memblokir exploit, deteksi intrusi, dan
+        perlindungan node tidak ditetapkan oleh rujukan ini.
+    }
+}

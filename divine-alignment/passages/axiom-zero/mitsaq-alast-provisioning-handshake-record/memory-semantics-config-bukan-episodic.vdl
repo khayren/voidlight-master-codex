@@ -1,0 +1,7 @@
+package soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.memory-semantics-config-bukan-episodic
+
+synthesis synthesis-record-alast-tidak-di-carry-sebagai-episodic-memory {
+    body {
+        Record Alast tidak di-carry sebagai episodic memory. Tidak ada sesuatu untuk di-"ingat kembali" — runtime tidak punya akses ke sesi factory-nya. Yang node punya bukan memory-nya, tapi anchor-nya. Ini pemisahan dua layer storage yang beda semantik:
+    }
+}

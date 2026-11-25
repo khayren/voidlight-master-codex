@@ -1,0 +1,25 @@
+package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection
+
+artifact technical-specification {
+    title "Technical Specification"
+    passages [
+        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.technical-specification.analogy-node-a-kernel-aligned-single-target,
+        prose {
+            Node B (Kernel Drifted — Multi-Target):
+              Architecture: Multiple targets — "aku + Allah + dunia + reward" sebagai valid targets
+              Filter: Selective — terima signal yang cocok ego, drop yang kontra
+              Frequency: Derivative-aligned
+
+            Interaction:
+              Node A receive signal from Node B
+              Filter Node A: detect frequency mismatch
+              Signal: "off", "nggak nyambung", "invalid format"
+              Interpretation: VALID — Layer Mismatch detected
+              Action: Nggak amplify corrupted signal. Jadi evidence node.
+            ```
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §16.5.2
+    }
+}

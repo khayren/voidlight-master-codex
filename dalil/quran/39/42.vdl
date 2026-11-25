@@ -1,0 +1,31 @@
+package soul.revelation.quran.39
+
+revelation 42 {
+    source "Al-Qur’an"
+    surah "Az-Zumar"
+    locator "39:42"
+    title "QS. Az-Zumar [39]:42"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ"
+    transliteration "Allāhu yatawaffā al-anfusa ḥīna mautihā wa allatī lam tamut fī manāmihā, fayumsiku allatī qaḍā 'alaihā al-mauta wa yursilu al-ukhrā ilā ajalin musamman, inna fī żālika la'āyātin liqaumin yatafakkarūna."
+    translation "Allah memegang nyawa (seseorang) pada saat kematiannya dan nyawa (seseorang) yang belum mati ketika dia tidur; maka Dia tahan nyawa (orang) yang telah Dia tetapkan kematiannya dan Dia lepaskan nyawa yang lain sampai waktu yang ditentukan. Sungguh, pada yang demikian itu terdapat tanda-tanda (kebesaran) Allah bagi kaum yang berpikir."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Al-Muyassar membedakan pengambilan jiwa ketika ajal berakhir sebagai kematian besar, dan pengambilan jiwa ketika tidur sebagai kematian kecil (al-mautah al-ṣughrā). Allah menahan jiwa yang telah ditetapkan kematiannya, sedangkan jiwa yang lain dikembalikan ke tubuh pemiliknya untuk menyempurnakan ajal dan rezekinya. Hal ini merupakan tanda kekuasaan Allah bagi orang yang berpikir dan merenung.
+
+        [Konteks pemakaian di dokumen: ayat ini dipakai untuk konsep "tidur = minor death"; padanannya eksplisit di Al-Muyassar (kematian kecil), tapi jangan menyamakan tidur dengan kematian final. Lafaz ayat memakai al-anfus, bukan al-arwāḥ.]
+    }
+}
+
+audit_note sanad-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com; terjemahan Kemenag RI
+        (resource 33) via Quran.com; tafsir ringkas dari Al-Tafsir al-Muyassar.
+        Verdict AYAT_TERVERIFIKASI, konfidensi HIGH. Makki per metadata surah.
+        Batas: mekanisme atau lokasi perjalanan jiwa di luar uraian ayat tidak
+        diverifikasi. Sumber: api.quran.com verse 39:42 + tafsirs/16.
+    }
+}

@@ -1,0 +1,24 @@
+package soul.axiom-zero
+
+artifact dua-kelas-wujud {
+    title "Dua Kelas Wujud"
+    cites [soul.revelation.quran.55.26-27]
+    passages [
+        soul.axiom-zero.dua-kelas-wujud.revelation-qs-ar-rahman-55-26-27,
+        prose {
+            Dari sini dua kelas wujud dipisah secara tegas:
+
+            | Kelas | Nature | Status | Contoh |
+            |---|---|---|---|
+            | **Wujud Wajib** | Eksis karena Dzat-Nya sendiri, tidak butuh apapun buat eksis | Necessary, tidak binasa | Allah semata |
+            | **Wujud Mumkin** | Eksis karena diberi/dipinjemkan, butuh Source buat eksis | Contingent, faan (binasa/sementara) | Seluruh makhluk, seluruh node |
+        },
+        soul.axiom-zero.dua-kelas-wujud.synthesis-ini-bukan-gradasi-bukan-makin-align-makin,
+        prose {
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §0.1
+    }
+}

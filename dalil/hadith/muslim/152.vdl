@@ -1,0 +1,34 @@
+package soul.revelation.hadith.muslim
+
+revelation 152 {
+    source "HR. Muslim"
+    locator "no. 152 (Kitab al-Iman)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Hurairah"
+    book_section "Kitab al-Iman"
+    grade_status "Shahih"
+    grade_by "Imam Muslim (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "مَا مِنَ الأَنْبِيَاءِ مِنْ نَبِيٍّ إِلاَّ قَدْ أُعْطِيَ مِنَ الآيَاتِ مَا مِثْلُهُ آمَنَ عَلَيْهِ الْبَشَرُ وَإِنَّمَا كَانَ الَّذِي أُوتِيتُ وَحْيًا أَوْحَى اللَّهُ إِلَىَّ فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ ‏\""
+    transliteration "Mā minal-anbiyā'i min nabiyyin illā qad u'thiya minal-āyāti mā mitsluhū āmana 'alaihil-basyaru, wa innamā kānal-ladzī ūtītu waḥyan awhallāhu ilayya, fa-arjū an akūna aktsarahum tābi'an yaumal-qiyāmah."
+    translation "Tidak ada seorang nabi di antara para nabi yang tidak diberi suatu tanda yang dengannya manusia beriman kepadanya. Adapun yang diberikan kepadaku adalah wahyu yang Allah wahyukan kepadaku, dan aku berharap menjadi nabi dengan pengikut paling banyak pada hari Kiamat."
+    body {
+        > **Isi hadits (ringkas):** Para nabi diberi tanda kenabian yang membuat manusia beriman; Nabi menyebut wahyu yang diberikan kepadanya (paralel Bukhari 4981 dengan redaksi berbeda).
+
+        [Konteks pemakaian di dokumen: dirujuk pada tema mukjizat; lafaz di passage adalah PARAfrase, bukan kutipan verbatim (catatan audit 2026-11-14) — hadits tidak menetapkan rumus hardcoded mukjizat atau syarat karamah.]
+    }
+}
+
+audit_note sanad-152-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim disalin dari ARABIC_BLOCK_1 hasil dalil-fetch.py
+        yang dijalankan auditor sendiri dari sunnah.com/muslim:152 (Kitab
+        al-Iman). Nomor mengikuti referensi sunnah.com; edisi cetak Fuad Abdul
+        Baqi belum dicek langsung. Grading individual tidak terlihat di fetch;
+        status sahih bertumpu pada pencantuman dalam Shahih Muslim. Lafaz di
+        passage adalah parafrase, bukan verbatim, sesuai catatan audit
+        2026-11-14. Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}

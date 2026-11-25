@@ -1,0 +1,35 @@
+package soul.revelation.quran.55
+
+revelation 33 {
+    source "Al-Qur’an"
+    surah "Ar-Rahman"
+    locator "55:33"
+    title "QS. Ar-Rahman [55]:33"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ"
+    transliteration "Yā ma'syaral-jinni wal-insi inistaṭa'tum an tanfużū min aqṭāris-samāwāti wal-arḍi fanfużū, lā tanfużūna illā bisulṭān."
+    translation "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah)."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Allah menantang golongan jin dan manusia untuk keluar dari penjuru langit dan bumi apabila mereka mampu melarikan diri dari perintah dan ketetapan-Nya. Mereka tidak mampu melakukannya kecuali dengan kekuatan, hujah, dan perintah dari Allah. Al-Muyassar menegaskan ketidakmampuan mereka itu dengan mengingatkan bahwa mereka bahkan tidak menguasai manfaat ataupun mudarat bagi diri sendiri.
+
+        [Konteks pemakaian di dokumen: dirujuk pada keterbatasan makhluk dan ketidakmampuan menghindari ketetapan Allah (pembukaan Human OS); "thughyan", "prison of creaturehood", dan "the only door out" adalah analogi framework, bukan lafaz ayat atau tafsir.]
+    }
+}
+
+audit_note sanad-33-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 55:33 + tafsirs/16/by_ayah/55:33). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Catatan auditor: istilah
+        "thughyan" bukan lafaz ayat ini; pembukaan Human OS memerlukan
+        pemisahan eksplisit antara penjelasan Al-Muyassar dan pembacaan
+        analogis framework. Respons tafsir mencakup seruan nikmat Tuhan pada
+        ayat sesudahnya; ringkasan dibatasi pada ayat yang diaudit.
+    }
+}

@@ -1,0 +1,21 @@
+package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.node-config-mu-allaq-ports-and-realized-path
+
+analogy analogy-qadar-node-config-taqdir-mu-allaq-ports {
+    body {
+        ```
+        Qadar — Node Config:        Taqdir Mu'allaq (Ports):     Qada (Realized Path):
+        ━━━━━━━━━━━━━━━━━━━         ~~~~~~~~~~~~~~~~~~~~         ~~~~~~~~~~~~~~~~~~
+        Birth ──●── Death           Align ←→ Drift               The one branch that
+        Parents                     Multiple sub-branches        actually executes
+        Mukjizat Nabi               per interval                 (wa quḍiya al-amru)
+        Final State Evaluation      Freewill selects branch      Align/Drift locked
+        (Mubram)                    Each branch has gradient     at each checkpoint
+        ```
+    }
+}
+
+synthesis synthesis-qadar-node-config-per-individu-yang {
+    body {
+        Qadar = node config per individu yang tidak bisa diubah — dengan dua status flag di dalamnya: **mubram** (fixed points, immutable) dan **mu'allaq** (opsi kondisional di antara fixed points). Qada = cabang yang benar-benar terpilih dan terlaksana. Setiap path mu'allaq punya **alignment gradient** — beberapa path membawa node lebih dekat ke Source, beberapa menjauhkan. Pilihan terjadi di lapisan mu'allaq lewat Iradah; hasil pilihan yang terkunci di checkpoint berikutnya menjadi bagian dari realized path (qada).
+    }
+}

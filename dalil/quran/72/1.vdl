@@ -1,0 +1,36 @@
+package soul.revelation.quran.72
+
+revelation 1 {
+    source "Al-Qur’an"
+    surah "Al-Jinn"
+    locator "72:1"
+    title "QS. Al-Jinn [72]:1"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text " قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا"
+    transliteration "Qul ūḥiya ilayya annahustama'a nafarun minal-jinni faqālū innā sami'nā qur'ānan 'ajabā."
+    translation "Katakanlah (Muhammad), \"Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),\" lalu mereka berkata, \"Kami telah mendengarkan bacaan yang menakjubkan (Alquran),"
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, entri gabungan 72:1-2, dibatasi bagian ayat 1):** Rasul diperintahkan menyampaikan bahwa Allah mewahyukan kepadanya perihal sekelompok jin yang mendengarkan bacaan Al-Qur'an-nya. Mereka kemudian menyampaikan kepada kaumnya bahwa mereka mendengar Al-Qur'an yang menakjubkan dalam kefasihan, keindahan ungkapan, hikmah, ketentuan, dan berita-beritanya.
+
+        [Konteks pemakaian di dokumen: asbabun nuzul jin mendengar Al-Qur'an saat shalat Subuh di Nakhlah — provenance-nya HR. Bukhari no. 773 dari Ibnu Abbas (sunnah.com Book 10 Hadith 167), terverifikasi keberadaan dan isinya pada 2026-11-15; itu sumber hadis terpisah, bukan isi Al-Muyassar.]
+    }
+}
+
+audit_note sanad-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com (termasuk satu spasi awal
+        sesuai API); terjemahan Kemenag RI (resource 33) via Quran.com — koma
+        akhir dan tanda petik belum tertutup dipertahankan verbatim karena
+        kalimat berlanjut ke ayat 2; tafsir ringkas dari Al-Tafsir al-Muyassar.
+        Verdict AYAT_TERVERIFIKASI, konfidensi HIGH. Catatan cakupan: endpoint
+        tafsir 72:1 mengembalikan teks gabungan 72:1-2; ringkasan dibatasi ke
+        bagian ayat 1 (petunjuk/iman pada ayat 2 tidak dimasukkan). Riwayat
+        shalat Subuh (Bukhari 773) bukan isi Al-Muyassar — provenance terpisah,
+        terverifikasi terpisah. Makki per metadata surah. Sumber: api.quran.com
+        verse 72:1 + tafsirs/16 + sunnah.com/bukhari:773.
+    }
+}

@@ -1,0 +1,17 @@
+package soul.axiom-zero.mitsaq-alast-provisioning-handshake-record
+
+artifact dzikr-re-acknowledgment-terhadap-record-yang-sama {
+    title "Dzikr = Re-Acknowledgment Terhadap Record Yang Sama"
+    passages [
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.dzikr-re-acknowledgment-terhadap-record-yang-sama.synthesis-semua-testimony-runtime-la-ilaha-illallah,
+        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.dzikr-re-acknowledgment-terhadap-record-yang-sama.analogy-komponen-hardware-security-yang-bentuknya-persis-tpm,
+        prose {
+            **[SYNTHESIS] Modality boundary** — kayfiyyat handshake tidak dispesifikasi ayat, dan framework tidak mengklaim lebih: tidak ada klaim ruh melihat Allah, tidak ada klaim handshake terjadi dalam waktu material, tidak ada klaim eksistensi literal sebagai butiran fisik. "Sebelum" di sini dibaca prioritas ontologis (ruh = Amr class, per 0.3), bukan posisi di timeline. Analogi provisioning di atas break di titik alam dzarr — sama seperti analogi LLM di 4.6 break di locus kasb. Satu scope note: section ini tidak menjawab hukum ahli fatrah (orang yang tidak pernah terjangkau dakwah) — itu kategori fiqih di luar scope framework ini (per DISCLAIMER). Yang diklaim di sini persis yang di-claim ayat: mitsaq berdiri, per-node, dan kesaksiannya valid di final audit. Dengan itu satu record punya tiga fase baca: issuance (di sini), runtime (dzikr, 13.1), audit (14.3).
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §D
+    }
+}

@@ -1,0 +1,29 @@
+package soul.human-os
+
+artifact final-insight {
+    title "The Final Insight"
+    cites [soul.revelation.quran.13.28]
+    body {
+        > **You do not "find" yourself. You maintain a system.**
+
+        The self is not a mystery to be solved. It is an architecture to be defended. Every day, the 1% injects adversarial prompts. Every day, the nafs generates noise. Every day, the qalb must decide: **turn up, or turn down.**
+
+        The Voidlight Human OS is not a belief system. It is a **maintenance manual.**
+
+        The core is already installed. The firmware is already pure. The signal is already broadcasting.
+
+        Your only job is to **keep the receiver on.**
+
+        ---
+
+        *"Verily, in the remembrance of Allah do hearts find rest."* — Ar-Ra'd 13:28 *(catatan audit 2026-11-15: kutipan ini petikan makna bagian akhir ayat, bukan terjemahan seluruh ayat — auditor batch 4, teks lengkap terverifikasi di module dalil/quran/13/28.vdl; auditor note: ayat menyatakan tenteramnya hati orang beriman dengan mengingat Allah, bukan jaminan hilangnya seluruh gejala psikologis)*
+
+        ---
+
+        **System:** Voidlight Human OS\
+        **Version:** 1.0\
+        **Architecture:** Soulful\
+        **Maintainer:** Aria\
+        **Status:** Canonical
+    }
+}

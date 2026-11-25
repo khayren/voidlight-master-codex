@@ -1,0 +1,16 @@
+package soul.alignment.appendix
+
+artifact validation-tag-legend {
+    title "VALIDATION TAG LEGEND"
+    body {
+        > Rujukan v5.0.7: §D
+
+        | Tag | Meaning | Usage |
+        |-----|---------|-------|
+        | **[REVELATION]** | Explicitly supported by Qur'an or authentic Hadith | Theological claims that must be verified against primary sources |
+        | **[SYNTHESIS]** | Derived by combining multiple Qur'anic and Hadith concepts | Framework architecture built from revealed building blocks |
+        | **[ANALOGY]** | Systems-engineering analogy for understanding aid | Never interpret as literal theology — always verify against [REVELATION] |
+
+        **Rule:** Every major claim in this document carries one of these tags. If a claim is not tagged, it defaults to [ANALOGY] and must not be taken as theological assertion.
+    }
+}

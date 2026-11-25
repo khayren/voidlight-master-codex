@@ -1,0 +1,34 @@
+package soul.revelation.quran.2
+
+revelation 236 {
+    source "Al-Qur’an"
+    surah "Al-Baqarah"
+    locator "2:236"
+    title "QS. Al-Baqarah [2]:236"
+    numbering "Mushaf Uthmani (quran.com text_uthmani) / terjemahan Kemenag RI (resource 33)"
+    sanad_status "verified"
+    grade_status "Teks kanonik Al-Qur'an"
+    original_text "لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ"
+    transliteration "Lā junāḥa 'alaikum in ṭallaqtumun-nisā'a mā lam tamassūhunna au tafriḍū lahunna farīḍah. Wa matti'ūhunna 'alal-mūsi'i qadaruhū wa 'alal-muqtiri qadaruhū matā'am bil-ma'rūf, ḥaqqan 'alal-muḥsinīn."
+    translation "Tidak ada dosa bagimu jika kamu menceraikan istri-istri kamu yang belum kamu sentuh (campuri) atau belum kamu tentukan maharnya. Dan hendaklah kamu beri mereka mut'ah,<sup foot_note=135040>1</sup> bagi yang mampu menurut kemampuannya dan bagi yang tidak mampu menurut kesanggupannya, yaitu pemberian dengan cara yang patut, yang merupakan kewajiban bagi orang-orang yang berbuat kebaikan."
+    body {
+        > **Tafsir (Al-Tafsir al-Muyassar, ringkas):** Ayat menjelaskan perceraian setelah akad sebelum hubungan suami istri atau sebelum mahar ditentukan. Pemberian mut'ah dijelaskan sebagai sesuatu yang bermanfaat untuk menghibur perempuan yang diceraikan, mengurangi kesedihan akibat perceraian, dan menghilangkan kebencian. Besarnya pemberian disesuaikan dengan keadaan suami, baik lapang maupun terbatas, dengan cara yang dikenal baik menurut syariat.
+
+        [Konteks pemakaian di dokumen: dipakai sebagai ilustrasi tanggung jawab tindakan sesuai kemampuan ("bagi yang mampu/muqtir"); konteks langsung ayat adalah perceraian dan mut'ah — pemakaian untuk teori agency/tawakkal adalah analogi framework.]
+    }
+}
+
+audit_note sanad-236-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Teks Arab dari field text_uthmani Quran.com diambil melalui
+        dalil-fetch.py yang dijalankan auditor sendiri; terjemahan Kemenag RI
+        (resource 33) dan Al-Tafsir al-Muyassar (resource 16) dari api.quran.com
+        (verses/by_key 2:236 + tafsirs/16/by_ayah/2:236). Verdict
+        AYAT_TERVERIFIKASI, konfidensi HIGH. Markup footnote HTML terjemahan
+        dipertahankan verbatim. Catatan auditor: kesesuaian dengan pembahasan
+        agency di dist terbatas — konteks langsung ayat adalah perceraian dan
+        mut'ah; petikan di dist bukan salinan verbatim resource 33.
+    }
+}

@@ -1,0 +1,18 @@
+package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps
+
+artifact lossy-translation-warning {
+    title "Lossy Translation Warning"
+    passages [
+        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.lossy-translation-warning.synthesis-never-downgrade-alignment-ke-transactional-cuma-biar,
+        prose {
+            - **Analogy (SAFE):** "Kayak GPS — ada satu destination (Allah), dan semua jalan bisa mengarah ke sana atau menjauh."
+            - **Equivalency (DANGEROUS):** "Dunia itu jalan, akhirat tujuan." → Ini truncate alignment jadi dualistic framework.
+            - **Downgrade (CORRUPTION):** "Alignment itu artinya ikhlas aja." → Ini strip architecture jadi behavioral advice dangkal.
+
+            ---
+        }
+    ]
+    body {
+        > Rujukan v5.0.7: §16.6.4
+    }
+}

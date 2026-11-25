@@ -1,0 +1,33 @@
+package soul.revelation.hadith.bukhari
+
+revelation 7471 {
+    source "HR. Bukhari"
+    locator "no. 7471 (Kitab at-Tauhid)"
+    numbering "Referensi sunnah.com (edisi cetak Fuad Abdul Baqi belum dicek langsung)"
+    narrator "Abu Qatadah"
+    book_section "Kitab at-Tauhid"
+    grade_status "Shahih"
+    grade_by "Imam Bukhari (dicantumkan dalam Shahih-nya)"
+    sanad_status "verified"
+    original_text "إِنَّ اللَّهَ قَبَضَ أَرْوَاحَكُمْ حِينَ شَاءَ، وَرَدَّهَا حِينَ شَاءَ ‏\"‏‏.‏ فَقَضَوْا حَوَائِجَهُمْ وَتَوَضَّئُوا إِلَى أَنْ طَلَعَتِ الشَّمْسُ وَابْيَضَّتْ فَقَامَ فَصَلَّى‏.‏"
+    transliteration "Innallāha qabaḍa arwāḥakum ḥīna syā'a, wa raddahā ḥīna syā'a. Fa-qaḍaw ḥawā'ijahum wa tawaḍḍa'u ilā an ṭala'atisy-syamsu wabyaḍḍat fa-qāma fa-ṣallā."
+    translation "Sesungguhnya Allah menahan ruh kalian saat Dia menghendaki, dan mengembalikannya saat Dia menghendaki. Mereka kemudian memenuhi keperluan dan berwudu hingga matahari terbit dan terang, lalu beliau bangkit dan menunaikan salat."
+    body {
+        > **Isi hadits (ringkas):** Varian singkat kisah tertidur hingga terlewat Subuh; penekanan pada kehendak Allah menahan dan mengembalikan ruh.
+
+        [Konteks pemakaian di dokumen: riwayat paralel 595 untuk tema tidur dan ruh; jangan mencampur redaksi 595 dan 7471 menjadi satu kutipan verbatim.]
+    }
+}
+
+audit_note sanad-7471-2026-11-15 {
+    auditor "sanad-auditor"
+    date "2026-11-15"
+    body {
+        Matn Arab verbatim diambil melalui dalil-fetch.py yang dijalankan
+        auditor sendiri dari sunnah.com/bukhari:7471. Nomor mengikuti referensi
+        sunnah.com; edisi cetak Fuad Abdul Baqi belum dicek langsung. Grading
+        individual tidak terlihat di fetch. Catatan: redaksi paralel tapi TIDAK
+        identik dengan 595 (tanpa "'alaykum" dan tanpa perintah azan kepada
+        Bilal). Verdict SAHIH_TERVERIFIKASI HIGH.
+    }
+}
