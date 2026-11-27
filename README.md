@@ -66,6 +66,17 @@ Modul adalah direktori mandiri di root: satu sub-direktori berisi source
 Panduan penulisan (struktur entri, tipe passage, disiplin sitasi) ada di
 [`.agents/skills/voidlight-vdl/SKILL.md`](.agents/skills/voidlight-vdl/SKILL.md).
 
+## Lisensi
+
+Repo ini dual license:
+
+- **Kode** (`tools/`, script, skills) — [MIT](LICENSE-MIT)
+- **Konten dokumen** (`*.vdl`, Markdown, docs) — [CC BY 4.0](LICENSE-CONTENT):
+  bebas dipakai untuk tujuan apa pun termasuk komersial, dengan kewajiban
+  atribusi ke Voidlight / Khayren + link repo ini.
+- **Teks dalil** (`dalil/`) — bukan karya pemilik repo, tidak dilisensikan
+  di sini; atribusi sumber wajib, lihat [NOTICE.md](NOTICE.md).
+
 ## Terkait
 
 - [voidlight-labs/vdl](https://github.com/voidlight-labs/vdl) — compiler VDL
