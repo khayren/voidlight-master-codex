@@ -76,7 +76,8 @@ versi, bukan klaim kepemilikan kebenaran.
 
 **Kontributor auditor sangat terbuka.** Kalau Anda mau mengaudit isi (konten
 framework, koordinat dalil, ketelusuran tafsir), buka issue atau PR. Koreksi
-berbasis sumber akan ditelusuri ke kanoniknya dan di-sync.
+berbasis sumber akan ditelusuri ke kanoniknya dan di-sync. Panduan lengkap:
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Lisensi
 
