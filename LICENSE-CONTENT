@@ -23,6 +23,22 @@ Konten ini **bebas dipakai untuk tujuan apa pun, termasuk komersial**, asal:
 2. Tidak menyiratkan bahwa pemilik konten meng-endorse pengguna atau cara
    penggunaannya.
 
+## Catatan maksud atribusi
+
+Atribusi di sini BUKAN klaim kepemilikan atas kebenaran, dan BUKAN tuntutan
+diakui sebagai pencipta. Tujuannya satu: **pertanggungjawaban**. Kalau konten
+ini dipakai, dikutip, atau dimodifikasi, atribusi membuat setiap versi bisa
+ditelusuri kembali ke sumbernya, sehingga koreksi, sanggahan, dan diskusi
+punya alamat yang jelas.
+
+## Posisi konten
+
+Konten framework di repo ini adalah **konstruksi untuk membuka ruang
+diskusi, bukan klaim kebenaran final**. Klaim sumber diberi tag dan sitasi;
+analogi diberi label; yang bersifat sintesis disebut sintesis. Koreksi,
+sanggahan, dan audit dari siapa pun (termasuk audit manual oleh pembaca
+manusia) diterima dan dinantikan: buka issue, PR, atau diskusi di repo ini.
+
 ## Pengecualian (lihat NOTICE.md)
 
 Teks dalil di `dalil/` (Al-Qur'an, terjemahan, tafsir ringkas, hadits) adalah

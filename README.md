@@ -66,6 +66,18 @@ Modul adalah direktori mandiri di root: satu sub-direktori berisi source
 Panduan penulisan (struktur entri, tipe passage, disiplin sitasi) ada di
 [`.agents/skills/voidlight-vdl/SKILL.md`](.agents/skills/voidlight-vdl/SKILL.md).
 
+## Posisi konten & undangan diskusi
+
+Framework di repo ini **tidak mengklaim kebenaran final**. Ia adalah
+konstruksi yang sengaja dibuka untuk dibaca, dibantah, dan diperbaiki:
+klaim sumber diberi sitasi, analogi diberi label, sintesis disebut sintesis.
+Atribusi di license ini murni untuk pertanggungjawaban dan ketelusuran
+versi, bukan klaim kepemilikan kebenaran.
+
+**Kontributor auditor sangat terbuka.** Kalau Anda mau mengaudit isi (konten
+framework, koordinat dalil, ketelusuran tafsir), buka issue atau PR. Koreksi
+berbasis sumber akan ditelusuri ke kanoniknya dan di-sync.
+
 ## Lisensi
 
 Repo ini dual license:
