@@ -1,12 +1,12 @@
 package soul.alignment.agency-and-qadar
 
-artifact agency-architecture-the-alignment-agent {
+artifact "soul.alignment.agency-and-qadar.alignment-agent" {
     title "AGENCY ARCHITECTURE: THE ALIGNMENT AGENT"
     includes [
-        soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.manusia-as-authorized-executor-not-independent-actor,
-        soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.agency-vs-fatalisme,
-        soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.alignment-recovery-protocol,
-        soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.boot-sequence-niat-as-alignment-activation-protocol
+        "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor",
+        "soul.alignment.agency-and-qadar.alignment-agent.agency-vs-fatalisme",
+        "soul.alignment.agency-and-qadar.alignment-agent.alignment-recovery-protocol",
+        "soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat"
     ]
     body {
         > Rujukan v5.0.7: §6

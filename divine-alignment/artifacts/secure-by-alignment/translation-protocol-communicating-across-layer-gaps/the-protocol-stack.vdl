@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps
 
-artifact the-protocol-stack {
+artifact "soul.alignment.secure-by-alignment.translation-protocol.the-protocol-stack" {
     title "The Protocol Stack"
     body {
         > Rujukan v5.0.7: §16.6.2

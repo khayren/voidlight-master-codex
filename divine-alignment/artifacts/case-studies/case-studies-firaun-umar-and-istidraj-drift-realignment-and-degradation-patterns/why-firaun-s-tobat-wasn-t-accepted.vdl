@@ -1,10 +1,10 @@
 package soul.alignment.case-studies.case-studies-firaun-umar-and-istidraj-drift-realignment-and-degradation-patterns
 
-artifact why-firaun-s-tobat-wasn-t-accepted {
+artifact "soul.alignment.case-studies.firaun-umar-istidraj.firaun-tobat-rejected" {
     title "Why Firaun's \"Tobat\" Wasn't Accepted"
     cites [soul.revelation.quran.10.91, soul.revelation.quran.10.90]
     passages [
-        soul.alignment.case-studies.case-studies-firaun-umar-and-istidraj-drift-realignment-and-degradation-patterns.why-firaun-s-tobat-wasn-t-accepted.revelation-qs-yunus-10-91,
+        "soul.alignment.case-studies.firaun-umar-istidraj.firaun-tobat-rejected.revelation-qs-yunus-10-91",
         prose {
             Bukan karena Allah nggak mau ampuni — tapi karena:
 

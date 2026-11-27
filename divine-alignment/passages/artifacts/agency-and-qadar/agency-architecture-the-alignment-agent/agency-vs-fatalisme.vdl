@@ -1,6 +1,6 @@
 package soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.agency-vs-fatalisme
 
-synthesis synthesis-pendekatan-keyakinan-hasil-alignment {
+synthesis "soul.alignment.agency-and-qadar.alignment-agent.agency-vs-fatalisme.synthesis-pendekatan-keyakinan-hasil-alignment" {
     body {
         | Pendekatan | Keyakinan | Hasil Alignment |
         |---|---|---|

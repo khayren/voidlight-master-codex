@@ -1,12 +1,12 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.tazkiyah-deep-alignment-remediation
 
-synthesis synthesis-nafs-yang-kotor-bukan-cuma-slow-performance {
+synthesis "soul.alignment.maintenance-and-sync.maintenance-protocols.tazkiyah-remediation.synthesis-nafs-yang-kotor-bukan-cuma-slow-performance" {
     body {
         Nafs yang kotor bukan cuma "slow performance" — itu **full-blown compromise**. Rootkit di kernel level yang mengganggu setiap alignment signal.
     }
 }
 
-revelation revelation-qs-asy-syams-91-9-10 {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.tazkiyah-remediation.revelation-qs-asy-syams-91-9-10" {
     cites [soul.revelation.quran.91.9-10]
     body {
         QS. Asy-Syams [91]:9-10 —
@@ -17,7 +17,7 @@ revelation revelation-qs-asy-syams-91-9-10 {
     }
 }
 
-revelation revelation-ayat-ini-adalah-alignment-success-metric {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.tazkiyah-remediation.revelation-ayat-ini-adalah-alignment-success-metric" {
     body {
         — Ayat ini adalah *alignment success metric*: beruntung = node yang achieve clean alignment state melalui tazkiyah.
     }

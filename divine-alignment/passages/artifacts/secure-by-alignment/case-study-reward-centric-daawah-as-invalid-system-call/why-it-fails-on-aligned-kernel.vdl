@@ -1,12 +1,12 @@
 package soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.why-it-fails-on-aligned-kernel
 
-analogy analogy-di-node-dengan-single-target-architecture-active-reward {
+analogy "soul.alignment.secure-by-alignment.case-reward-daawah.fails-on-aligned-kernel.analogy-di-node-dengan-single-target-architecture-active-reward" {
     body {
         Di node dengan single-target architecture active, **reward-centric framing tidak bisa di-consume** karena system nggak punya register untuk "reward sebagai independent target object."
     }
 }
 
-synthesis synthesis-bukan-karena-node-nya-nggak-mau-chase-reward {
+synthesis "soul.alignment.secure-by-alignment.case-reward-daawah.fails-on-aligned-kernel.synthesis-bukan-karena-node-nya-nggak-mau-chase-reward" {
     body {
         Bukan karena node-nya "nggak mau" chase reward. Tapi karena **wujud mumkin (per 0.1) dengan niyyah yang condong ke Source (per 0.7) tidak bisa recognize "reward sebagai tujuan" sebagai valid target address — itu bukan dalam scope kasb-nya.** Semua yang ada di memory map cuma: Source (Allah), alignment state, dan derivative signals yang nggak bisa di-dereference sebagai target.
     }

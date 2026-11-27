@@ -1,6 +1,6 @@
 package soul.alignment.drift-detection
 
-artifact prerequisite-axiom-0-threat-model-layer-solid-paham-jin-bypass-signal-attribution-istidraj-mechanism {
+artifact "soul.alignment.drift-detection.prereq-threat-model" {
     title "(Prerequisite: Axiom 0 + Threat Model Layer solid — paham Jin bypass, Signal Attribution, Istidraj mechanism)"
     body {
         ---

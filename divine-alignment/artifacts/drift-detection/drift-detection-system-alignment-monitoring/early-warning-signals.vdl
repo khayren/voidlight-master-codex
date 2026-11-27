@@ -1,6 +1,6 @@
 package soul.alignment.drift-detection.drift-detection-system-alignment-monitoring
 
-artifact early-warning-signals {
+artifact "soul.alignment.drift-detection.drift-monitoring-sistem.early-warning-signals" {
     title "Early Warning Signals"
     body {
         > Rujukan v5.0.7: §9.1

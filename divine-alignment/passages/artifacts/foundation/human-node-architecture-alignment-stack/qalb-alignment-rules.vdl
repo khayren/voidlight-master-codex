@@ -1,6 +1,6 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-alignment-rules
 
-synthesis synthesis-qalb-bukan-sekadar-firewall-yang-nge-block-malware {
+synthesis "soul.alignment.foundation.human-node-stack.qalb-rules.synthesis-qalb-bukan-sekadar-firewall-yang-nge-block-malware" {
     body {
         Qalb bukan sekadar "firewall yang nge-block malware." Qalb adalah **Alignment Engine** yang memutuskan: signal ini *mendekatkan* ke Allah atau *menjauhkan* dari Allah?
     }

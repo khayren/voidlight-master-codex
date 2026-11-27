@@ -1,15 +1,15 @@
 package soul.alignment.authorized-exceptions
 
-artifact authorized-exceptions-dalam-qadar {
+artifact "soul.alignment.authorized-exceptions.exceptions-dalam-qadar" {
     title "AUTHORIZED EXCEPTIONS (DALAM QADAR)"
     passages [
-        soul.alignment.authorized-exceptions.authorized-exceptions-dalam-qadar.revelation-tipe-jenis-dalam-qadar,
+        "soul.alignment.authorized-exceptions.exceptions-dalam-qadar.revelation-tipe-jenis-dalam-qadar",
         prose {
             **Bedanya:**
             - Mukjizat = `if (user.role == PROPHET) { execute(miracle) }` → hardcoded, not alignment-dependent
             - Karamah = `if (user.heart_state == OPTIMAL && proximity == DIRECT) { grant(karamah) }` → conditional, path-based, *byproduct of deep alignment*
         },
-        soul.alignment.authorized-exceptions.authorized-exceptions-dalam-qadar.revelation-hadits-shahih-riwayat-bukhari-dan-muslim,
+        "soul.alignment.authorized-exceptions.exceptions-dalam-qadar.revelation-hadits-shahih-riwayat-bukhari-dan-muslim",
         prose {
             ---
         }

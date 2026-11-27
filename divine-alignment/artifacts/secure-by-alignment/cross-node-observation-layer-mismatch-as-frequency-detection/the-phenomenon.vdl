@@ -1,9 +1,9 @@
 package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection
 
-artifact the-phenomenon {
+artifact "soul.alignment.secure-by-alignment.cross-node-observation.the-phenomenon" {
     title "The Phenomenon"
     passages [
-        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.the-phenomenon.synthesis-node-dengan-state-aligned-sebuah-wujud
+        "soul.alignment.secure-by-alignment.cross-node-observation.the-phenomenon.synthesis-node-dengan-state-aligned-sebuah-wujud"
     ]
     body {
         > Rujukan v5.0.7: §16.5.1

@@ -1,6 +1,6 @@
 package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network
 
-artifact jin-parallel-user-node-different-vessel {
+artifact "soul.alignment.foundation.entity-types.jin-user-node" {
     title "Jin — Parallel User Node (Different Vessel)"
     cites [
         soul.revelation.quran.2.102,
@@ -8,7 +8,7 @@ artifact jin-parallel-user-node-different-vessel {
         soul.revelation.hadith.bukhari.773
     ]
     passages [
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.jin-parallel-user-node-different-vessel.revelation-karakteristik-teologis-punya-free-will-diuji,
+        "soul.alignment.foundation.entity-types.jin-user-node.revelation-karakteristik-teologis-punya-free-will-diuji",
         prose {
             | Karakteristik | Arsitektural Equivalent |
             |---|---|
@@ -19,12 +19,12 @@ artifact jin-parallel-user-node-different-vessel {
             | Read Access ke Malakut | Bisa detect signal yang manusia gak bisa detect — different sensor package |
             | Cannot write Dunya directly | Gak bisa execute di Dunya tanpa collaborator |
         },
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.jin-parallel-user-node-different-vessel.analogy-jin-node-ruh-niyyah-qalb,
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.jin-parallel-user-node-different-vessel.synthesis-jin-punya-read-access-ke-malakut,
+        "soul.alignment.foundation.entity-types.jin-user-node.analogy-jin-node-ruh-niyyah-qalb",
+        "soul.alignment.foundation.entity-types.jin-user-node.synthesis-jin-punya-read-access-ke-malakut",
         prose {
             Jin dan Manusia adalah *peer nodes* dalam network wujud mumkin (per 0.1) — sama-sama disustain tiap tick (per 0.2), sama-sama punya kapasitas kasb (per 0.6) dan niyyah (per 0.7). — sama-sama punya kapasitas untuk align atau drift. Bedanya hanya *hardware* (vessel type) dan *filter config* (Jin bisa read Malakut, Manusia terbatas ke Dunya).
         },
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.jin-parallel-user-node-different-vessel.revelation-qs-al-jinn-72-1
+        "soul.alignment.foundation.entity-types.jin-user-node.revelation-qs-al-jinn-72-1"
     ]
     body {
         > Rujukan v5.0.7: §3.2

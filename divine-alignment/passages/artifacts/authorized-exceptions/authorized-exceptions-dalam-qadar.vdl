@@ -1,6 +1,6 @@
 package soul.alignment.authorized-exceptions.authorized-exceptions-dalam-qadar
 
-revelation revelation-tipe-jenis-dalam-qadar {
+revelation "soul.alignment.authorized-exceptions.exceptions-dalam-qadar.revelation-tipe-jenis-dalam-qadar" {
     body {
         | Tipe | Jenis | Dalam Qadar? | Cara Execute |
         |---|---|---|---|
@@ -9,7 +9,7 @@ revelation revelation-tipe-jenis-dalam-qadar {
     }
 }
 
-revelation revelation-hadits-shahih-riwayat-bukhari-dan-muslim {
+revelation "soul.alignment.authorized-exceptions.exceptions-dalam-qadar.revelation-hadits-shahih-riwayat-bukhari-dan-muslim" {
     cites [soul.revelation.hadith.bukhari.4981, soul.revelation.hadith.muslim.152]
     body {
         Hadits Shahih riwayat Bukhari no. 4981 dan Muslim no. 152, dari Abu Hurairah — [Catatan audit 2026-11-14 (sanad-auditor): pokok riwayat terverifikasi di Bukhari 4981 (Kitab Fadhail al-Quran) dan Muslim 152 (Kitab al-Iman); lafaz transliterasi di bawah adalah parafrase/pokok makna, bukan kutipan verbatim kedua kitab — kutipan persis perlu diambil langsung dari matn Bukhari/Muslim.]

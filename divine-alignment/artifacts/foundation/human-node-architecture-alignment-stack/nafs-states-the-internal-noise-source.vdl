@@ -1,9 +1,9 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack
 
-artifact nafs-states-the-internal-noise-source {
+artifact "soul.alignment.foundation.human-node-stack.nafs-noise-source" {
     title "Nafs States: The Internal Noise Source"
     passages [
-        soul.alignment.foundation.human-node-architecture-alignment-stack.nafs-states-the-internal-noise-source.synthesis-nafs-bukan-musuh-yang-harus-dihancurkan,
+        "soul.alignment.foundation.human-node-stack.nafs-noise-source.synthesis-nafs-bukan-musuh-yang-harus-dihancurkan",
         prose {
             | State | Deskripsi Alignment | Status |
             |---|---|---|

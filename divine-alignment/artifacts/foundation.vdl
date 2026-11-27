@@ -4,11 +4,11 @@ artifact foundation {
     title "FOUNDATION LAYER"
     includes [
         soul.alignment.foundation.prerequisite-axiom-0-entry-point-for-all-readers,
-        soul.alignment.foundation.core-philosophy-divine-alignment,
-        soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network,
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network,
-        soul.alignment.foundation.human-node-architecture-alignment-stack,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session
+        "soul.alignment.foundation.core-philosophy",
+        "soul.alignment.foundation.cosmic-architecture",
+        "soul.alignment.foundation.entity-types",
+        "soul.alignment.foundation.human-node-stack",
+        "soul.alignment.foundation.alignment-session"
     ]
     body {
         > Rujukan v5.0.7: Part I

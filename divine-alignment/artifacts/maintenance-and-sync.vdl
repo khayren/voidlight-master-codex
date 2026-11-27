@@ -2,7 +2,7 @@ package soul.alignment
 
 artifact maintenance-and-sync {
     title "MAINTENANCE & SYNC PROTOCOLS"
-    includes [soul.alignment.maintenance-and-sync.applied-across-all-layers-practical-alignment-implementation, soul.alignment.maintenance-and-sync.alignment-maintenance-protocols]
+    includes ["soul.alignment.maintenance-and-sync.practical-implementation", "soul.alignment.maintenance-and-sync.maintenance-protocols"]
     body {
         > Rujukan v5.0.7: Part VI
     }

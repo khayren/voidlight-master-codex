@@ -1,17 +1,17 @@
 package soul.alignment.threat-model.threat-model-alignment-attack-vectors
 
-artifact jin-bypass-direct-signal-injection {
+artifact "soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-injection" {
     title "Jin Bypass — Direct Signal Injection"
     cites [soul.revelation.quran.114.5]
     passages [
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-direct-signal-injection.revelation-jin-gak-bisa-coexist-di-dunya-beda,
+        "soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-injection.revelation-jin-gak-bisa-coexist-di-dunya-beda",
         prose {
             - **Mechanism:** Direct emotional injection — signal yang masuk bypassing alignment engine
             - **Effect:** Emosi meledak instant, waswas tiba-tiba, godaan yang "datang dari dalam" padahal external
             - **Contoh:** Marah tanpa sebab logis, takut mendadak, nafsu yang muncul tiba-tiba
         },
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-direct-signal-injection.revelation-qs-an-nas-114-5,
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-direct-signal-injection.synthesis-jin-bypass-bukan-kejahatan-dalam-moralistic-sense
+        "soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-injection.revelation-qs-an-nas-114-5",
+        "soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-injection.synthesis-jin-bypass-bukan-kejahatan-dalam-moralistic-sense"
     ]
     body {
         > Rujukan v5.0.7: §8.1

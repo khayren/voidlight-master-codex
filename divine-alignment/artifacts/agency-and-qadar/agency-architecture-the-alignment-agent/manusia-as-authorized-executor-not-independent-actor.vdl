@@ -1,15 +1,15 @@
 package soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent
 
-artifact manusia-as-authorized-executor-not-independent-actor {
+artifact "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor" {
     title "Manusia as Authorized Executor, Not Independent Actor"
     cites [soul.revelation.quran.2.286]
     passages [
-        soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.manusia-as-authorized-executor-not-independent-actor.synthesis-manusia-bukan-creator-dari-sebuah-aksi-melainkan,
+        "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor.synthesis-manusia-bukan-creator-dari-sebuah-aksi-melainkan",
         prose {
             Framing "Mahall azh-Zhuhur" (lokasi tempat wujud majazi terjadi, per 0.5) dari v3.x mengaburkan bahwa manusia adalah *kasib* (per 0.6: mengakses Kun, bukan memilikinya), bukan sekadar terminal pasif. Framing "Authorized Executor" menjaga bahwa manusia punya *agency* dalam alignment — tapi agency-nya adalah *executive*, bukan *legislative*. Manusia tidak membuat aturan. Manusia memilih bagaimana menavigasi aturan yang sudah ada sambil menjaga alignment ke Source.
         },
-        soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.manusia-as-authorized-executor-not-independent-actor.revelation-qs-al-baqarah-2-286,
-        soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.manusia-as-authorized-executor-not-independent-actor.revelation-ayat-ini-adalah-kasb-contract-per
+        "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor.revelation-qs-al-baqarah-2-286",
+        "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor.revelation-ayat-ini-adalah-kasb-contract-per"
     ]
     body {
         > Rujukan v5.0.7: §6.1

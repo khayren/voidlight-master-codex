@@ -1,6 +1,6 @@
 package soul.alignment.foundation.operational-lifecycle-the-alignment-session.runtime-life-alignment-maintenance
 
-synthesis synthesis-input-sistem-menerima-divine-signal-amr-terus-menerus {
+synthesis "soul.alignment.foundation.alignment-session.runtime-maintenance.synthesis-input-sistem-menerima-divine-signal-amr-terus-menerus" {
     body {
         **Input:** Sistem menerima Divine Signal (Amr) terus-menerus sebagai power source dan alignment reference.
     }

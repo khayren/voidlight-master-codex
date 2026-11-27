@@ -1,13 +1,13 @@
 package soul.alignment.maintenance-and-sync
 
-artifact alignment-maintenance-protocols {
+artifact "soul.alignment.maintenance-and-sync.maintenance-protocols" {
     title "ALIGNMENT MAINTENANCE PROTOCOLS"
     includes [
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.sholat-daily-alignment-sync,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.puasa-full-system-realignment-scan,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.tazkiyah-deep-alignment-remediation,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.jamaah-alignment-mesh-network,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol
+        "soul.alignment.maintenance-and-sync.maintenance-protocols.sholat-daily-sync",
+        "soul.alignment.maintenance-and-sync.maintenance-protocols.puasa-realignment",
+        "soul.alignment.maintenance-and-sync.maintenance-protocols.tazkiyah-remediation",
+        "soul.alignment.maintenance-and-sync.maintenance-protocols.jamaah-mesh",
+        "soul.alignment.maintenance-and-sync.maintenance-protocols.transmutasi-redirect"
     ]
     body {
         > Rujukan v5.0.7: §13

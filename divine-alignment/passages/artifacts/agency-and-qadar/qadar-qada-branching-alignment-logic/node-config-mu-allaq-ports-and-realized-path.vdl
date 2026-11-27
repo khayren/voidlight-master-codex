@@ -1,6 +1,6 @@
 package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.node-config-mu-allaq-ports-and-realized-path
 
-analogy analogy-qadar-node-config-taqdir-mu-allaq-ports {
+analogy "soul.alignment.agency-and-qadar.qadar-qada-branching.muallaq-ports.analogy-qadar-node-config-taqdir-mu-allaq-ports" {
     body {
         ```
         Qadar — Node Config:        Taqdir Mu'allaq (Ports):     Qada (Realized Path):
@@ -14,7 +14,7 @@ analogy analogy-qadar-node-config-taqdir-mu-allaq-ports {
     }
 }
 
-synthesis synthesis-qadar-node-config-per-individu-yang {
+synthesis "soul.alignment.agency-and-qadar.qadar-qada-branching.muallaq-ports.synthesis-qadar-node-config-per-individu-yang" {
     body {
         Qadar = node config per individu yang tidak bisa diubah — dengan dua status flag di dalamnya: **mubram** (fixed points, immutable) dan **mu'allaq** (opsi kondisional di antara fixed points). Qada = cabang yang benar-benar terpilih dan terlaksana. Setiap path mu'allaq punya **alignment gradient** — beberapa path membawa node lebih dekat ke Source, beberapa menjauhkan. Pilihan terjadi di lapisan mu'allaq lewat Iradah; hasil pilihan yang terkunci di checkpoint berikutnya menjadi bagian dari realized path (qada).
     }

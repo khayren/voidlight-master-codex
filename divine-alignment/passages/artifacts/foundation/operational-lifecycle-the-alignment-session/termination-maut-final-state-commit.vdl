@@ -1,17 +1,17 @@
 package soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit
 
-revelation revelation-revelation {
+revelation "soul.alignment.foundation.alignment-session.maut-final-commit.revelation-revelation" {
     body {
     }
 }
 
-synthesis synthesis-proses-token-revocation-alignment-token-ruh-ditarik {
+synthesis "soul.alignment.foundation.alignment-session.maut-final-commit.synthesis-proses-token-revocation-alignment-token-ruh-ditarik" {
     body {
         Proses **Token Revocation**. Alignment Token (Ruh) ditarik kembali ke Allah. Hardware masuk fase Deprecation (kembali ke tanah).
     }
 }
 
-revelation revelation-qs-az-zumar-39-42 {
+revelation "soul.alignment.foundation.alignment-session.maut-final-commit.revelation-qs-az-zumar-39-42" {
     cites [soul.revelation.quran.39.42, soul.revelation.hadith.bukhari.595, soul.revelation.hadith.bukhari.7471, soul.revelation.hadith.bukhari.6320, soul.revelation.hadith.muslim.2714a]
     body {
         QS. Az-Zumar [39]:42 —
@@ -33,7 +33,7 @@ revelation revelation-qs-az-zumar-39-42 {
     }
 }
 
-audit_note sanad-re-audit-2026-11-15 {
+audit_note "soul.alignment.foundation.alignment-session.maut-final-commit.sanad-re-audit-2026-11-15" {
     auditor "sanad-auditor (re-audit Task B, owner decision)"
     date "2026-11-15"
     body {
@@ -53,7 +53,7 @@ audit_note sanad-re-audit-2026-11-15 {
     }
 }
 
-revelation revelation-hadits-riwayat-bukhari-no-3321-dan-muslim {
+revelation "soul.alignment.foundation.alignment-session.maut-final-commit.revelation-hadits-riwayat-bukhari-no-3321-dan-muslim" {
     cites [soul.revelation.hadith.bukhari.3321, soul.revelation.hadith.muslim.2245]
     body {
         Hadits riwayat Bukhari no. 3321 dan Muslim no. 2245, dari Abu Hurairah — Nabi SAW bersabda:
@@ -64,7 +64,7 @@ revelation revelation-hadits-riwayat-bukhari-no-3321-dan-muslim {
     }
 }
 
-analogy analogy-termination-final-state-commit-ke-immutable {
+analogy "soul.alignment.foundation.alignment-session.maut-final-commit.analogy-termination-final-state-commit-ke-immutable" {
     body {
         Termination = final state commit ke immutable database (Lauhul Mahfuzh). State tidak bisa diubah setelah commit. Node dengan Qalb Salim = committed dalam state aligned. Node dengan Qalb Aghlaf = committed dalam state drifted.
     }

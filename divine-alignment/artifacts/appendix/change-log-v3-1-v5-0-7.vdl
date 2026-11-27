@@ -1,6 +1,6 @@
 package soul.alignment.appendix
 
-artifact change-log-v3-1-v5-0-7 {
+artifact "soul.alignment.appendix.change-log" {
     title "CHANGE LOG: v3.1 → v5.0.7"
     cites [
         soul.revelation.quran.2.7,

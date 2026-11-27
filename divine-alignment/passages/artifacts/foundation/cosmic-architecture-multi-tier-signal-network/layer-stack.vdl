@@ -1,6 +1,6 @@
 package soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.layer-stack
 
-analogy analogy-layer-spiritual-technical {
+analogy "soul.alignment.foundation.cosmic-architecture.layer-stack.analogy-layer-spiritual-technical" {
     body {
         | Layer | Spiritual | Technical | Scope |
         |---|---|---|---|
@@ -12,7 +12,7 @@ analogy analogy-layer-spiritual-technical {
     }
 }
 
-synthesis synthesis-setiap-layer-di-atas-depends-entirely-pada {
+synthesis "soul.alignment.foundation.cosmic-architecture.layer-stack.synthesis-setiap-layer-di-atas-depends-entirely-pada" {
     body {
         Setiap layer di atas *depends entirely* pada layer di bawahnya. Domain (Qadar) tidak bisa mengubah Source. Application (Qada) tidak bisa mengubah Domain. Presentation (Dunya) adalah layer paling terbatas — sebuah node di Dunya tidak pernah melihat "what truly exists" dalam ontological sense, tapi selalu menerima *filtered signal* yang bisa diproses untuk alignment atau drift.
     }

@@ -1,9 +1,9 @@
 package soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call
 
-artifact why-it-fails-on-aligned-kernel {
+artifact "soul.alignment.secure-by-alignment.case-reward-daawah.fails-on-aligned-kernel" {
     title "Why It Fails on Aligned Kernel"
     passages [
-        soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.why-it-fails-on-aligned-kernel.analogy-di-node-dengan-single-target-architecture-active-reward,
+        "soul.alignment.secure-by-alignment.case-reward-daawah.fails-on-aligned-kernel.analogy-di-node-dengan-single-target-architecture-active-reward",
         prose {
             ```
             Drifted Node (Multi-Target Kernel):
@@ -18,7 +18,7 @@ artifact why-it-fails-on-aligned-kernel {
               Auto-Redirect: chase_reward() → auto-routed to maintain_alignment()
             ```
         },
-        soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.why-it-fails-on-aligned-kernel.synthesis-bukan-karena-node-nya-nggak-mau-chase-reward
+        "soul.alignment.secure-by-alignment.case-reward-daawah.fails-on-aligned-kernel.synthesis-bukan-karena-node-nya-nggak-mau-chase-reward"
     ]
     body {
         > Rujukan v5.0.7: §16.2.2

@@ -1,18 +1,18 @@
 package soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in
 
-synthesis synthesis-kalau-tidur-temporary-preview-tier-lain {
+synthesis "soul.alignment.sleep-and-death.sleep-death-finalization.maut-lock-in.synthesis-kalau-tidur-temporary-preview-tier-lain" {
     body {
         Kalau tidur = temporary preview tier lain, **maut = state wujud mumkin yang frozen** (per 0.1: node tetap mumkin, tidak upgrade ke wajib — hanya tier access yang permanentized berdasarkan final alignment state).
     }
 }
 
-synthesis synthesis-dua-defense-audit-sudah-structurally-invalid-sejak-iss {
+synthesis "soul.alignment.sleep-and-death.sleep-death-finalization.maut-lock-in.synthesis-dua-defense-audit-sudah-structurally-invalid-sejak-iss" {
     body {
         Dua defense audit sudah structurally-invalid sejak issuance (per 0.8): record Mitsaq Alast menutup klaim ghafilin dan klaim inherited-shirk sebelum runtime pertama dimulai. Final commit di sini membaca state terhadap record yang signed per node — bukan menilai defense-claim yang diajukan di pengadilan.
     }
 }
 
-revelation revelation-qs-asy-syu-ara-26-88-89 {
+revelation "soul.alignment.sleep-and-death.sleep-death-finalization.maut-lock-in.revelation-qs-asy-syu-ara-26-88-89" {
     cites [soul.revelation.quran.26.88-89, soul.revelation.hadith.bukhari.99]
     body {
         QS. Asy-Syu'ara [26]:88-89 —
@@ -26,7 +26,7 @@ revelation revelation-qs-asy-syu-ara-26-88-89 {
     }
 }
 
-revelation revelation-ayat-ini-adalah-alignment-finalization-principle-hany {
+revelation "soul.alignment.sleep-and-death.sleep-death-finalization.maut-lock-in.revelation-ayat-ini-adalah-alignment-finalization-principle-hany" {
     body {
         Ayat ini adalah *alignment finalization principle*: hanya Qalb Salim yang memiliki value di final state. Semua yang lain (harta, keturunan, status) tidak berguna tanpa alignment.
     }

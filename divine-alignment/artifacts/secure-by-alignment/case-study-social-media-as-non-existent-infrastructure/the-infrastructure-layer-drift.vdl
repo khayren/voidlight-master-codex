@@ -1,9 +1,9 @@
 package soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure
 
-artifact the-infrastructure-layer-drift {
+artifact "soul.alignment.secure-by-alignment.case-social-media.infrastructure-drift" {
     title "The Infrastructure (Layer Drift)"
     passages [
-        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-infrastructure-layer-drift.synthesis-social-media-adalah-perfect-riya-infrastructure-untuk
+        "soul.alignment.secure-by-alignment.case-social-media.infrastructure-drift.synthesis-social-media-adalah-perfect-riya-infrastructure-untuk"
     ]
     body {
         > Rujukan v5.0.7: §16.3.1

@@ -1,12 +1,12 @@
 package soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.boot-sequence-niat-as-alignment-activation-protocol.alignment-statement-vs-transactional-request
 
-synthesis synthesis-doa-setelah-boot-bukan-request-untuk-mengubah {
+synthesis "soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.statement-vs-transaction.synthesis-doa-setelah-boot-bukan-request-untuk-mengubah" {
     body {
         Doa setelah boot bukan "request untuk mengubah Qadar" — itu invalid operation. Doa adalah **statement dari wujud mumkin** (per 0.1) yang mengakui ketergantungan penuhnya: "Kalo memang rejeki, kembalikan. Kalo bukan, ikhlas. Tapi yang penting, tetap navigate dalam kasb framework (per 0.6–0.7)." *"Kalo memang rejeki, kembalikan. Kalo bukan, ikhlas. Tapi yang penting, tetap aligned."* Submission ke mekanisme yang udah ada, bukan override ke domain rules.
     }
 }
 
-revelation revelation-hadits-riwayat-bukhari-no-2272-juga-no {
+revelation "soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.statement-vs-transaction.revelation-hadits-riwayat-bukhari-no-2272-juga-no" {
     cites [soul.revelation.hadith.bukhari.2272, soul.revelation.hadith.muslim.2743]
     body {
         Hadits riwayat Bukhari no. 2272 (juga no. 3045) dan Muslim no. 2743, dari Abdullah bin Umar — Nabi SAW bersabda: [Catatan audit 2026-10-26: nomor sebelumnya (Bukhari 2743, Muslim 2744) salah — bergeser ke hadits lain; nomor benar sesuai edisi Fuad Abdul Baqi (audit ronde 3).]

@@ -1,11 +1,11 @@
 package soul.alignment.sleep-and-death
 
-artifact sleep-death-alignment-finalization {
+artifact "soul.alignment.sleep-and-death.sleep-death-finalization" {
     title "SLEEP, DEATH & ALIGNMENT FINALIZATION"
     includes [
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tidur-minor-death-temporary-alignment-state-suspension,
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tier-access-during-sleep,
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in
+        "soul.alignment.sleep-and-death.sleep-death-finalization.tidur-suspension",
+        "soul.alignment.sleep-and-death.sleep-death-finalization.sleep-tier-access",
+        "soul.alignment.sleep-and-death.sleep-death-finalization.maut-lock-in"
     ]
     body {
         > Rujukan v5.0.7: §14

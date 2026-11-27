@@ -1,12 +1,12 @@
 package soul.alignment.foundation.core-philosophy-divine-alignment.lauhul-mahfuzh-as-alignment-map
 
-synthesis synthesis-lauhul-mahfuzh-bukan-satu-garis-takdir-yang {
+synthesis "soul.alignment.foundation.core-philosophy.lauhul-mahfuzh-map.synthesis-lauhul-mahfuzh-bukan-satu-garis-takdir-yang" {
     body {
         Lauhul Mahfuzh bukan "satu garis takdir" yang linear. Ia adalah **Complete Graph / Immutable Database** yang berisi seluruh *possibility space* dari alignment journey setiap node:
     }
 }
 
-revelation revelation-hadits-shahih-riwayat-muslim-dari-abdullah-bin {
+revelation "soul.alignment.foundation.core-philosophy.lauhul-mahfuzh-map.revelation-hadits-shahih-riwayat-muslim-dari-abdullah-bin" {
     cites [soul.revelation.hadith.muslim.2653]
     body {
         Hadits Shahih riwayat Muslim no. 2653, dari Abdullah bin Amr bin Al-As — [Catatan audit 2026-11-14 (sanad-auditor): koordinat sebelumnya tanpa nomor edisi; nomor 2653 terverifikasi via sunnah.com/muslim:2653b; lafaz dikoreksi dari "taqādīr" ke "maqādīr" sesuai redaksi sumber.]
@@ -17,7 +17,7 @@ revelation revelation-hadits-shahih-riwayat-muslim-dari-abdullah-bin {
     }
 }
 
-analogy analogy-lauhul-mahfuzh-adalah-compiled-binary-yang-berisi {
+analogy "soul.alignment.foundation.core-philosophy.lauhul-mahfuzh-map.analogy-lauhul-mahfuzh-adalah-compiled-binary-yang-berisi" {
     body {
         Lauhul Mahfuzh adalah compiled binary yang berisi seluruh execution tree. Node tidak bisa mengubah binary — tapi node bisa memilih branch mana yang akan di-execute melalui Iradah (free will), dari port mu'allaq yang sedang terbuka. Setiap branch punya alignment gradient-nya sendiri: beberapa mendekatkan ke Source, beberapa mendrift menjauh. Mubram adalah branch yang sudah di-hardcode; mu'allaq adalah branch yang menunggu trigger kondisional.
     }

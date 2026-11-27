@@ -1,12 +1,12 @@
 package soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-self-selected-degradation-path
 
-synthesis synthesis-istidraj-bukan-vulnerability-exploited-ia-adalah-valid {
+synthesis "soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-degradation.synthesis-istidraj-bukan-vulnerability-exploited-ia-adalah-valid" {
     body {
         Istidraj bukan "vulnerability exploited." Ia adalah valid branch di Lauhul Mahfuzh yang wujud mumkin (per 0.1) pilih sendiri via kasb (per 0.6) di niyyah-nya (per 0.7) — arah condong ke buruk pada locus genuine agency. Istidraj adalah *degradation path pada wujud mumkin* (per 0.1) yang diaktifkan lewat kasb berulang (per 0.6) di niyyah (per 0.7) — response "lupa" dan "klaim diri" terhadap nikmat memilih drift branch.
     }
 }
 
-revelation revelation-qs-al-an-am-6-44 {
+revelation "soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-degradation.revelation-qs-al-an-am-6-44" {
     cites [soul.revelation.quran.6.44]
     body {
         QS. Al-An'am [6]:44 —

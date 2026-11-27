@@ -1,18 +1,18 @@
 package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.malaikat-immutable-background-service
 
-revelation revelation-karakteristik-teologis-tidak-punya-free-will {
+revelation "soul.alignment.foundation.entity-types.malaikat-service.revelation-karakteristik-teologis-tidak-punya-free-will" {
     body {
         — Karakteristik teologis: tidak punya free will, selalu taat, tidak diuji, tidak punya nafs.
     }
 }
 
-analogy analogy-malaikat-adalah-infrastructure-service-kayak-dns {
+analogy "soul.alignment.foundation.entity-types.malaikat-service.analogy-malaikat-adalah-infrastructure-service-kayak-dns" {
     body {
         Malaikat adalah *infrastructure service* — kayak DNS server, load balancer, atau message queue worker. Mereka process Command, forward ke target, tapi gak punya "user account" sendiri. Gak ada Iradah, gak ada Nafs, gak ada Qalb yang perlu di-maintain. Malaikat tidak perlu kasb-based navigation (per 0.6) karena mereka tidak punya niyyah (per 0.7) dan tidak punya kapasitas untuk drift — mereka adalah wujud mumkin (per 0.1) dengan hard-coded config.
     }
 }
 
-revelation revelation-qs-at-tahrim-66-6-kutipan-dari-ayat {
+revelation "soul.alignment.foundation.entity-types.malaikat-service.revelation-qs-at-tahrim-66-6-kutipan-dari-ayat" {
     cites [soul.revelation.quran.66.6]
     body {
         QS. At-Tahrim [66]:6 — (kutipan dari ayat yang lebih panjang)

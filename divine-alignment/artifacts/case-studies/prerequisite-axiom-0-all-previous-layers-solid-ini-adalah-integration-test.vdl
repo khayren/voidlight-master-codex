@@ -1,6 +1,6 @@
 package soul.alignment.case-studies
 
-artifact prerequisite-axiom-0-all-previous-layers-solid-ini-adalah-integration-test {
+artifact "soul.alignment.case-studies.prereq-integration" {
     title "(Prerequisite: Axiom 0 + all previous layers solid — ini adalah integration test)"
     body {
         ---

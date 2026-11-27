@@ -1,10 +1,10 @@
 package soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network
 
-artifact parallel-tiers-same-source-different-filter-configs {
+artifact "soul.alignment.foundation.cosmic-architecture.parallel-tiers" {
     title "Parallel Tiers (Same Source, Different Filter Configs)"
     cites [soul.revelation.quran.17.85]
     passages [
-        soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.parallel-tiers-same-source-different-filter-configs.analogy-tier-signal-manifestation-filter,
+        "soul.alignment.foundation.cosmic-architecture.parallel-tiers.analogy-tier-signal-manifestation-filter",
         prose {
             **Key Insight:** Semua tier menerima signal dari **same Source (Allah)**. Bedanya hanya *filter configuration* yang diterapkan ke masing-masing tier. Makhluk di tier atas tidak "lebih dekat dengan zat Allah" dalam ontological sense — mereka hanya punya *less filtering* antara mereka dan Divine Signal.
 

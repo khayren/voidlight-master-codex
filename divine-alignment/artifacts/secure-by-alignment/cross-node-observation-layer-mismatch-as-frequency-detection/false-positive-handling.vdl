@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection
 
-artifact false-positive-handling {
+artifact "soul.alignment.secure-by-alignment.cross-node-observation.false-positive-handling" {
     title "False Positive Handling"
     body {
         > Rujukan v5.0.7: §16.5.3

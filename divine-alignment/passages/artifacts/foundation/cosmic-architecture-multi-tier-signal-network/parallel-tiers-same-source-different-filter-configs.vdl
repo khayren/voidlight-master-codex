@@ -1,6 +1,6 @@
 package soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.parallel-tiers-same-source-different-filter-configs
 
-analogy analogy-tier-signal-manifestation-filter {
+analogy "soul.alignment.foundation.cosmic-architecture.parallel-tiers.analogy-tier-signal-manifestation-filter" {
     body {
         | Tier | Signal Manifestation | Filter Config | Entities |
         |---|---|---|---|

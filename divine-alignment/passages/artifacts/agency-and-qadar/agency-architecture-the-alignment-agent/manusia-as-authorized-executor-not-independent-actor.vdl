@@ -1,12 +1,12 @@
 package soul.alignment.agency-and-qadar.agency-architecture-the-alignment-agent.manusia-as-authorized-executor-not-independent-actor
 
-synthesis synthesis-manusia-bukan-creator-dari-sebuah-aksi-melainkan {
+synthesis "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor.synthesis-manusia-bukan-creator-dari-sebuah-aksi-melainkan" {
     body {
         Manusia bukan *creator* dari sebuah aksi, melainkan **Kasib** (per 0.6) — sebuah wujud mumkin (per 0.1) yang mengakses abstraksi Kun dalam scope terbatas lewat koneksi Amr (per 0.3). Bukan executor yang independen; tidak ada "sudo access" ke daya cipta — hanya kasb (acquisition) di titik niyyah (per 0.7). Allah menyediakan Command. Manusia menggunakan **Iradah** untuk memilih parameter eksekusi. Hasilnya adalah **Qada** — personal alignment trajectory yang berjalan.
     }
 }
 
-revelation revelation-qs-al-baqarah-2-286 {
+revelation "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor.revelation-qs-al-baqarah-2-286" {
     cites [soul.revelation.quran.2.286]
     body {
         QS. Al-Baqarah [2]:286 —
@@ -17,7 +17,7 @@ revelation revelation-qs-al-baqarah-2-286 {
     }
 }
 
-revelation revelation-ayat-ini-adalah-kasb-contract-per {
+revelation "soul.alignment.agency-and-qadar.alignment-agent.authorized-executor.revelation-ayat-ini-adalah-kasb-contract-per" {
     body {
         — Ayat ini adalah *kasb contract* (per 0.6): manusia mendapat pahala dari kebaikan yang di-*kasb*-nya (diakses lewat Amr, per 0.3, tapi dihisab di titik niyyah, per 0.7). Ini bukan "terminal pasif yang hanya menerima." Ini adalah *active agent* yang mengeksekusi — dengan konsekuensi.
     }

@@ -1,9 +1,9 @@
 package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection
 
-artifact protocol-rule {
+artifact "soul.alignment.secure-by-alignment.cross-node-observation.protocol-rule" {
     title "Protocol Rule"
     passages [
-        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.protocol-rule.synthesis-external-detection-bukan-license-untuk-judge-atau,
+        "soul.alignment.secure-by-alignment.cross-node-observation.protocol-rule.synthesis-external-detection-bukan-license-untuk-judge-atau",
         prose {
             ---
         }

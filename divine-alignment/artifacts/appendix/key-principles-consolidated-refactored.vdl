@@ -1,6 +1,6 @@
 package soul.alignment.appendix
 
-artifact key-principles-consolidated-refactored {
+artifact "soul.alignment.appendix.key-principles" {
     title "KEY PRINCIPLES (Consolidated & Refactored)"
     body {
         > Rujukan v5.0.7: §A

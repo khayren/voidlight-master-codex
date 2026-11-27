@@ -1,6 +1,6 @@
 package soul.alignment.sleep-and-death
 
-artifact integration-of-all-layers-into-terminal-alignment-state {
+artifact "soul.alignment.sleep-and-death.terminal-alignment" {
     title "(Integration of all layers into terminal alignment state)"
     body {
         ---

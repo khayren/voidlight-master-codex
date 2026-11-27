@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-infrastructure-layer-drift
 
-synthesis synthesis-social-media-adalah-perfect-riya-infrastructure-untuk {
+synthesis "soul.alignment.secure-by-alignment.case-social-media.infrastructure-drift.synthesis-social-media-adalah-perfect-riya-infrastructure-untuk" {
     body {
         Social media adalah **perfect riya' infrastructure** untuk node dengan kernel drifted karena:
         - Audience unlimited → ego target address available

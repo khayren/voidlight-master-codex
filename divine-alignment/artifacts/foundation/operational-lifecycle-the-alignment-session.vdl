@@ -1,12 +1,12 @@
 package soul.alignment.foundation
 
-artifact operational-lifecycle-the-alignment-session {
+artifact "soul.alignment.foundation.alignment-session" {
     title "OPERATIONAL LIFECYCLE: THE ALIGNMENT SESSION"
     includes [
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.provisioning-rahim-token-injection,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.runtime-life-alignment-maintenance,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.resource-management-time-bound-alignment-window,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit
+        "soul.alignment.foundation.alignment-session.rahim-token-injection",
+        "soul.alignment.foundation.alignment-session.runtime-maintenance",
+        "soul.alignment.foundation.alignment-session.time-bound-window",
+        "soul.alignment.foundation.alignment-session.maut-final-commit"
     ]
     body {
         > Rujukan v5.0.7: §5

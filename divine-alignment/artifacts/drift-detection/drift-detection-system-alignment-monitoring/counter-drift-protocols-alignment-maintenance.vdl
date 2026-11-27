@@ -1,6 +1,6 @@
 package soul.alignment.drift-detection.drift-detection-system-alignment-monitoring
 
-artifact counter-drift-protocols-alignment-maintenance {
+artifact "soul.alignment.drift-detection.drift-monitoring-sistem.counter-drift-protocols" {
     title "Counter-Drift Protocols: Alignment Maintenance"
     body {
         > Rujukan v5.0.7: §9.3

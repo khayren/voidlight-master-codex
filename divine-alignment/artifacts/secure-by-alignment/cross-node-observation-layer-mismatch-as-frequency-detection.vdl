@@ -1,12 +1,12 @@
 package soul.alignment.secure-by-alignment
 
-artifact cross-node-observation-layer-mismatch-as-frequency-detection {
+artifact "soul.alignment.secure-by-alignment.cross-node-observation" {
     title "CROSS-NODE OBSERVATION: LAYER MISMATCH AS FREQUENCY DETECTION"
     includes [
-        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.the-phenomenon,
-        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.technical-specification,
-        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.false-positive-handling,
-        soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.protocol-rule
+        "soul.alignment.secure-by-alignment.cross-node-observation.the-phenomenon",
+        "soul.alignment.secure-by-alignment.cross-node-observation.technical-specification",
+        "soul.alignment.secure-by-alignment.cross-node-observation.false-positive-handling",
+        "soul.alignment.secure-by-alignment.cross-node-observation.protocol-rule"
     ]
     body {
         > Rujukan v5.0.7: §16.5

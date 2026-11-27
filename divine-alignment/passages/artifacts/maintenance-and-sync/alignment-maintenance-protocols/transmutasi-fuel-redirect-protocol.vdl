@@ -1,12 +1,12 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol
 
-synthesis synthesis-tazkiyah-adalah-quarantine-delete-noise {
+synthesis "soul.alignment.maintenance-and-sync.maintenance-protocols.transmutasi-redirect.synthesis-tazkiyah-adalah-quarantine-delete-noise" {
     body {
         Tazkiyah adalah **quarantine + delete** — noise sources di-identify, di-isolate, di-purge. Tapi ada layer di atas Tazkiyah: **Transmutasi** — energy dari Nafs Ammarah nggak di-delete, tapi di-**redirect** jadi fuel untuk alignment (cinta Ilahi).
     }
 }
 
-revelation revelation-qs-al-baqarah-2-156 {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.transmutasi-redirect.revelation-qs-al-baqarah-2-156" {
     cites [soul.revelation.quran.2.156]
     body {
         QS. Al-Baqarah [2]:156 —
@@ -17,7 +17,7 @@ revelation revelation-qs-al-baqarah-2-156 {
     }
 }
 
-revelation revelation-ayat-ini-adalah-ownership-dissolution-command-yang {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.transmutasi-redirect.revelation-ayat-ini-adalah-ownership-dissolution-command-yang" {
     body {
         Ayat ini adalah **ownership dissolution command** yang enable transmutasi. Semua energy di node (nafsu, keinginan duniawi, bahkan trauma) adalah **derivative signals dari Source.** Node nggak own apapun. Node cuma host yang redirect energy ke alignment target.
     }

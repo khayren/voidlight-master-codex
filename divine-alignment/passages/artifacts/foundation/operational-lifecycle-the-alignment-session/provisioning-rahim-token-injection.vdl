@@ -1,12 +1,12 @@
 package soul.alignment.foundation.operational-lifecycle-the-alignment-session.provisioning-rahim-token-injection
 
-revelation revelation-inisialisasi-hardware-jasad-diikuti-dengan-injection {
+revelation "soul.alignment.foundation.alignment-session.rahim-token-injection.revelation-inisialisasi-hardware-jasad-diikuti-dengan-injection" {
     body {
         Inisialisasi hardware (jasad) diikuti dengan **injection Alignment Token (Ruh)**. Status berubah dari Offline → Active. Fitrah (default config untuk wujud mumkin baru, per 0.1–0.2) sudah terpasang — dan fitrah itu bukan config arbitrer: ruh yang di-inject adalah ruh yang sama yang pernah menjawab bala di Mitsaq Alast (0.8).
     }
 }
 
-revelation revelation-qs-as-sajdah-32-9-kutipan-dari-ayat {
+revelation "soul.alignment.foundation.alignment-session.rahim-token-injection.revelation-qs-as-sajdah-32-9-kutipan-dari-ayat" {
     cites [soul.revelation.quran.32.9, soul.revelation.quran.32.7-9, soul.revelation.quran.17.85]
     body {
         QS. As-Sajdah [32]:9 — (kutipan dari ayat yang lebih panjang)
@@ -19,7 +19,7 @@ revelation revelation-qs-as-sajdah-32-9-kutipan-dari-ayat {
     }
 }
 
-analogy analogy-provisioning-hardware-assembly-os-installation {
+analogy "soul.alignment.foundation.alignment-session.rahim-token-injection.analogy-provisioning-hardware-assembly-os-installation" {
     body {
         Provisioning = hardware assembly + OS installation dengan *default config yang mengarah ke Source*. Fitrah adalah pre-installed alignment driver. Tapi Nafs (legacy firmware) juga ikut terpasang — dan bisa mengoverride fitrah kalau tidak di-maintain.
     }

@@ -1,6 +1,6 @@
 package soul.alignment.authorized-exceptions
 
-artifact advanced-understanding-the-boundaries-of-the-alignment-system {
+artifact "soul.alignment.authorized-exceptions.system-boundaries" {
     title "(Advanced — understanding the boundaries of the alignment system)"
     body {
         ---

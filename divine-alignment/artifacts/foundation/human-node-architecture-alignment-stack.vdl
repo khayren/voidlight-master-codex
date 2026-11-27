@@ -1,14 +1,14 @@
 package soul.alignment.foundation
 
-artifact human-node-architecture-alignment-stack {
+artifact "soul.alignment.foundation.human-node-stack" {
     title "HUMAN NODE ARCHITECTURE — ALIGNMENT STACK"
     includes [
-        soul.alignment.foundation.human-node-architecture-alignment-stack.component-mapping,
-        soul.alignment.foundation.human-node-architecture-alignment-stack.operational-flow-the-alignment-pipeline,
-        soul.alignment.foundation.human-node-architecture-alignment-stack.nafs-states-the-internal-noise-source,
-        soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-alignment-rules,
-        soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-transparency-index-the-alignment-meter,
-        soul.alignment.foundation.human-node-architecture-alignment-stack.the-llm-analogy-model-in-runtime
+        "soul.alignment.foundation.human-node-stack.component-mapping",
+        "soul.alignment.foundation.human-node-stack.alignment-pipeline",
+        "soul.alignment.foundation.human-node-stack.nafs-noise-source",
+        "soul.alignment.foundation.human-node-stack.qalb-rules",
+        "soul.alignment.foundation.human-node-stack.qalb-transparency-index",
+        "soul.alignment.foundation.human-node-stack.llm-analogy"
     ]
     body {
         > Rujukan v5.0.7: §4

@@ -1,12 +1,12 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-transparency-index-the-alignment-meter
 
-synthesis synthesis-qalb-adalah-dimensi-terpisah-dari-nafs-seseorang {
+synthesis "soul.alignment.foundation.human-node-stack.qalb-transparency-index.synthesis-qalb-adalah-dimensi-terpisah-dari-nafs-seseorang" {
     body {
         Qalb adalah dimensi terpisah dari Nafs. Seseorang bisa punya Nafs Lawwamah (sadar salah) tapi Qalb-nya Mariidh (tertutup untuk kebenaran tertentu). Atau ritual-nya "baik" tapi Qalb-nya Aghlaf (tidak bisa nerima signal apapun).
     }
 }
 
-revelation revelation-qs-al-baqarah-2-7 {
+revelation "soul.alignment.foundation.human-node-stack.qalb-transparency-index.revelation-qs-al-baqarah-2-7" {
     cites [soul.revelation.quran.2.7]
     body {
         QS. Al-Baqarah [2]:7 —
@@ -17,7 +17,7 @@ revelation revelation-qs-al-baqarah-2-7 {
     }
 }
 
-revelation revelation-hadits-sahih-riwayat-ibnu-majah-4216 {
+revelation "soul.alignment.foundation.human-node-stack.qalb-transparency-index.revelation-hadits-sahih-riwayat-ibnu-majah-4216" {
     cites [soul.revelation.hadith.ibnmajah.4216]
     body {
         Hadits riwayat Ibnu Majah no. 4216 (Kitab az-Zuhd), dari Abdullah bin 'Amr — kepada Rasulullah SAW ditanya, siapa manusia yang paling utama:
@@ -33,7 +33,7 @@ revelation revelation-hadits-sahih-riwayat-ibnu-majah-4216 {
     }
 }
 
-audit_note sanad-re-audit-2026-11-15 {
+audit_note "soul.alignment.foundation.human-node-stack.qalb-transparency-index.sanad-re-audit-2026-11-15" {
     auditor "sanad-auditor (re-audit Task B, owner decision)"
     date "2026-11-15"
     body {

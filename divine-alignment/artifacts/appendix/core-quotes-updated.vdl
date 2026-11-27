@@ -1,6 +1,6 @@
 package soul.alignment.appendix
 
-artifact core-quotes-updated {
+artifact "soul.alignment.appendix.core-quotes" {
     title "CORE QUOTES (Updated)"
     cites [soul.revelation.quran.10.91]
     body {

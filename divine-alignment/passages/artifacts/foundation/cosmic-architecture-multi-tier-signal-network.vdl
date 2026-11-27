@@ -1,12 +1,12 @@
 package soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network
 
-synthesis synthesis-tiga-alam-bukan-tiga-lantai-gedung-tapi {
+synthesis "soul.alignment.foundation.cosmic-architecture.synthesis-tiga-alam-bukan-tiga-lantai-gedung-tapi" {
     body {
         Tiga alam bukan tiga lantai gedung, tapi **tiga tier akses signal dari same Source** — dengan filter thickness yang berbeda-beda. Dunya adalah tier dengan filtering paling tebal. Alam Malakut adalah tier dengan filter lebih tipis. Alam Al-Amr adalah *command definition layer* sebelum signal di-render sama sekali.
     }
 }
 
-revelation revelation-qs-al-anbiya-21-33 {
+revelation "soul.alignment.foundation.cosmic-architecture.revelation-qs-al-anbiya-21-33" {
     cites [soul.revelation.quran.21.33]
     body {
         QS. Al-Anbiya [21]:33 —

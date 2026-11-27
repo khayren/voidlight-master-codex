@@ -1,6 +1,6 @@
 package soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tier-access-during-sleep
 
-synthesis synthesis-qalb-state-tier-access {
+synthesis "soul.alignment.sleep-and-death.sleep-death-finalization.sleep-tier-access.synthesis-qalb-state-tier-access" {
     body {
         | Qalb State | Tier Access |
         |---|---|
@@ -10,7 +10,7 @@ synthesis synthesis-qalb-state-tier-access {
     }
 }
 
-analogy analogy-tidur-temporary-firewall-relaxation-node-dengan {
+analogy "soul.alignment.sleep-and-death.sleep-death-finalization.sleep-tier-access.analogy-tidur-temporary-firewall-relaxation-node-dengan" {
     body {
         Tidur = temporary firewall relaxation. Node dengan Qalb bersih = relaxed tapi tetap secure (signal bersih masuk). Node dengan Qalb kotor = relaxed dan vulnerable (noise masuk lebih gampang).
     }

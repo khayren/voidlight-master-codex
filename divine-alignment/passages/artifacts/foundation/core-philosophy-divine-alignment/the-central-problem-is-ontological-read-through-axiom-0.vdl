@@ -1,12 +1,12 @@
 package soul.alignment.foundation.core-philosophy-divine-alignment.the-central-problem-is-ontological-read-through-axiom-0
 
-synthesis synthesis-framework-lama-v3-x-membingkai-masalah-utama-sebagai {
+synthesis "soul.alignment.foundation.core-philosophy.ontological-problem.synthesis-framework-lama-v3-x-membingkai-masalah-utama-sebagai" {
     body {
         Framework lama (v3.x) membingkai masalah utama sebagai: *"Apa yang benar-benar ada?"* — sebuah pertanyaan ontologis yang membuka risiko interpretasi pantheist, incarnation, atau pengaburan batasan antara Khalik dan makhluk.
     }
 }
 
-revelation revelation-qs-taha-20-14 {
+revelation "soul.alignment.foundation.core-philosophy.ontological-problem.revelation-qs-taha-20-14" {
     cites [soul.revelation.quran.20.14]
     body {
         QS. Taha [20]:14 —
@@ -17,7 +17,7 @@ revelation revelation-qs-taha-20-14 {
     }
 }
 
-analogy analogy-framework-ini-menjawab-client-wujud-mumkin-per {
+analogy "soul.alignment.foundation.core-philosophy.ontological-problem.analogy-framework-ini-menjawab-client-wujud-mumkin-per" {
     body {
         Framework ini menjawab: "Client (wujud mumkin, per 0.1) eksis hanya karena terus menerima sustain signal dari server (Wujud Wajib, per 0.2). Bukan pertanyaan apakah client dan server "satu" — tapi bagaimana client, sebagai eksistensi penuh yang contingent, menavigasi ketergantungan penuhnya pada server."
     }

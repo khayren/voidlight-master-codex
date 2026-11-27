@@ -1,12 +1,12 @@
 package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.jin-parallel-user-node-different-vessel
 
-revelation revelation-karakteristik-teologis-punya-free-will-diuji {
+revelation "soul.alignment.foundation.entity-types.jin-user-node.revelation-karakteristik-teologis-punya-free-will-diuji" {
     body {
         — Karakteristik teologis: punya free will, diuji, punya nafs, bisa taat atau rebel.
     }
 }
 
-analogy analogy-jin-node-ruh-niyyah-qalb {
+analogy "soul.alignment.foundation.entity-types.jin-user-node.analogy-jin-node-ruh-niyyah-qalb" {
     body {
         ```
         Jin Node:   Ruh → Niyyah → Qalb → Aql ↔ Nafs → Qada → Qadar → Jasad (Smoke/Fire-Vessel)
@@ -15,14 +15,14 @@ analogy analogy-jin-node-ruh-niyyah-qalb {
     }
 }
 
-synthesis synthesis-jin-punya-read-access-ke-malakut {
+synthesis "soul.alignment.foundation.entity-types.jin-user-node.synthesis-jin-punya-read-access-ke-malakut" {
     cites [soul.revelation.quran.2.102, soul.revelation.quran.72.1]
     body {
         — Jin punya Read Access ke Malakut dan tidak bisa write Dunya langsung (turunan dari QS. Al-Baqarah [2]:102 dan QS. Al-Jinn [72]:1). Tidak ada dalil tunggal yang eksplisit; konsep ini disintesis dari keterbatasan Jin berinteraksi dengan Dunya. Lihat Section 8.3.
     }
 }
 
-revelation revelation-qs-al-jinn-72-1 {
+revelation "soul.alignment.foundation.entity-types.jin-user-node.revelation-qs-al-jinn-72-1" {
     cites [soul.revelation.quran.72.1, soul.revelation.hadith.bukhari.773]
     body {
         QS. Al-Jinn [72]:1 —

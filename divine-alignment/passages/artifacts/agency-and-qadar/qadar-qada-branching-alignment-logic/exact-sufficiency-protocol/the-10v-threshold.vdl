@@ -1,18 +1,18 @@
 package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold
 
-analogy analogy-definition-the-10v-threshold-is-the {
+analogy "soul.alignment.agency-and-qadar.qadar-qada-branching.exact-sufficiency.10v-threshold.analogy-definition-the-10v-threshold-is-the" {
     body {
         > **Definition:** The 10V Threshold is the precise operational boundary where a wujud mumkin's (per 0.1) available resources (alignment reserve, material capacity, time) are depleted *exactly* at the moment the next checkpoint is reached — not a moment sooner, not a moment later. It is the lived manifestation of Exact Sufficiency under conditions of incomplete information, maximum ikhtiar, and active tawakkal.
     }
 }
 
-analogy analogy-dalam-operational-terms-exact-sufficiency-berarti-node {
+analogy "soul.alignment.agency-and-qadar.qadar-qada-branching.exact-sufficiency.10v-threshold.analogy-dalam-operational-terms-exact-sufficiency-berarti-node" {
     body {
         Dalam operational terms, exact sufficiency berarti node nggak pernah diberi *surplus safety* yang bikin dia bisa "coba-coba" atau "nanti aja." Node (wujud mumkin, per 0.1) diberi exact resource yang cukup untuk sampai ke checkpoint berikutnya dengan selamat — lewat sustain signal dari Source (per 0.2), bukan tenaga sendiri. Tidak ada surplus untuk "main-main" karena Kun bukan milik node (per 0.6: la quwwata illa billah).
     }
 }
 
-revelation revelation-qs-al-insyirah-94-5-6 {
+revelation "soul.alignment.agency-and-qadar.qadar-qada-branching.exact-sufficiency.10v-threshold.revelation-qs-al-insyirah-94-5-6" {
     cites [soul.revelation.quran.94.5-6]
     body {
         QS. Al-Insyirah [94]:5-6 —
@@ -25,7 +25,7 @@ revelation revelation-qs-al-insyirah-94-5-6 {
     }
 }
 
-revelation revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan {
+revelation "soul.alignment.agency-and-qadar.qadar-qada-branching.exact-sufficiency.10v-threshold.revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan" {
     body {
         — Satu kesulitan, dua kemudahan. Tapi kemudahan nggak datang sebagai *excess buffer* — kemudahan datang sebagai **exact next step** yang muncul pas node udah jalan dengan alignment protocol bener. Nggak sebelum, nggak setelah. Exact timing.
     }

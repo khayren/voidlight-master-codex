@@ -1,12 +1,12 @@
 package soul.alignment.case-studies.case-studies-firaun-umar-and-istidraj-drift-realignment-and-degradation-patterns.istidraj-nikmat-as-alignment-test-vs-degradation-path.scenario-b-istidraj-degradation-path
 
-synthesis synthesis-orang-miskin-yang-diberi-harta-response-lupa {
+synthesis "soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj.synthesis-orang-miskin-yang-diberi-harta-response-lupa" {
     body {
         Orang miskin yang diberi harta. Response: lupa, klaim "gue yang hebat", Qalb jadi Mariidh lalu Aghlaf. **Hasil:** turun tier — harta jadi *penutup mata*, menuju destruction.
     }
 }
 
-revelation revelation-qs-asy-syura-42-27 {
+revelation "soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj.revelation-qs-asy-syura-42-27" {
     cites [soul.revelation.quran.42.27]
     body {
         QS. Asy-Syura [42]:27 —

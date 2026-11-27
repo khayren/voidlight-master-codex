@@ -1,9 +1,9 @@
 package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps
 
-artifact the-superiority-encoding-rule {
+artifact "soul.alignment.secure-by-alignment.translation-protocol.superiority-encoding" {
     title "The Superiority Encoding Rule"
     passages [
-        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-superiority-encoding-rule.synthesis-kalau-node-a-ngerasa-pinter-pas-ngomong,
+        "soul.alignment.secure-by-alignment.translation-protocol.superiority-encoding.synthesis-kalau-node-a-ngerasa-pinter-pas-ngomong",
         prose {
             **Translation integrity check:** *"Gue ngomong ini karena Allah minta node ini jadi evidence of alignment, atau karena gue senang dipandang paham?"*
         }

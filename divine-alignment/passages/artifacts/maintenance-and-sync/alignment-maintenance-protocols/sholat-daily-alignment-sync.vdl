@@ -1,12 +1,12 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.sholat-daily-alignment-sync
 
-revelation revelation-bukan-kirim-request-tunggu-response-tapi {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.sholat-daily-sync.revelation-bukan-kirim-request-tunggu-response-tapi" {
     body {
         Bukan "kirim request, tunggu response" — tapi **time-based synchronization** untuk wujud mumkin (per 0.1) yang sustain signal-nya perlu di-refresh (per 0.2). Interval 5x sehari adalah *alignment heartbeat* ke Source untuk verify connection masih valid.
     }
 }
 
-revelation revelation-qs-al-ankabut-29-45 {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.sholat-daily-sync.revelation-qs-al-ankabut-29-45" {
     cites [soul.revelation.quran.29.45, soul.revelation.quran.107.4-5]
     body {
         QS. Al-Ankabut [29]:45 —
@@ -17,7 +17,7 @@ revelation revelation-qs-al-ankabut-29-45 {
     }
 }
 
-revelation revelation-ayat-ini-adalah-alignment-maintenance-statement {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.sholat-daily-sync.revelation-ayat-ini-adalah-alignment-maintenance-statement" {
     body {
         — Ayat ini adalah *alignment maintenance statement*: sholat mencegah keji dan munkar bukan karena "Allah reward sholat dengan kebaikan" — tapi karena *sholat itu sendiri adalah alignment protocol* yang reset dan maintain Qalb state.
     }

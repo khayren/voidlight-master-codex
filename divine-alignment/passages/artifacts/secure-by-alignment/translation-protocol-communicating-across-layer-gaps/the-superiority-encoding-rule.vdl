@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-superiority-encoding-rule
 
-synthesis synthesis-kalau-node-a-ngerasa-pinter-pas-ngomong {
+synthesis "soul.alignment.secure-by-alignment.translation-protocol.superiority-encoding.synthesis-kalau-node-a-ngerasa-pinter-pas-ngomong" {
     body {
         Kalau node A ngerasa "pinter" pas ngomong ke mereka — **itu bukan translation, itu kernel leak di node A sendiri.** Knowledge tentang alignment juga derivative; nggak punya substance untuk jadi basis superiority.
     }

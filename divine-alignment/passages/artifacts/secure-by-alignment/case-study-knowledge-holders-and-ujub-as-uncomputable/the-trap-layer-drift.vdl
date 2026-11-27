@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-trap-layer-drift
 
-synthesis synthesis-node-yang-paham-framework-wujud-mumkin-per {
+synthesis "soul.alignment.secure-by-alignment.case-ujub-uncomputable.trap-drift.synthesis-node-yang-paham-framework-wujud-mumkin-per" {
     body {
         Node yang paham framework wujud mumkin (per 0.1), yang bisa nulis system spec, yang bisa detect corruption di node lain — adalah node yang **paling vulnerable ke 'Ujub** di layer drifted. Knowledge bisa jadi basis untuk "gue paham, mereka nggak."
     }

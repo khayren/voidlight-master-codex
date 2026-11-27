@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch-as-frequency-detection.protocol-rule
 
-synthesis synthesis-external-detection-bukan-license-untuk-judge-atau {
+synthesis "soul.alignment.secure-by-alignment.cross-node-observation.protocol-rule.synthesis-external-detection-bukan-license-untuk-judge-atau" {
     body {
         **External detection bukan license untuk judge atau modify node lain.** Tidak ada sudo access ke konfigurasi orang lain. Yang bisa dilakukan:
         1. **Nggak amplify** corrupted signal (jangan share, jangan endorse)

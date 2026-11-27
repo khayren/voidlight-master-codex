@@ -1,9 +1,9 @@
 package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network
 
-artifact hewan-alam-non-user-nodes {
+artifact "soul.alignment.foundation.entity-types.hewan-alam-nodes" {
     title "Hewan & Alam — Non-User Nodes"
     passages [
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.hewan-alam-non-user-nodes.synthesis-instinct-only-gak-punya-iradah-gak-punya,
+        "soul.alignment.foundation.entity-types.hewan-alam-nodes.synthesis-instinct-only-gak-punya-iradah-gak-punya",
         prose {
             ---
         }

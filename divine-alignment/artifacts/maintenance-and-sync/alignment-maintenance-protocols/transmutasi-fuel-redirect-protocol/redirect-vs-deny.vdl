@@ -1,9 +1,9 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol
 
-artifact redirect-vs-deny {
+artifact "soul.alignment.maintenance-and-sync.maintenance-protocols.transmutasi-redirect.redirect-vs-deny" {
     title "Redirect vs Deny"
     passages [
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.redirect-vs-deny.synthesis-nafsu-ammarah-bukan-cuma-noise-yang-harus
+        "soul.alignment.maintenance-and-sync.maintenance-protocols.transmutasi-redirect.redirect-vs-deny.synthesis-nafsu-ammarah-bukan-cuma-noise-yang-harus"
     ]
     body {
         | Operasi | Target | Hasil Alignment |

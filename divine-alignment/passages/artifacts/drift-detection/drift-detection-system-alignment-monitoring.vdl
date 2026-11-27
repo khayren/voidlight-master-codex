@@ -1,6 +1,6 @@
 package soul.alignment.drift-detection.drift-detection-system-alignment-monitoring
 
-synthesis synthesis-syirik-nggak-instan-tapi-drift-bertahap {
+synthesis "soul.alignment.drift-detection.drift-monitoring-sistem.synthesis-syirik-nggak-instan-tapi-drift-bertahap" {
     body {
         Syirik nggak instan — tapi *drift* bertahap. Firaun nggak langsung klaim tuhan. Dia *drift* bertahun-tahun, melewati checkpoint demi checkpoint, sampai Qalb-nya Aghlaf total. Alignment drift adalah *gradual process* yang bisa di-detect dan di-interrupt — kalau node punya monitoring system yang aktif.
     }

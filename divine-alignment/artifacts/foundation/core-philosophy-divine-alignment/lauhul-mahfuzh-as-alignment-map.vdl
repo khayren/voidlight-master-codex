@@ -1,10 +1,10 @@
 package soul.alignment.foundation.core-philosophy-divine-alignment
 
-artifact lauhul-mahfuzh-as-alignment-map {
+artifact "soul.alignment.foundation.core-philosophy.lauhul-mahfuzh-map" {
     title "Lauhul Mahfuzh as Alignment Map"
     cites [soul.revelation.quran.11.44, soul.revelation.quran.25.2]
     passages [
-        soul.alignment.foundation.core-philosophy-divine-alignment.lauhul-mahfuzh-as-alignment-map.synthesis-lauhul-mahfuzh-bukan-satu-garis-takdir-yang,
+        "soul.alignment.foundation.core-philosophy.lauhul-mahfuzh-map.synthesis-lauhul-mahfuzh-bukan-satu-garis-takdir-yang",
         prose {
             - **Qadar** = Node config per individu — takaran yang tertulis di Lauhul Mahfuzh (HR. Muslim no. 2653: Allah menulis *maqādīra* para makhluk 50.000 tahun sebelum penciptaan). Qadar bukan satu kesatuan rata; di dalamnya ada dua status flag:
               - **Taqdir Mubram** = Fixed Points / Checkpoints yang *immutable* (waktu mati, siapa orang tua, mukjizat Nabi, final state evaluation) — tidak bisa dipengaruhi pilihan cabang apa pun.
@@ -13,8 +13,8 @@ artifact lauhul-mahfuzh-as-alignment-map {
 
             > **Konvensi istilah [SYNTHESIS]:** Alquran memakai *qada* dan *qadar* bergantian tanpa definisi teknis yang membatasi keduanya. Dokumen ini mengadopsi konvensi *qadar* = takaran yang tertulis, *qada* = dekrit yang beroperasi dan terlaksana. Sebagian ulama membalik pembagian ini (*qada* = ketetapan azali, *qadar* = realisasi terukur di waktu-ruang — formulasi yang beredar luas atas nama Al-Ghazali dan Ibn al-Qayyim). Kedua arah defensible dan berpijak pada teks yang berbeda; konvensi dokumen ini berpijak pada HR. Muslim ("maqādīr", no. 2653) dan QS. Al-Furqān [25]:2. Seluruh dokumen ini konsisten memakai konvensi pertama.
         },
-        soul.alignment.foundation.core-philosophy-divine-alignment.lauhul-mahfuzh-as-alignment-map.revelation-hadits-shahih-riwayat-muslim-dari-abdullah-bin,
-        soul.alignment.foundation.core-philosophy-divine-alignment.lauhul-mahfuzh-as-alignment-map.analogy-lauhul-mahfuzh-adalah-compiled-binary-yang-berisi,
+        "soul.alignment.foundation.core-philosophy.lauhul-mahfuzh-map.revelation-hadits-shahih-riwayat-muslim-dari-abdullah-bin",
+        "soul.alignment.foundation.core-philosophy.lauhul-mahfuzh-map.analogy-lauhul-mahfuzh-adalah-compiled-binary-yang-berisi",
         prose {
             ---
         }

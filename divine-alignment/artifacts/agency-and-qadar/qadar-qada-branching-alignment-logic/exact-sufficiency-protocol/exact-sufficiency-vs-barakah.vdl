@@ -1,6 +1,6 @@
 package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol
 
-artifact exact-sufficiency-vs-barakah {
+artifact "soul.alignment.agency-and-qadar.qadar-qada-branching.exact-sufficiency.sufficiency-vs-barakah" {
     title "Exact Sufficiency vs Barakah"
     body {
         | Konsep | Mekanisme | Efek Alignment |

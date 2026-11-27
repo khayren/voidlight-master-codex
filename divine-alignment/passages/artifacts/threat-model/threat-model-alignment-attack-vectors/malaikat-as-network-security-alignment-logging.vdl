@@ -1,6 +1,6 @@
 package soul.alignment.threat-model.threat-model-alignment-attack-vectors.malaikat-as-network-security-alignment-logging
 
-revelation revelation-monitor-dunya-untuk-setan-intrusion {
+revelation "soul.alignment.threat-model.threat-model-alignment-attack-vectors.malaikat-security-logging.revelation-monitor-dunya-untuk-setan-intrusion" {
     body {
         - **Monitor** Dunya untuk setan intrusion — deteksi alignment attack
         - **Log** seluruh aktivitas node (amal baik & buruk) — alignment state tracking
@@ -9,7 +9,7 @@ revelation revelation-monitor-dunya-untuk-setan-intrusion {
     }
 }
 
-revelation revelation-qs-al-infitar-82-10-11 {
+revelation "soul.alignment.threat-model.threat-model-alignment-attack-vectors.malaikat-security-logging.revelation-qs-al-infitar-82-10-11" {
     cites [soul.revelation.quran.82.10-11]
     body {
         QS. Al-Infitar [82]:10-11 —

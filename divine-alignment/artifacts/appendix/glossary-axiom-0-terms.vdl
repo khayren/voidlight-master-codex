@@ -1,6 +1,6 @@
 package soul.alignment.appendix
 
-artifact glossary-axiom-0-terms {
+artifact "soul.alignment.appendix.glossary-axiom-0" {
     title "GLOSSARY: AXIOM 0 TERMS"
     cites [soul.revelation.quran.55.26, soul.revelation.quran.7.172]
     body {

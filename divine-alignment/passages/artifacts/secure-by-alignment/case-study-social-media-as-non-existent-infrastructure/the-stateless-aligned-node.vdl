@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-stateless-aligned-node
 
-analogy analogy-drifted-node {
+analogy "soul.alignment.secure-by-alignment.case-social-media.stateless-node.analogy-drifted-node" {
     body {
         ```
         Drifted Node:
@@ -9,7 +9,7 @@ analogy analogy-drifted-node {
     }
 }
 
-synthesis synthesis-node-aligned-nggak-perlu-rules-untuk-nggak {
+synthesis "soul.alignment.secure-by-alignment.case-social-media.stateless-node.synthesis-node-aligned-nggak-perlu-rules-untuk-nggak" {
     body {
         Node aligned nggak perlu "rules" untuk nggak riya'. **Riya' secara otomatis nggak bisa jalan** karena tidak ada state container untuk ego dalam single-target architecture.
     }

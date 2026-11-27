@@ -20,13 +20,11 @@ artifact dalil-references {
         soul.revelation.quran.2.156,
         soul.revelation.quran.6.44,
         soul.revelation.quran.2.286,
-        soul.revelation.quran.114.5-6,
         soul.revelation.quran.94.5-6,
         soul.revelation.quran.66.6,
         soul.revelation.hadith.bukhari.1,
         soul.revelation.quran.10.91,
         soul.revelation.quran.20.14,
-        soul.revelation.quran.17.100,
         soul.revelation.hadith.muslim.1907,
         soul.revelation.hadith.muslim.2653,
         soul.revelation.hadith.bukhari.3321,
@@ -98,6 +96,6 @@ artifact dalil-references {
         | Mukjizat Nabi | HR. Bukhari & Muslim |
         | Tidak ada tuhan selain Allah | QS. Taha [20]:14 |
         | Takdir 50.000 tahun | HR. Muslim |
-        | Rezeki dan melampaui batas | QS. Al-Isra [17]:100 |
+        | Rezeki dan melampaui batas (baghy) | QS. Asy-Syura [42]:27 |
     }
 }

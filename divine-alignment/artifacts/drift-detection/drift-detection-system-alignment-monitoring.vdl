@@ -1,14 +1,14 @@
 package soul.alignment.drift-detection
 
-artifact drift-detection-system-alignment-monitoring {
+artifact "soul.alignment.drift-detection.drift-monitoring-sistem" {
     title "DRIFT DETECTION SYSTEM: ALIGNMENT MONITORING"
     includes [
-        soul.alignment.drift-detection.drift-detection-system-alignment-monitoring.early-warning-signals,
-        soul.alignment.drift-detection.drift-detection-system-alignment-monitoring.drift-cascade-pattern,
-        soul.alignment.drift-detection.drift-detection-system-alignment-monitoring.counter-drift-protocols-alignment-maintenance
+        "soul.alignment.drift-detection.drift-monitoring-sistem.early-warning-signals",
+        "soul.alignment.drift-detection.drift-monitoring-sistem.drift-cascade-pattern",
+        "soul.alignment.drift-detection.drift-monitoring-sistem.counter-drift-protocols"
     ]
     passages [
-        soul.alignment.drift-detection.drift-detection-system-alignment-monitoring.synthesis-syirik-nggak-instan-tapi-drift-bertahap
+        "soul.alignment.drift-detection.drift-monitoring-sistem.synthesis-syirik-nggak-instan-tapi-drift-bertahap"
     ]
     body {
         > Rujukan v5.0.7: §9

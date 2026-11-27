@@ -1,10 +1,10 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack
 
-artifact qalb-transparency-index-the-alignment-meter {
+artifact "soul.alignment.foundation.human-node-stack.qalb-transparency-index" {
     title "Qalb Transparency Index: The Alignment Meter"
     cites [soul.revelation.quran.2.7]
     passages [
-        soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-transparency-index-the-alignment-meter.synthesis-qalb-adalah-dimensi-terpisah-dari-nafs-seseorang,
+        "soul.alignment.foundation.human-node-stack.qalb-transparency-index.synthesis-qalb-adalah-dimensi-terpisah-dari-nafs-seseorang",
         prose {
             Dalam framework alignment, Qalb Transparency Index adalah *primary metric* untuk mengukur seberapa aligned sebuah node.
 
@@ -14,11 +14,11 @@ artifact qalb-transparency-index-the-alignment-meter {
             | **Mariidh** (Partially Aligned / Drifting) | Sakit, partial block. Cermin hati kabur di area tertentu. | Selective reception — terima signal yang cocok ego, reject yang kontra. Bisa ritual-compliant tapi spirit-blocked. **Zone paling berbahaya.** |
             | **Aghlaf** (Alignment Lost) | Tertutup total. Cermin hati opaque. | Nggak bisa nerima signal apapun. Firaun adalah kasus ekstrem: mengklaim dirinya tuhan sendiri — ultimate alignment drift. |
         },
-        soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-transparency-index-the-alignment-meter.revelation-qs-al-baqarah-2-7,
+        "soul.alignment.foundation.human-node-stack.qalb-transparency-index.revelation-qs-al-baqarah-2-7",
         prose {
             **Key Insight:** Qalb yang Mariidh adalah **danger zone** — karena *self-awareness* masih ada (Nafs Lawwamah), tapi *capacity to receive alignment signal* sudah terkunci di domain tertentu. Orang ini bisa merasa "sadar" padahal sedang *drift*.
         },
-        soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-transparency-index-the-alignment-meter.revelation-hadits-sahih-riwayat-ibnu-majah-4216
+        "soul.alignment.foundation.human-node-stack.qalb-transparency-index.revelation-hadits-sahih-riwayat-ibnu-majah-4216"
     ]
     body {
         > Rujukan v5.0.7: §4.5

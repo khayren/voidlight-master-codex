@@ -16,6 +16,28 @@ Use the project files as the authority on supported types and existing IDs.
 Rendered Soul documents are published to the Voidlight documentation
 repository — see "Edit and verify" below.
 
+## Naming convention (entity IDs)
+
+Entity ID is a public, stable contract: pick the name once; after
+publication a rename is a breaking change. Local IDs use lowercase-kebab,
+one to three concept words, and follow a prefix/postfix discipline so the
+function is visible before opening the file (analogous to code naming):
+
+| Pattern | Function | Examples |
+|---|---|---|
+| `prereq-*` | reading prerequisite gate | `prereq-foundation`, `prereq-agency` |
+| `case-*` | case study | `case-reward-daawah`, `case-ujub-uncomputable` |
+| `scenario-*` | branching scenario | `scenario-ujian-naik`, `scenario-istidraj` |
+| `threat-*`, `attack-*` | threat-model entry | `threat-istidraj`, `attack-jin-sihir` |
+| `glossary-*`, `changelog-*`, `refs-*` | appendix material | `glossary-axiom-0`, `refs-dalil` |
+| `*-protocol`, `*-matrix`, `*-index`, `*-stack` | named kinds | `exact-sufficiency`, `alignment-stack` |
+| bare concept | container / section | `foundation`, `threat-model`, `mitsaq-alast` |
+
+Keep the `title` field descriptive (it renders as the page heading, TOC
+entry, and link label); the ID only carries the short concept name. Avoid
+sentence-length IDs: they collide with filesystem limits (Windows caps a
+filename component at 255 chars) and produce unusable public URLs.
+
 ## Model the knowledge
 
 - Give each entity an ID, an owner for its content, and a reason to be reused or addressed independently. Split by concept or role. A Markdown heading can suggest a boundary. Keep supporting paragraphs, tables, and caveats together when they explain one claim.

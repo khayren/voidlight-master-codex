@@ -1,14 +1,14 @@
 package soul.alignment.case-studies.case-studies-firaun-umar-and-istidraj-drift-realignment-and-degradation-patterns.istidraj-nikmat-as-alignment-test-vs-degradation-path
 
-artifact scenario-b-istidraj-degradation-path {
+artifact "soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj" {
     title "Scenario B: Istidraj (Degradation Path)"
     cites [soul.revelation.quran.42.27]
     passages [
-        soul.alignment.case-studies.case-studies-firaun-umar-and-istidraj-drift-realignment-and-degradation-patterns.istidraj-nikmat-as-alignment-test-vs-degradation-path.scenario-b-istidraj-degradation-path.synthesis-orang-miskin-yang-diberi-harta-response-lupa,
+        "soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj.synthesis-orang-miskin-yang-diberi-harta-response-lupa",
         prose {
             **Same event, different routing — based on Qalb response to nikmat.**
         },
-        soul.alignment.case-studies.case-studies-firaun-umar-and-istidraj-drift-realignment-and-degradation-patterns.istidraj-nikmat-as-alignment-test-vs-degradation-path.scenario-b-istidraj-degradation-path.revelation-qs-asy-syura-42-27,
+        "soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj.revelation-qs-asy-syura-42-27",
         prose {
             ---
         }

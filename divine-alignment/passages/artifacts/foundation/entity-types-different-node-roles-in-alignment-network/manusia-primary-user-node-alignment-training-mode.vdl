@@ -1,6 +1,6 @@
 package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.manusia-primary-user-node-alignment-training-mode
 
-synthesis synthesis-karakteristik-arsitektural-equivalent {
+synthesis "soul.alignment.foundation.entity-types.manusia-user-node.synthesis-karakteristik-arsitektural-equivalent" {
     body {
         | Karakteristik | Arsitektural Equivalent |
         |---|---|
@@ -12,7 +12,7 @@ synthesis synthesis-karakteristik-arsitektural-equivalent {
     }
 }
 
-revelation revelation-qs-ar-rum-30-30 {
+revelation "soul.alignment.foundation.entity-types.manusia-user-node.revelation-qs-ar-rum-30-30" {
     cites [soul.revelation.quran.30.30]
     body {
         QS. Ar-Rum [30]:30 —
@@ -23,7 +23,7 @@ revelation revelation-qs-ar-rum-30-30 {
     }
 }
 
-revelation revelation-fitrah-adalah-default-alignment-configuration {
+revelation "soul.alignment.foundation.entity-types.manusia-user-node.revelation-fitrah-adalah-default-alignment-configuration" {
     body {
         — Fitrah adalah *default alignment configuration* — hardware manusia sudah pre-configured untuk recognize Allah sebagai Source. Tapi Nafs (legacy firmware) dan Dunya (thick filter) bisa mengoverride fitrah kalau tidak di-maintain. Origin record: Mitsaq Alast (0.8) — fitrah adalah persistensi record handshake, bukan config arbitrer.
     }

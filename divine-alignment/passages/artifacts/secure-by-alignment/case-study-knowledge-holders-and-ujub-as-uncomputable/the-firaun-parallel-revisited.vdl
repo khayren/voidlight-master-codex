@@ -1,6 +1,6 @@
 package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-firaun-parallel-revisited
 
-synthesis synthesis-firaun-adalah-endpoint-drift-sebuah-wujud {
+synthesis "soul.alignment.secure-by-alignment.case-ujub-uncomputable.firaun-parallel.synthesis-firaun-adalah-endpoint-drift-sebuah-wujud" {
     body {
         Firaun adalah endpoint drift — sebuah wujud mumkin (per 0.1) yang niyyah-nya (per 0.7) condong ke arah rejection berkelanjutan, sehingga state-nya drifted. Dia punya akses ke ilmu sihir, ilmu kerajaan, ilmu administrasi. Knowledge-nya yang extensive **mempercepat drift** karena dia bisa operate claim_ownership() tanpa error.
     }

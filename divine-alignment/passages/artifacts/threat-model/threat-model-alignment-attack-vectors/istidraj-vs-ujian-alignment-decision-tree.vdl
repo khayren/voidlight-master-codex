@@ -1,6 +1,6 @@
 package soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-vs-ujian-alignment-decision-tree
 
-synthesis synthesis-nikmat-bisa-jadi-ujian-bisa-jadi-istidraj {
+synthesis "soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-vs-ujian.synthesis-nikmat-bisa-jadi-ujian-bisa-jadi-istidraj" {
     body {
         Nikmat bisa jadi ujian, bisa jadi Istidraj — **bedanya di response, bukan di event.**
     }

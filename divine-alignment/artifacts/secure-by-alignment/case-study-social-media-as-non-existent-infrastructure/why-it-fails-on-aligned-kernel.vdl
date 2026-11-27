@@ -1,9 +1,9 @@
 package soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure
 
-artifact why-it-fails-on-aligned-kernel {
+artifact "soul.alignment.secure-by-alignment.case-social-media.fails-on-aligned-kernel" {
     title "Why It Fails on Aligned Kernel"
     passages [
-        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.why-it-fails-on-aligned-kernel.synthesis-pada-wujud-mumkin-per-0-1-dengan-single-target,
+        "soul.alignment.secure-by-alignment.case-social-media.fails-on-aligned-kernel.synthesis-pada-wujud-mumkin-per-0-1-dengan-single-target",
         prose {
             | Requirement | Status di Kernel Aligned |
             |-------------|--------------------------|

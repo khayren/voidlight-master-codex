@@ -2,7 +2,7 @@ package soul.alignment
 
 artifact drift-detection {
     title "DRIFT DETECTION & EARLY WARNING LAYER"
-    includes [soul.alignment.drift-detection.prerequisite-axiom-0-threat-model-layer-solid-paham-jin-bypass-signal-attribution-istidraj-mechanism, soul.alignment.drift-detection.drift-detection-system-alignment-monitoring]
+    includes ["soul.alignment.drift-detection.prereq-threat-model", "soul.alignment.drift-detection.drift-monitoring-sistem"]
     body {
         > Rujukan v5.0.7: Part IV
     }

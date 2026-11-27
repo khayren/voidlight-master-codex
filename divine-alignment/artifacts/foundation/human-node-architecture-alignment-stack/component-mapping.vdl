@@ -1,9 +1,9 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack
 
-artifact component-mapping {
+artifact "soul.alignment.foundation.human-node-stack.component-mapping" {
     title "Component Mapping"
     passages [
-        soul.alignment.foundation.human-node-architecture-alignment-stack.component-mapping.synthesis-setiap-komponen-spiritual-dalam-human-node-adalah,
+        "soul.alignment.foundation.human-node-stack.component-mapping.synthesis-setiap-komponen-spiritual-dalam-human-node-adalah",
         prose {
             | Komponen Spiritual | Analogi Technical | Fungsi dalam Alignment Architecture |
             |---|---|---|

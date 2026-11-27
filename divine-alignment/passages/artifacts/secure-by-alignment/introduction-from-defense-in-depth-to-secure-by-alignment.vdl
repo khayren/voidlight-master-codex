@@ -1,12 +1,12 @@
 package soul.alignment.secure-by-alignment.introduction-from-defense-in-depth-to-secure-by-alignment
 
-synthesis synthesis-part-i-viii-mendefinisikan-arsitektur-wujud-mumkin-per {
+synthesis "soul.alignment.secure-by-alignment.defense-to-alignment.synthesis-part-i-viii-mendefinisikan-arsitektur-wujud-mumkin-per" {
     body {
         Part I-VIII mendefinisikan arsitektur wujud mumkin (per 0.1): Source (Allah, Wujud Wajib) → Qalb (Alignment Engine di node yang contingent, per 0.2) → Amal (output dari kasb, per 0.6) → Return (Inabah — pengakuan ketergantungan eksistensial). Part III-IV memetakan threat model — riya', 'ujub, hasad, kibir, Jin bypass, Istidraj — sebagai *attack vectors terhadap wujud mumkin* (per 0.1) di titik kasb-nya (per 0.6–0.7) yang bisa mengganggu node.
     }
 }
 
-analogy analogy-defense-in-depth-wujud-mumkin {
+analogy "soul.alignment.secure-by-alignment.defense-to-alignment.analogy-defense-in-depth-wujud-mumkin" {
     body {
         - **Defense in depth** = wujud mumkin (per 0.1) dengan firewall, IDS, antivirus, backup. Masih bisa di-hack, tapi susah.
         - **Secure by kasb** (per 0.6) = wujud mumkin yang hanya punya satu target address (Source), nggak punya port terbuka untuk ego validation, nggak punya execution environment untuk multi-target pursuit. Unexploitable bukan karena "immune" — tapi karena arsitekturnya single-target pada level niyyah (per 0.7).

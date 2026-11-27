@@ -1,12 +1,12 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.puasa-full-system-realignment-scan
 
-synthesis synthesis-sholat-itu-quick-scan-quarantine-file-suspicious {
+synthesis "soul.alignment.maintenance-and-sync.maintenance-protocols.puasa-realignment.synthesis-sholat-itu-quick-scan-quarantine-file-suspicious" {
     body {
         Sholat itu quick scan (quarantine file suspicious). Puasa itu **boot ke safe mode, unmount Nafs partition (Internal Noise Source), scan entire filesystem** — lalu realign.
     }
 }
 
-revelation revelation-qs-al-baqarah-2-183 {
+revelation "soul.alignment.maintenance-and-sync.maintenance-protocols.puasa-realignment.revelation-qs-al-baqarah-2-183" {
     cites [soul.revelation.quran.2.183]
     body {
         QS. Al-Baqarah [2]:183 —
