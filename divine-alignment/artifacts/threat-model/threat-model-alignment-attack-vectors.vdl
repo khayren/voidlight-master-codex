@@ -1,14 +1,15 @@
 package soul.alignment.threat-model
+import soul.alignment.threat-model.threat-model-alignment-attack-vectors.*
 
 artifact threat-model-alignment-attack-vectors {
     title "THREAT MODEL: ALIGNMENT ATTACK VECTORS"
     includes [
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-bypass-direct-signal-injection,
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.signal-attribution-protocol,
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.jin-exploit-sihir-collaborative-attack-model,
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.malaikat-as-network-security-alignment-logging,
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-self-selected-degradation-path,
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-vs-ujian-alignment-decision-tree
+        jin-bypass-direct-signal-injection,
+        signal-attribution-protocol,
+        jin-exploit-sihir-collaborative-attack-model,
+        malaikat-as-network-security-alignment-logging,
+        istidraj-self-selected-degradation-path,
+        istidraj-vs-ujian-alignment-decision-tree
     ]
     body {
         > Rujukan v5.0.7: §8

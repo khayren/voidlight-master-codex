@@ -1,4 +1,5 @@
 package soul.alignment.foundation.operational-lifecycle-the-alignment-session
+import soul.alignment.foundation.operational-lifecycle-the-alignment-session.provisioning-rahim-token-injection.*
 
 artifact provisioning-rahim-token-injection {
     title "Provisioning (Rahim): Token Injection"
@@ -8,9 +9,9 @@ artifact provisioning-rahim-token-injection {
         soul.revelation.quran.17.85
     ]
     passages [
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.provisioning-rahim-token-injection.revelation-inisialisasi-hardware-jasad-diikuti-dengan-injection,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.provisioning-rahim-token-injection.revelation-qs-as-sajdah-32-9-kutipan-dari-ayat,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.provisioning-rahim-token-injection.analogy-provisioning-hardware-assembly-os-installation
+        revelation-inisialisasi-hardware-jasad-diikuti-dengan-injection,
+        revelation-qs-as-sajdah-32-9-kutipan-dari-ayat,
+        analogy-provisioning-hardware-assembly-os-installation
     ]
     body {
         > Rujukan v5.0.7: §5.1

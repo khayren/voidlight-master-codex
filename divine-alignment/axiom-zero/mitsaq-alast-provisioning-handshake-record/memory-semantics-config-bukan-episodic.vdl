@@ -1,10 +1,11 @@
 package soul.axiom-zero.mitsaq-alast-provisioning-handshake-record
+import soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.memory-semantics-config-bukan-episodic.*
 
 artifact memory-semantics-config-bukan-episodic {
     title "Memory Semantics: Config, Bukan Episodic"
     cites [soul.revelation.quran.20.14, soul.revelation.quran.20.115]
     passages [
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.memory-semantics-config-bukan-episodic.synthesis-record-alast-tidak-di-carry-sebagai-episodic-memory,
+        synthesis-record-alast-tidak-di-carry-sebagai-episodic-memory,
         prose {
             | Layer | Semantik | Bisa apa |
             |---|---|---|

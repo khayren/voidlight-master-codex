@@ -1,10 +1,11 @@
 package soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network
+import soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.malaikat-immutable-background-service.*
 
 artifact malaikat-immutable-background-service {
     title "Malaikat — Immutable Background Service"
     cites [soul.revelation.quran.66.6]
     passages [
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.malaikat-immutable-background-service.revelation-karakteristik-teologis-tidak-punya-free-will,
+        revelation-karakteristik-teologis-tidak-punya-free-will,
         prose {
             | Karakteristik                        | Arsitektural Equivalent                            |
             | ------------------------------------ | -------------------------------------------------- |
@@ -15,8 +16,8 @@ artifact malaikat-immutable-background-service {
             | Tidak punya nafs                     | No legacy firmware, no ego layer                   |
             | Network Firewall & Automatic Logging | IDS/IPS — monitor Dunya, log amal, block intrusion |
         },
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.malaikat-immutable-background-service.analogy-malaikat-adalah-infrastructure-service-kayak-dns,
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.malaikat-immutable-background-service.revelation-qs-at-tahrim-66-6-kutipan-dari-ayat
+        analogy-malaikat-adalah-infrastructure-service-kayak-dns,
+        revelation-qs-at-tahrim-66-6-kutipan-dari-ayat
     ]
     body {
         > Rujukan v5.0.7: §3.1

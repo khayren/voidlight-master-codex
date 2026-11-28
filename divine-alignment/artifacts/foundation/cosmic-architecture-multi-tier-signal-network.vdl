@@ -1,15 +1,16 @@
 package soul.alignment.foundation
+import soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.*
 
 artifact cosmic-architecture-multi-tier-signal-network {
     title "COSMIC ARCHITECTURE — MULTI-TIER SIGNAL NETWORK"
     cites [soul.revelation.quran.21.33]
     includes [soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.layer-stack, soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.parallel-tiers-same-source-different-filter-configs]
     passages [
-        soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.synthesis-tiga-alam-bukan-tiga-lantai-gedung-tapi,
+        synthesis-tiga-alam-bukan-tiga-lantai-gedung-tapi,
         prose {
             Setiap alam *points toward Allah* sebagai Source — bukan sebagai lokasi Dzat-Nya (per 0.5: Af'al Allah terjadi di mahall azh-Zhuhur, Dzat Allah tidak tersebar ke dalamnya). Tidak ada alam yang "identical" dengan Allah. Tidak ada alam yang "mengejawantahkan" zat-Nya. Semua adalah *dependent signals* yang mengalir dari *Independent Source*.
         },
-        soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.revelation-qs-al-anbiya-21-33
+        revelation-qs-al-anbiya-21-33
     ]
     body {
         > Rujukan v5.0.7: §2

@@ -1,10 +1,11 @@
 package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol
+import soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.*
 
 artifact the-10v-threshold {
     title "The 10V Threshold"
     cites [soul.revelation.quran.94.5-6]
     passages [
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.analogy-definition-the-10v-threshold-is-the,
+        analogy-definition-the-10v-threshold-is-the,
         prose {
             ---
 
@@ -46,9 +47,9 @@ artifact the-10v-threshold {
 
             ---
         },
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.analogy-dalam-operational-terms-exact-sufficiency-berarti-node,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.revelation-qs-al-insyirah-94-5-6,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan,
+        analogy-dalam-operational-terms-exact-sufficiency-berarti-node,
+        revelation-qs-al-insyirah-94-5-6,
+        revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan,
         prose {
             **Key Insight:** Exact Sufficiency adalah **anti-complacency mechanism** di dalam Qadar. Kalau node selalu punya cadangan "aman," node nggak pernah fully activate alignment. Exact sufficiency forces node ke **MVP mode** — minimum viable protocol, zero waste, full trust pada Source.
 

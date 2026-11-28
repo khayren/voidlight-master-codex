@@ -1,9 +1,10 @@
 package soul.alignment.threat-model.threat-model-alignment-attack-vectors
+import soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-vs-ujian-alignment-decision-tree.*
 
 artifact istidraj-vs-ujian-alignment-decision-tree {
     title "Istidraj vs Ujian — Alignment Decision Tree"
     passages [
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.istidraj-vs-ujian-alignment-decision-tree.synthesis-nikmat-bisa-jadi-ujian-bisa-jadi-istidraj,
+        synthesis-nikmat-bisa-jadi-ujian-bisa-jadi-istidraj,
         prose {
             ```
             Nikmat datang

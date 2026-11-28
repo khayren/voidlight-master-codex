@@ -1,13 +1,14 @@
 package soul.axiom-zero
+import soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.*
 
 artifact kasb-manusia-mengakses-kun-bukan-memiliki-kun {
     title "Kasb: Manusia Mengakses Kun, Bukan Memiliki Kun"
     cites [soul.revelation.quran.8.17, soul.revelation.quran.37.96]
     passages [
-        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.revelation-qs-al-anfal-8-17,
-        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.revelation-qs-as-saffat-37-96,
-        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.synthesis-posisi-kalam-framework-kasb-khalq-afal,
-        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun.synthesis-manusia-mengakses-abstraksi-kun-dalam-scope-terbatas,
+        revelation-qs-al-anfal-8-17,
+        revelation-qs-as-saffat-37-96,
+        synthesis-posisi-kalam-framework-kasb-khalq-afal,
+        synthesis-manusia-mengakses-abstraksi-kun-dalam-scope-terbatas,
         prose {
             Ini doktrin **kasb** (acquisition) dalam kalam Asy'ari. Dua elemen yang dipisah:
 

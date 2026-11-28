@@ -1,9 +1,10 @@
 package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable
+import soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-trap-layer-drift.*
 
 artifact the-trap-layer-drift {
     title "The Trap (Layer Drift)"
     passages [
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-trap-layer-drift.synthesis-node-yang-paham-framework-wujud-mumkin-per
+        synthesis-node-yang-paham-framework-wujud-mumkin-per
     ]
     body {
         > Rujukan v5.0.7: §16.4.1

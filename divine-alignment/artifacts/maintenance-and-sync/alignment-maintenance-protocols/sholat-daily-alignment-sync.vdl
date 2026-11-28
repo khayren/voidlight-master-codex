@@ -1,4 +1,5 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols
+import soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.sholat-daily-alignment-sync.*
 
 artifact sholat-daily-alignment-sync {
     title "Sholat — Daily Alignment Sync"
@@ -8,7 +9,7 @@ artifact sholat-daily-alignment-sync {
         soul.revelation.quran.20.14
     ]
     passages [
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.sholat-daily-alignment-sync.revelation-bukan-kirim-request-tunggu-response-tapi,
+        revelation-bukan-kirim-request-tunggu-response-tapi,
         prose {
             - **Subuh:** Post-maintenance window. Sistem habis deep restore (sleep). Cleanest state seharian — waktu terbaik untuk *alignment calibration*.
             - **Zhuhur:** Context switch interrupt. Forced maintenance sebelum resource exhaustion — *realign* sebelum hari terlalu panjang.
@@ -16,8 +17,8 @@ artifact sholat-daily-alignment-sync {
             - **Maghrib:** Boundary crossing. Daytime permissions (public/active) closing. Evening permissions (private/rest) opening — *alignment reconfiguration*.
             - **Isya:** Pre-sleep handshake. Verify apa yang perlu di-flush sebelum deep maintenance — *final alignment check* sebelum tidur (temporary tier access).
         },
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.sholat-daily-alignment-sync.revelation-qs-al-ankabut-29-45,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.sholat-daily-alignment-sync.revelation-ayat-ini-adalah-alignment-maintenance-statement,
+        revelation-qs-al-ankabut-29-45,
+        revelation-ayat-ini-adalah-alignment-maintenance-statement,
         prose {
             **Critical:** Sholat harus dengan **hadir sadar** — bukan automate sistem. Kalau ritual compliance tanpa presence, itu *alignment heartbeat spoofing*: signal terkirim tapi payload kosong.
 

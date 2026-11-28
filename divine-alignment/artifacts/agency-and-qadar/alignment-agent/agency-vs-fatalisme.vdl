@@ -1,10 +1,11 @@
 package soul.alignment.agency-and-qadar.alignment-agent
+import soul.alignment.agency-and-qadar.alignment-agent.agency-vs-fatalisme.*
 
 artifact agency-vs-fatalisme {
     title "Agency vs Fatalisme"
     cites [soul.revelation.quran.2.236]
     passages [
-        soul.alignment.agency-and-qadar.alignment-agent.agency-vs-fatalisme.synthesis-pendekatan-keyakinan-hasil-alignment,
+        synthesis-pendekatan-keyakinan-hasil-alignment,
         prose {
             > *"…hendaklah kamu beri mereka mut'ah (pemberian) menurut cara yang patut…"* (QS. Al-Baqarah [2]:236) [Catatan audit 2026-10-26: kutipan sebelumnya "Dan hendaklah mereka berlaku menurut cara yang sebaik-baiknya" berasal dari catatan kaki terjemahan Kemenag atas mut'ah bil-ma'ruf, bukan teks terjemahan ayat; lafaz "farahharu" tidak ada pada ayat ini — dikoreksi (TERJEMAHAN_DRIFT, audit ronde 3).] [Catatan audit 2026-11-15: auditor batch 4 — konteks langsung ayat adalah perceraian dan mut'ah; frasa "al-mūsi'i qadaruhū wa al-muqtiri qadaruhū" cocok sebagai ilustrasi tanggung jawab sesuai kemampuan, tetapi TIDAK cocok sebagai dalil langsung teori agency/tawakkal; pemakaian di passage ini harus dibaca sebagai analogi (teks lengkap terverifikasi di module dalil/quran/2/236.vdl).]
         }

@@ -1,17 +1,18 @@
 package soul.axiom-zero
+import soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.*
 
 artifact mitsaq-alast-provisioning-handshake-record {
     title "Mitsaq Alast: Provisioning Handshake Record"
     cites [soul.revelation.quran.7.172-173]
     includes [
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.fitrah-dapat-provenance-nya,
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.memory-semantics-config-bukan-episodic,
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.double-excuse-firewall-di-final-audit,
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.dzikr-re-acknowledgment-terhadap-record-yang-sama
+        fitrah-dapat-provenance-nya,
+        memory-semantics-config-bukan-episodic,
+        double-excuse-firewall-di-final-audit,
+        dzikr-re-acknowledgment-terhadap-record-yang-sama
     ]
     passages [
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.revelation-qs-al-a-raf-7-172-173,
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.synthesis-ini-satu-satunya-ceremony-di-seluruh-arsitektur-yang,
+        revelation-qs-al-a-raf-7-172-173,
+        synthesis-ini-satu-satunya-ceremony-di-seluruh-arsitektur-yang,
         prose {
             | Komponen Handshake | Realisasi | Tag |
             |---|---|---|

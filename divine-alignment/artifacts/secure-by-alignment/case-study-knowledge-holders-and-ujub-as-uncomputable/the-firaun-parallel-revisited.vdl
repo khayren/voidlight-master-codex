@@ -1,9 +1,10 @@
 package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable
+import soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-firaun-parallel-revisited.*
 
 artifact the-firaun-parallel-revisited {
     title "The Firaun Parallel Revisited"
     passages [
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-firaun-parallel-revisited.synthesis-firaun-adalah-endpoint-drift-sebuah-wujud,
+        synthesis-firaun-adalah-endpoint-drift-sebuah-wujud,
         prose {
             Di node dengan kernel aligned, Firaun-pattern **nggak bisa terjadi** pada wujud mumkin (per 0.1) dengan niyyah yang condong ke Source (per 0.7) karena:
             - Claim "Aku tuhanmu" → requires "Aku" sebagai independent ego entity → ❌ Uncomputable

@@ -1,17 +1,18 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols
+import soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.tazkiyah-deep-alignment-remediation.*
 
 artifact tazkiyah-deep-alignment-remediation {
     title "Tazkiyah — Deep Alignment Remediation"
     cites [soul.revelation.quran.91.9-10]
     passages [
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.tazkiyah-deep-alignment-remediation.synthesis-nafs-yang-kotor-bukan-cuma-slow-performance,
+        synthesis-nafs-yang-kotor-bukan-cuma-slow-performance,
         prose {
             - Tazkiyah = deep system scan + noise removal + alignment restoration
             - Boot ke safe mode (khalwah, dzikr, puasa) untuk quarantine dan purge noise sources
             - Processnya painful dan iterative — tapi necessary untuk restore optimal alignment
         },
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.tazkiyah-deep-alignment-remediation.revelation-qs-asy-syams-91-9-10,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.tazkiyah-deep-alignment-remediation.revelation-ayat-ini-adalah-alignment-success-metric
+        revelation-qs-asy-syams-91-9-10,
+        revelation-ayat-ini-adalah-alignment-success-metric
     ]
     body {
         > Rujukan v5.0.7: §13.3

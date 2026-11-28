@@ -1,9 +1,10 @@
 package soul.alignment.agency-and-qadar.alignment-agent
+import soul.alignment.agency-and-qadar.alignment-agent.alignment-recovery-protocol.*
 
 artifact alignment-recovery-protocol {
     title "Alignment Recovery Protocol"
     passages [
-        soul.alignment.agency-and-qadar.alignment-agent.alignment-recovery-protocol.synthesis-ketika-manusia-kehilangan-alignment-nyalahin-allah-nya,
+        synthesis-ketika-manusia-kehilangan-alignment-nyalahin-allah-nya,
         prose {
             **Step 1: Acknowledge**
             > "Ini pilihan gue yang bikin drift. Gue yang execute, gue yang own. Bukan takdir yang jahat — itu invalid system call."

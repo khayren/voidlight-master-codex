@@ -1,12 +1,13 @@
 package soul.axiom-zero
+import soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action.*
 
 artifact niyyah-sebagai-titik-kasb-bukan-action {
     title "Niyyah Sebagai Titik Kasb — Bukan Action"
     cites [soul.revelation.quran.18.39, soul.revelation.hadith.bukhari.4205]
     passages [
-        soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action.revelation-hadits-riwayat-bukhari-1-dan-muslim-1907,
-        soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action.revelation-qs-al-kahfi-18-39,
-        soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action.synthesis-kasb-tidak-tersebar-di-seluruh-proses-eksekusi,
+        revelation-hadits-riwayat-bukhari-1-dan-muslim-1907,
+        revelation-qs-al-kahfi-18-39,
+        synthesis-kasb-tidak-tersebar-di-seluruh-proses-eksekusi,
         prose {
             | Layer | Apa yang terjadi | Daya siapa | Locus hisab? |
             |---|---|---|---|

@@ -1,9 +1,10 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols
+import soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.jamaah-alignment-mesh-network.*
 
 artifact jamaah-alignment-mesh-network {
     title "Jamaah — Alignment Mesh Network"
     passages [
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.jamaah-alignment-mesh-network.synthesis-individual-node-yang-sync-bareng-create-temporary,
+        synthesis-individual-node-yang-sync-bareng-create-temporary,
         prose {
             - **Imam** = designated primary node / reference node — alignment reference implementation
             - **Jamaah** = mesh network. Kalau imam fully present → field effect bonus untuk semua node

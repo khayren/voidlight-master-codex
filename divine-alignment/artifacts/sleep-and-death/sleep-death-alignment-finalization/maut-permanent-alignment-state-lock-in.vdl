@@ -1,10 +1,11 @@
 package soul.alignment.sleep-and-death.sleep-death-alignment-finalization
+import soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in.*
 
 artifact maut-permanent-alignment-state-lock-in {
     title "Maut — Permanent Alignment State Lock-in"
     cites [soul.revelation.quran.26.88-89, soul.revelation.hadith.bukhari.99]
     passages [
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in.synthesis-kalau-tidur-temporary-preview-tier-lain,
+        synthesis-kalau-tidur-temporary-preview-tier-lain,
         prose {
             | State Qalb saat Maut | Alam Kubur Experience |
             |---|---|
@@ -12,9 +13,9 @@ artifact maut-permanent-alignment-state-lock-in {
             | Neutral (Mariidh ringan) | Waiting room, gray, limited signal — alignment pending evaluation |
             | Kotor, ego dominant (Aghlaf) | Contraction, dark, noise amplification — drift state locked |
         },
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in.synthesis-dua-defense-audit-sudah-structurally-invalid-sejak-iss,
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in.revelation-qs-asy-syu-ara-26-88-89,
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.maut-permanent-alignment-state-lock-in.revelation-ayat-ini-adalah-alignment-finalization-principle-hany,
+        synthesis-dua-defense-audit-sudah-structurally-invalid-sejak-iss,
+        revelation-qs-asy-syu-ara-26-88-89,
+        revelation-ayat-ini-adalah-alignment-finalization-principle-hany,
         prose {
             ---
         }

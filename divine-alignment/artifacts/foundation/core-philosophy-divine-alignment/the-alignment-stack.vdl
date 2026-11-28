@@ -1,4 +1,5 @@
 package soul.alignment.foundation.core-philosophy-divine-alignment
+import soul.alignment.foundation.core-philosophy-divine-alignment.the-alignment-stack.*
 
 artifact the-alignment-stack {
     title "The Alignment Stack"
@@ -9,7 +10,7 @@ artifact the-alignment-stack {
         soul.revelation.quran.2.285
     ]
     passages [
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-alignment-stack.synthesis-islam-adalah-arsitektur-wujud-mumkin-cara,
+        synthesis-islam-adalah-arsitektur-wujud-mumkin-cara,
         prose {
             ```
             Allah (Wujud Wajib, Al-Haqq, Al-Mabda', Al-Muntaha)
@@ -25,12 +26,12 @@ artifact the-alignment-stack {
 
             Setiap amal adalah sebuah *kasb signal* (per 0.6) — indikasi arah condong niyyah (per 0.7) pada sebuah wujud mumkin (per 0.1) — sebuah heartbeat yang mengkonfirmasi apakah node masih terarah ke Source, atau sudah *drift*.
         },
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-alignment-stack.revelation-qs-adz-dzariyat-51-56,
+        revelation-qs-adz-dzariyat-51-56,
         prose {
             Ayat ini bukan perintah transaksional "sembah aku supaya dapat pahala." Ini adalah *declarative statement of design purpose*: makhluk diciptakan dengan arsitektur yang optimalnya adalah ibadah (alignment protocol).
         },
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-alignment-stack.revelation-qs-at-taubah-9-104,
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-alignment-stack.revelation-qs-al-baqarah-2-285-kutipan-dari-ayat
+        revelation-qs-at-taubah-9-104,
+        revelation-qs-al-baqarah-2-285-kutipan-dari-ayat
     ]
     body {
         > Rujukan v5.0.7: §1.2

@@ -1,14 +1,15 @@
 package soul.alignment.sleep-and-death.sleep-death-alignment-finalization
+import soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tidur-minor-death-temporary-alignment-state-suspension.*
 
 artifact tidur-minor-death-temporary-alignment-state-suspension {
     title "Tidur — Minor Death / Temporary Alignment State Suspension"
     cites [soul.revelation.quran.39.42]
     passages [
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tidur-minor-death-temporary-alignment-state-suspension.revelation-alignment-token-ruh-gak-revoked-tapi,
+        revelation-alignment-token-ruh-gak-revoked-tapi,
         prose {
             **Dream** = packet receipt dari tier yang biasanya blocked. Firewall (Qalb) relaxed → trafik yang daytime di-DROP, sekarang bisa masuk. Dream bukan "bukan realitas" — dream adalah *lower-filter signal reception*.
         },
-        soul.alignment.sleep-and-death.sleep-death-alignment-finalization.tidur-minor-death-temporary-alignment-state-suspension.revelation-qs-az-zumar-39-42
+        revelation-qs-az-zumar-39-42
     ]
     body {
         > Rujukan v5.0.7: §14.1

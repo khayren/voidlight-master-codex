@@ -1,4 +1,5 @@
 package soul
+import soul.alignment.*
 
 framework divine-alignment {
     title "Divine Alignment Architecture"
@@ -6,16 +7,16 @@ framework divine-alignment {
     based_on [axiom-zero]
     opening_axioms [axiom-zero]
     includes [
-        soul.alignment.foundation,
-        soul.alignment.agency-and-qadar,
-        soul.alignment.threat-model,
-        soul.alignment.drift-detection,
-        soul.alignment.case-studies,
-        soul.alignment.maintenance-and-sync,
-        soul.alignment.sleep-and-death,
-        soul.alignment.authorized-exceptions,
-        soul.alignment.secure-by-alignment,
-        soul.alignment.appendix
+        foundation,
+        agency-and-qadar,
+        threat-model,
+        drift-detection,
+        case-studies,
+        maintenance-and-sync,
+        sleep-and-death,
+        authorized-exceptions,
+        secure-by-alignment,
+        appendix
     ]
     body {
         *Ontological Foundation, Orientational Practice — Unified Under Axiom 0*

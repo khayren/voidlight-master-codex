@@ -1,9 +1,10 @@
 package soul.alignment.threat-model.threat-model-alignment-attack-vectors
+import soul.alignment.threat-model.threat-model-alignment-attack-vectors.signal-attribution-protocol.*
 
 artifact signal-attribution-protocol {
     title "Signal Attribution Protocol"
     passages [
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.signal-attribution-protocol.synthesis-qalb-yang-mariidh-sebuah-wujud-mumkin,
+        synthesis-qalb-yang-mariidh-sebuah-wujud-mumkin,
         prose {
             | Signal | Karakteristik | Source | Alignment Effect |
             |--------|--------------|--------|-----------------|
@@ -11,7 +12,7 @@ artifact signal-attribution-protocol {
             | **Nafs** | Push ke arah yang *comfortable* tapi *compromising* — tutupi salah, pertahanin image, pilih yang enak | Internal Noise Source, ego preservation | **DRIFT** — menjauhkan dari Source |
             | **Jin** | Push ke arah yang *destructive* dan *irrational* — marah tanpa sebab, takut mendadak, godaan yang "datang dari luar", waswas berulang | External injection, bypass Qalb | **DRIFT** — menjauhkan dari Source, paling berbahaya karena undetected |
         },
-        soul.alignment.threat-model.threat-model-alignment-attack-vectors.signal-attribution-protocol.analogy-signal-attribution-adalah-packet-tracing-node-harus,
+        analogy-signal-attribution-adalah-packet-tracing-node-harus,
         prose {
             **Diagnostic Question:** "Kalau gue ikutin signal ini, hasilnya aligned atau drifted? Costly untuk ego gue (tanda Divine), atau comfortable untuk ego gue (tanda Nafs)? Destructive dan irrational (tanda Jin)?"
         }

@@ -1,10 +1,11 @@
 package soul.alignment.case-studies.firaun-umar-istidraj
+import soul.alignment.case-studies.firaun-umar-istidraj.why-firaun-s-tobat-wasn-t-accepted.*
 
 artifact why-firaun-s-tobat-wasn-t-accepted {
     title "Why Firaun's \"Tobat\" Wasn't Accepted"
     cites [soul.revelation.quran.10.91, soul.revelation.quran.10.90]
     passages [
-        soul.alignment.case-studies.firaun-umar-istidraj.why-firaun-s-tobat-wasn-t-accepted.revelation-qs-yunus-10-91,
+        revelation-qs-yunus-10-91,
         prose {
             Bukan karena Allah nggak mau ampuni — tapi karena:
 

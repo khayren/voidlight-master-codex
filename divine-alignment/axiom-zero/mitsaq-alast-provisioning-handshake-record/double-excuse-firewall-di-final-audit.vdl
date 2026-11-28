@@ -1,16 +1,17 @@
 package soul.axiom-zero.mitsaq-alast-provisioning-handshake-record
+import soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.double-excuse-firewall-di-final-audit.*
 
 artifact double-excuse-firewall-di-final-audit {
     title "Double-Excuse Firewall di Final Audit"
     passages [
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.double-excuse-firewall-di-final-audit.revelation-ayat-ini-menutup-dua-vektor-dalih-secara,
+        revelation-ayat-ini-menutup-dua-vektor-dalih-secara,
         prose {
             | Defense vector di final audit | Lafaz ayat | Status arsitektural |
             |---|---|---|
             | "Gue nggak tahu / nggak pernah dengar" | "inna kunna 'an hadza ghafilin" | Invalid — record signed per node (7:172) |
             | "Gue cuma ikut config bapak gue" | "innama asyraka abauna min qablu..." | Invalid — handshake individual, bukan inherited config (7:173) |
         },
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.double-excuse-firewall-di-final-audit.synthesis-ini-melengkapi-model-audit-di-14-3-final
+        synthesis-ini-melengkapi-model-audit-di-14-3-final
     ]
     body {
         > Rujukan v5.0.7: §C

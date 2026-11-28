@@ -1,17 +1,18 @@
 package soul
+import soul.axiom-zero.*
 
 axiom axiom-zero {
     title "Axiom 0 — WUJUD WAJIB VS WUJUD MUMKIN — THE EXISTENCE BOUNDARY"
     includes [
-        soul.axiom-zero.dua-kelas-wujud,
-        soul.axiom-zero.wujud-mumkin-disustain-bukan-dilaunch,
-        soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer,
-        soul.axiom-zero.implikasi-awal,
-        soul.axiom-zero.af-al-vs-dzat-kunci-baca-istilah-manifestasi,
-        soul.axiom-zero.kasb-manusia-mengakses-kun-bukan-memiliki-kun,
-        soul.axiom-zero.niyyah-sebagai-titik-kasb-bukan-action,
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record,
-        soul.axiom-zero.ringkasan-cara-membaca-part-i-ix-melalui-axiom-ini
+        dua-kelas-wujud,
+        wujud-mumkin-disustain-bukan-dilaunch,
+        amr-sebagai-input-class-bukan-substance-transfer,
+        implikasi-awal,
+        af-al-vs-dzat-kunci-baca-istilah-manifestasi,
+        kasb-manusia-mengakses-kun-bukan-memiliki-kun,
+        niyyah-sebagai-titik-kasb-bukan-action,
+        mitsaq-alast-provisioning-handshake-record,
+        ringkasan-cara-membaca-part-i-ix-melalui-axiom-ini
     ]
     body {
         > Rujukan v5.0.7: §0

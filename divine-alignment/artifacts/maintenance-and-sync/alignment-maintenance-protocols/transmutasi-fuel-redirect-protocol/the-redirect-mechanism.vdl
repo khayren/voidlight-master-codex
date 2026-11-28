@@ -1,9 +1,10 @@
 package soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol
+import soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.the-redirect-mechanism.*
 
 artifact the-redirect-mechanism {
     title "The Redirect Mechanism"
     passages [
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol.the-redirect-mechanism.analogy-saat-ownership-illusion-di-break-qs-2-156-energy,
+        analogy-saat-ownership-illusion-di-break-qs-2-156-energy,
         prose {
             Ini bukan willpower. Ini **architecture behavior** yang terjadi setelah ownership dissolution.
 

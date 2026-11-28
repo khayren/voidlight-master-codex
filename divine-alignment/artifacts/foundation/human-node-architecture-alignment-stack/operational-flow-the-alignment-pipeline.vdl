@@ -1,9 +1,10 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack
+import soul.alignment.foundation.human-node-architecture-alignment-stack.operational-flow-the-alignment-pipeline.*
 
 artifact operational-flow-the-alignment-pipeline {
     title "Operational Flow: The Alignment Pipeline"
     passages [
-        soul.alignment.foundation.human-node-architecture-alignment-stack.operational-flow-the-alignment-pipeline.analogy-allah-source-al-haqq,
+        analogy-allah-source-al-haqq,
         prose {
             **Key Insight:** Aliran ini bukan satu-way street. Setiap output (amal) menghasilkan *feedback signal* yang kembali ke Qalb — memperkuat atau melemahkan alignment state sebuah wujud mumkin (per 0.1). Alignment state adalah operational property dari node yang contingent, bukan ontological upgrade. Sholat yang khusyuk → Qalb lebih aligned → sholat berikutnya lebih khusyuk (positive feedback loop). Dosa → Qalb sedikit drift → dosa berikutnya lebih mudah (negative feedback loop).
         }
