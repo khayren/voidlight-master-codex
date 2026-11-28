@@ -1,0 +1,22 @@
+package soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj
+
+synthesis synthesis-orang-miskin-yang-diberi-harta-response-lupa {
+    body {
+        Orang miskin yang diberi harta. Response: lupa, klaim "gue yang hebat", Qalb jadi Mariidh lalu Aghlaf. **Hasil:** turun tier — harta jadi *penutup mata*, menuju destruction.
+    }
+}
+
+revelation revelation-qs-asy-syura-42-27 {
+    cites [soul.revelation.quran.42.27]
+    body {
+        QS. Asy-Syura [42]:27 —
+        > *"Wa law basaṭallāhur-rizqa li'ibādihī labaghau fil-arḍi wa lākin yunazzilu biqadarin mā yasyā'u, innahū bi'ibādihī khabīrun baṣīr."*
+        > *(Dan sekiranya Allah melapangkan rezeki kepada hamba-hamba-Nya niscaya mereka akan berbuat melampaui batas di bumi, tetapi Dia menurunkan dengan ukuran yang Dia kehendaki. Sungguh, Dia Mahateliti terhadap (keadaan) hamba-hamba-Nya, Maha Melihat).*
+        >
+        > **Tafsir Ibnu Katsir (konteks 42:27, ringkas):** Kelapangan rezeki yang berlebihan dapat membawa manusia kepada *al-baghy wa al-thughyan* — melampaui batas dan kesombongan, sebagian menindas sebagian lain. Allah menurunkan rezeki menurut ukuran yang Dia kehendaki, karena Dia mengetahui apa yang membawa kebaikan bagi hamba-Nya. Inilah dasar pembacaan istidraj di passage ini: pembatasan rezeki bisa jadi rahmat tersembunyi, karena Allah mengetahui kecenderungan hamba-Nya bila diberi kelimpahan.
+        >
+        > **Tafsir Al-Muyassar (ringkas):** Seandainya Allah melapangkan rezeki hamba-hamba-Nya secara berlebihan, mereka akan melampaui batas di bumi karena keangkuhan dan kesombongan; sebagian mereka bertindak sewenang-wenang terhadap sebagian lainnya. Allah menurunkan rezeki menurut ukuran yang Dia kehendaki untuk mencukupi mereka, dan Dia mengetahui apa yang membawa kebaikan bagi hamba-hamba-Nya.
+        >
+        > [Catatan audit 2026-11-15: passage sebelumnya mengutip teks yang dinisbatkan ke QS. Al-Isra [17]:100. Auditor batch 4 membuktikan AYAT_SALAH_KUTIP — 17:100 sebenarnya membahas kekikiran manusia terhadap perbendaharaan rahmat (teks lengkap di module dalil/quran/17/100.vdl); hasil tracing: kutipan lama adalah parafrase tidak presisi dengan kemungkinan pencampuran ungkapan Quran, bukan lafaz ayat mana pun. Koordinat, cites, kutipan, dan uraian tafsir diganti ke Asy-Syura 42:27 yang terverifikasi via dalil-fetch.py (module dalil/quran/42/27.vdl). Istilah Qalb/tier/drift adalah sintesis framework, bukan lafaz ayat atau tafsir.]
+    }
+}

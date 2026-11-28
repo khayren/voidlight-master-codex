@@ -1,0 +1,17 @@
+package soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat
+
+artifact the-hold-out-vs-the-boot {
+    title "The Hold Out vs The Boot"
+    cites [soul.revelation.quran.2.286]
+    passages [
+        soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.the-hold-out-vs-the-boot.synthesis-node-bisa-punya-warehouse-teori-yang-penuh,
+        prose {
+            Boot terjadi saat node **accept bahwa complacency ada harganya** dan operationalisasi adalah satu-satunya cara untuk activate alignment. Bukan solat karena takut, bukan solat karena mau pamer — tapi solat karena node baru sadar: **iman tanpa operasi = iman tanpa alignment signal.**
+
+            > *"Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya."* (QS. Al-Baqarah [2]:286)
+        },
+        soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.the-hold-out-vs-the-boot.revelation-ayat-ini-adalah-exact-sufficiency-principle
+    ]
+    body {
+    }
+}
