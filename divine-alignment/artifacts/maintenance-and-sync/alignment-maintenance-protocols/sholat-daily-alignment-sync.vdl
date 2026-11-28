@@ -26,6 +26,5 @@ artifact sholat-daily-alignment-sync {
         }
     ]
     body {
-        > Rujukan v5.0.7: §13.1
     }
 }

@@ -10,6 +10,5 @@ artifact operational-lifecycle-the-alignment-session {
         termination-maut-final-state-commit
     ]
     body {
-        > Rujukan v5.0.7: §5
     }
 }

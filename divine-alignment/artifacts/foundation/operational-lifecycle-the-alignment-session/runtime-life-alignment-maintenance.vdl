@@ -14,6 +14,5 @@ artifact runtime-life-alignment-maintenance {
         }
     ]
     body {
-        > Rujukan v5.0.7: §5.2
     }
 }

@@ -4,7 +4,6 @@ artifact glossary-axiom-0-terms {
     title "GLOSSARY: AXIOM 0 TERMS"
     cites [soul.revelation.quran.55.26, soul.revelation.quran.7.172]
     body {
-        > Rujukan v5.0.7: §E
 
         | Term | Definition | Axiom Reference |
         |------|-----------|-----------------|
@@ -30,6 +29,5 @@ artifact glossary-axiom-0-terms {
         | **Qada (konvensi dokumen ini)** | Dekrit yang beroperasi dan terlaksana — realized path; bukan ruang kemungkinan (ruang kemungkinan = lapisan mu'allaq di dalam qadar) | 1.3, 7.1 |
         | **Qadar (konvensi dokumen ini)** | Takaran yang tertulis di Lauhul Mahfuzh — node config per individu, berisi mubram dan mu'allaq | 1.3, 7.1 |
 
-        ---
     }
 }

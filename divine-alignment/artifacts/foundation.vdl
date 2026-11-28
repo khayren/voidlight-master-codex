@@ -12,6 +12,5 @@ artifact foundation {
         operational-lifecycle-the-alignment-session
     ]
     body {
-        > Rujukan v5.0.7: Part I
     }
 }

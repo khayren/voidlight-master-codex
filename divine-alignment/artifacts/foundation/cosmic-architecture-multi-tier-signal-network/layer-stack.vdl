@@ -8,6 +8,5 @@ artifact layer-stack {
         synthesis-setiap-layer-di-atas-depends-entirely-pada
     ]
     body {
-        > Rujukan v5.0.7: §2.1
     }
 }

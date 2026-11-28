@@ -3,7 +3,6 @@ package soul.alignment.case-studies.firaun-umar-istidraj
 artifact drift-timeline {
     title "Drift Timeline"
     body {
-        > Rujukan v5.0.7: §10.2
 
         | Fase | Event | Qalb State | Nafs State |
         |------|-------|------------|------------|

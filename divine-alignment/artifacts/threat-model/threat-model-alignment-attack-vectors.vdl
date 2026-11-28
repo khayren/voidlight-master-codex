@@ -12,6 +12,5 @@ artifact threat-model-alignment-attack-vectors {
         istidraj-vs-ujian-alignment-decision-tree
     ]
     body {
-        > Rujukan v5.0.7: §8
     }
 }

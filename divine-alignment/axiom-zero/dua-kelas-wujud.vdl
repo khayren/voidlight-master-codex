@@ -15,11 +15,7 @@ artifact dua-kelas-wujud {
             | **Wujud Mumkin** | Eksis karena diberi/dipinjemkan, butuh Source buat eksis | Contingent, faan (binasa/sementara) | Seluruh makhluk, seluruh node |
         },
         synthesis-ini-bukan-gradasi-bukan-makin-align-makin,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §0.1
     }
 }

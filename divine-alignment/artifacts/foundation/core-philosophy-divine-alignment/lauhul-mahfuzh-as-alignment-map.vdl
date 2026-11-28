@@ -16,11 +16,7 @@ artifact lauhul-mahfuzh-as-alignment-map {
         },
         revelation-hadits-shahih-riwayat-muslim-dari-abdullah-bin,
         analogy-lauhul-mahfuzh-adalah-compiled-binary-yang-berisi,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §1.3
     }
 }

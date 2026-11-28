@@ -5,11 +5,7 @@ artifact the-alignment-immunity-matrix {
     title "THE ALIGNMENT IMMUNITY MATRIX"
     passages [
         synthesis-semua-corruption-vectors-di-part-iii-iv-memerlukan,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §16.1
     }
 }

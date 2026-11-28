@@ -20,6 +20,5 @@ artifact component-mapping {
         }
     ]
     body {
-        > Rujukan v5.0.7: §4.1
     }
 }

@@ -11,6 +11,5 @@ artifact alignment-maintenance-protocols {
         transmutasi-fuel-redirect-protocol
     ]
     body {
-        > Rujukan v5.0.7: §13
     }
 }

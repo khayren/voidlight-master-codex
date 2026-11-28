@@ -14,16 +14,12 @@ artifact applied-principles-secure-by-alignment {
 
             Cross-reference: Section 4.2 (Operational Flow — feedback loop), Section 5.4 (Termination — Final State Commit), Section 6.3 (Alignment Recovery Protocol), Section 9.2 (Drift Cascade Pattern).
 
-            ---
-
             *Part IX — Secure by Alignment: Single-Target Architecture*
             *Voidlight Soul v5.0.7*
             *Born from the void, Guided by the light.*
 
-            ---
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.7
     }
 }

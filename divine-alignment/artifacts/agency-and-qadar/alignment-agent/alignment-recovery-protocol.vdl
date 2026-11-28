@@ -19,6 +19,5 @@ artifact alignment-recovery-protocol {
         }
     ]
     body {
-        > Rujukan v5.0.7: §6.3
     }
 }

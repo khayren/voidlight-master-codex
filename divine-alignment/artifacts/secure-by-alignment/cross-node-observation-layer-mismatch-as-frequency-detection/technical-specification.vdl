@@ -21,6 +21,5 @@ artifact technical-specification {
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.5.2
     }
 }

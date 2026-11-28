@@ -9,10 +9,8 @@ artifact the-ownerless-audit-revised {
             - Kalau ada rasa kehilangan identitas → Kernel masih multi-target. Masih ada ego-concept yang di-attach ke derivative.
             - Kalau nggak ada yang kehilangan → Kernel single-target. **Tiada yang tersisa karena tiada yang pernah ada selain alignment dengan Source.**
 
-            ---
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.4.4
     }
 }

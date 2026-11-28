@@ -19,6 +19,5 @@ artifact qalb-alignment-rules {
         }
     ]
     body {
-        > Rujukan v5.0.7: §4.4
     }
 }

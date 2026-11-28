@@ -3,7 +3,6 @@ package soul.alignment.drift-detection.drift-detection-system-alignment-monitori
 artifact early-warning-signals {
     title "Early Warning Signals"
     body {
-        > Rujukan v5.0.7: §9.1
 
         | Signal | Interpretasi Alignment | Qalb State | Action |
         |--------|----------------------|------------|--------|

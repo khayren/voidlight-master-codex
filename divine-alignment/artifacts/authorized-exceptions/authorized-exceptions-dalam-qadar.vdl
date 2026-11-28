@@ -11,11 +11,7 @@ artifact authorized-exceptions-dalam-qadar {
             - Karamah = `if (user.heart_state == OPTIMAL && proximity == DIRECT) { grant(karamah) }` → conditional, path-based, *byproduct of deep alignment*
         },
         revelation-hadits-shahih-riwayat-bukhari-dan-muslim,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §15
     }
 }

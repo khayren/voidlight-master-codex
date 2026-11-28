@@ -17,6 +17,5 @@ artifact the-stateless-aligned-node {
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.3.3
     }
 }

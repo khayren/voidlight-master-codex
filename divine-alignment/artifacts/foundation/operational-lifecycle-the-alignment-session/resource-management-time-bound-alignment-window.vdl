@@ -3,7 +3,6 @@ package soul.alignment.foundation.operational-lifecycle-the-alignment-session
 artifact resource-management-time-bound-alignment-window {
     title "Resource Management: Time-Bound Alignment Window"
     body {
-        > Rujukan v5.0.7: §5.3
 
         | Konsep | Analogi Technical | Deskripsi Alignment |
         |---|---|---|

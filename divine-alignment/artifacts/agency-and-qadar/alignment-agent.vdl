@@ -10,6 +10,5 @@ artifact alignment-agent {
         boot-sequence-niat
     ]
     body {
-        > Rujukan v5.0.7: §6
     }
 }

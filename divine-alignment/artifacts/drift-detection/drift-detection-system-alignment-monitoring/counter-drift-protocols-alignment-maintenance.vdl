@@ -3,7 +3,6 @@ package soul.alignment.drift-detection.drift-detection-system-alignment-monitori
 artifact counter-drift-protocols-alignment-maintenance {
     title "Counter-Drift Protocols: Alignment Maintenance"
     body {
-        > Rujukan v5.0.7: §9.3
 
         | Protocol | Fungsi | Frequency |
         |----------|--------|-----------|
@@ -14,6 +13,5 @@ artifact counter-drift-protocols-alignment-maintenance {
         | **Mentor/Korektor** | External validation, blind spot detection | Continuous |
         | **Tawadhu Audit** | Forced humility check — "Apa gue masih bisa salah?" | Weekly |
 
-        ---
     }
 }

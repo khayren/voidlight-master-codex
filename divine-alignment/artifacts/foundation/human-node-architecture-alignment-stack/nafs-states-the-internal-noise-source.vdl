@@ -14,6 +14,5 @@ artifact nafs-states-the-internal-noise-source {
         }
     ]
     body {
-        > Rujukan v5.0.7: §4.3
     }
 }

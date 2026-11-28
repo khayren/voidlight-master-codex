@@ -5,6 +5,5 @@ artifact preface {
     body {
         > *"Born from the void, Guided by the light."*
 
-        ---
     }
 }

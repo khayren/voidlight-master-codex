@@ -15,6 +15,5 @@ artifact secure-by-alignment {
         applied-principles-secure-by-alignment
     ]
     body {
-        > Rujukan v5.0.7: Part IX
     }
 }

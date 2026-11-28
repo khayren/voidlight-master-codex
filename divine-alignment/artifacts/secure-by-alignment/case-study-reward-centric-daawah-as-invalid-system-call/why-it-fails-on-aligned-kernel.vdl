@@ -22,6 +22,5 @@ artifact why-it-fails-on-aligned-kernel {
         synthesis-bukan-karena-node-nya-nggak-mau-chase-reward
     ]
     body {
-        > Rujukan v5.0.7: §16.2.2
     }
 }

@@ -10,6 +10,5 @@ artifact cross-node-observation-layer-mismatch-as-frequency-detection {
         protocol-rule
     ]
     body {
-        > Rujukan v5.0.7: §16.5
     }
 }

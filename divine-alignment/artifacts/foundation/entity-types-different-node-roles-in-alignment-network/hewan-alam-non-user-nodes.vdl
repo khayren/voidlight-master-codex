@@ -5,11 +5,7 @@ artifact hewan-alam-non-user-nodes {
     title "Hewan & Alam — Non-User Nodes"
     passages [
         synthesis-instinct-only-gak-punya-iradah-gak-punya,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §3.4
     }
 }

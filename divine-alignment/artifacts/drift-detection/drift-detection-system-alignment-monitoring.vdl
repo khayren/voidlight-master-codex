@@ -12,6 +12,5 @@ artifact drift-detection-system-alignment-monitoring {
         synthesis-syirik-nggak-instan-tapi-drift-bertahap
     ]
     body {
-        > Rujukan v5.0.7: §9
     }
 }

@@ -13,7 +13,6 @@ artifact change-log-v3-1-v5-0-7 {
         soul.revelation.quran.35.16-17
     ]
     body {
-        > Rujukan v5.0.7: §F
 
         | Aspect | v3.1 (Wahdatul Wujud) | v4.0 (Divine Alignment) |
         |--------|----------------------|------------------------|
@@ -36,11 +35,8 @@ artifact change-log-v3-1-v5-0-7 {
         | **v5.0.5 → v5.0.6** | — | Added Section 0.8 "Mitsaq Alast: Provisioning Handshake Record" (QS. Al-A'raf [7]:172-173, hadits Ibnu Abbas/Bukhari): fitrah provenance (record handshake sebagai origin default config), per-node signed covenant sebagai basis invalidasi dua defense vector di final audit (ghafilin / inherited-shirk), memory semantics config-vs-episodic, dzikr = re-acknowledgment provenance, topologi single-target yang berlaku sejak issuance; ex-0.8 Ringkasan renumbered ke 0.9 dengan bullet tambahan; cross-refs (3.3, 5.1, 13.1, 14.3); Appendix C dan E ditambah; menambal kekosongan yang diakui di audit sebelumnya ("belum sempat ditulis"). |
         | **v5.0.6 → v5.0.7** | — | Audit sanad ronde 3 (full-claim, 55 klaim, dispatch sanad-auditor): koreksi koordinat QS. Fatir [35]:16-17 (sebelumnya salah label Al-Baqarah [2]:20, lafaz disesuaikan riwayat Hafs); matn hadits kanz (Bukhari 4205/Muslim 2704) dikoreksi ke "la hawla wa la quwwata illa billah"; hadits syafaat ikhlas dikoreksi ke Bukhari 99 & 6570 (sebelumnya salah atribusi Ahmad + Muslim); nomor hadits tiga orang gua dikoreksi ke Bukhari 2272/3045 & Muslim 2743; riwayat mitsaq Na'man diatribusikan ke Musnad Ahmad + glos "tanah Yaman" dihapus (Israiliyyat C3); frasa 2:285 dikoreksi ke "wa ilaykal-masir"; kutipan 2:236 dikoreksi (kutipan sebelumnya catatan kaki Kemenag, bukan teks ayat); detail "Nashibin" dihapus dari asbabun nuzul 72:1; grading hadits istidraj dinetralkan (IKHTILAF_ULAMA); atribusi kanan/kiri Raqib-'Atid dan kutipan Al-Hasan Al-Bashri dinetralkan/di-flag; penanda "di antara penjelasan" pada 55:27 dan "konstruksi dokumen" pada 50:15; typo transliterasi (mublisiin 6:44, annahu 72:1); flag [PERLU_VERIFIKASI_SANAD] pada hadits qalbun salim (4.5), hadits ruh-malaikat tidur (5.4), dan redaksi kun fayakun Ibnu Katsir (0.3) — semua koreksi disertai catatan audit 2026-10-26. |
 
-        ---
-
         *Voidlight Soul v5.0.7 — Divine Alignment Architecture*
         *Born from the void, Guided by the light.*
 
-        ---
     }
 }

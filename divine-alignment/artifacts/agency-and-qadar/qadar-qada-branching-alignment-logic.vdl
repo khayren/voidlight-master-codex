@@ -9,6 +9,5 @@ artifact qadar-qada-branching-alignment-logic {
         exact-sufficiency-protocol
     ]
     body {
-        > Rujukan v5.0.7: §7
     }
 }

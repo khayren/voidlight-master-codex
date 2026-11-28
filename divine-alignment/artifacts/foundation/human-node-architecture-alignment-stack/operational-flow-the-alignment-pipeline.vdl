@@ -10,6 +10,5 @@ artifact operational-flow-the-alignment-pipeline {
         }
     ]
     body {
-        > Rujukan v5.0.7: §4.2
     }
 }

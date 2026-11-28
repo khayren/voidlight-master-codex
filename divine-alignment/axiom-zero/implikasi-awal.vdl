@@ -7,11 +7,7 @@ artifact implikasi-awal {
     passages [
         synthesis-1-node-beroperasi-selamanya-di-wujud-mumkin,
         revelation-qs-al-ikhlas-112-1-4-surat-ini-adalah,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §0.4
     }
 }

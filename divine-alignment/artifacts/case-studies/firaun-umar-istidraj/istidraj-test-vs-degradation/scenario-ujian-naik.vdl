@@ -7,6 +7,5 @@ artifact scenario-ujian-naik {
         synthesis-orang-miskin-yang-diberi-harta-response-syukur
     ]
     body {
-        > Rujukan v5.0.7: §10.6.1
     }
 }

@@ -12,6 +12,5 @@ artifact firaun-umar-istidraj {
         istidraj-test-vs-degradation
     ]
     body {
-        > Rujukan v5.0.7: §10
     }
 }

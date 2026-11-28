@@ -25,6 +25,5 @@ artifact mitsaq-alast-provisioning-handshake-record {
         }
     ]
     body {
-        > Rujukan v5.0.7: §0.8
     }
 }

@@ -9,6 +9,5 @@ artifact sleep-death-alignment-finalization {
         maut-permanent-alignment-state-lock-in
     ]
     body {
-        > Rujukan v5.0.7: §14
     }
 }

@@ -15,6 +15,5 @@ artifact the-firaun-parallel-revisited {
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.4.3
     }
 }

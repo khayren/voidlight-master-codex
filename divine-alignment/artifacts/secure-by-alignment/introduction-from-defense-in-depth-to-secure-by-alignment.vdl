@@ -12,10 +12,8 @@ artifact introduction-from-defense-in-depth-to-secure-by-alignment {
         prose {
             Deep Divine Alignment adalah secure by design. Bukan karena node-nya "kuat" — node tetap wujud mumkin (per 0.1), tidak pernah kuat secara ontologis. Tapi karena **prerequisite untuk semua alignment drift nggak terdaftar di system.**
 
-            ---
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.0
     }
 }

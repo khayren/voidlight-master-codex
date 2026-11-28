@@ -13,6 +13,5 @@ artifact boot-sequence-niat {
         synthesis-hadits-ini-adalah-kasb-boot-protocol-per
     ]
     body {
-        > Rujukan v5.0.7: §6.4
     }
 }

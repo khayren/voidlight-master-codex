@@ -10,6 +10,5 @@ artifact drift-cascade-pattern {
         }
     ]
     body {
-        > Rujukan v5.0.7: §9.2
     }
 }

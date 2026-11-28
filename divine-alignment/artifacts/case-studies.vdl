@@ -4,6 +4,5 @@ artifact case-studies {
     title "CASE STUDIES & INTEGRATION LAYER"
     includes [soul.alignment.case-studies.prerequisite-axiom-0-all-previous-layers-solid-ini-adalah-integration-test, soul.alignment.case-studies.firaun-umar-istidraj]
     body {
-        > Rujukan v5.0.7: Part V
     }
 }

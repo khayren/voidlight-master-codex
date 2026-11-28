@@ -10,6 +10,5 @@ artifact firaun-as-diagnostic-tool {
         }
     ]
     body {
-        > Rujukan v5.0.7: §10.4
     }
 }

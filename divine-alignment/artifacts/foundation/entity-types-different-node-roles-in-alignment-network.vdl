@@ -10,6 +10,5 @@ artifact entity-types-different-node-roles-in-alignment-network {
         hewan-alam-non-user-nodes
     ]
     body {
-        > Rujukan v5.0.7: §3
     }
 }

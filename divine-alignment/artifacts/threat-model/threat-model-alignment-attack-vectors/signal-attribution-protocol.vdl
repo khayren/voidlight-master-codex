@@ -18,6 +18,5 @@ artifact signal-attribution-protocol {
         }
     ]
     body {
-        > Rujukan v5.0.7: §8.2
     }
 }

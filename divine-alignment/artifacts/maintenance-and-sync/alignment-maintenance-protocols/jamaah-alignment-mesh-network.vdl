@@ -12,6 +12,5 @@ artifact jamaah-alignment-mesh-network {
         }
     ]
     body {
-        > Rujukan v5.0.7: §13.4
     }
 }

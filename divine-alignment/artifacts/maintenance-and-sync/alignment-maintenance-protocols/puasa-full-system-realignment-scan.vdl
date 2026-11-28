@@ -17,6 +17,5 @@ artifact puasa-full-system-realignment-scan {
         }
     ]
     body {
-        > Rujukan v5.0.7: §13.2
     }
 }

@@ -3,6 +3,5 @@ package soul.alignment.foundation
 artifact prerequisite-axiom-0-entry-point-for-all-readers {
     title "(Prerequisite: Axiom 0 — Entry Point for All Readers)"
     body {
-        ---
     }
 }

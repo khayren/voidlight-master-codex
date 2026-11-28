@@ -14,6 +14,5 @@ artifact provisioning-rahim-token-injection {
         analogy-provisioning-hardware-assembly-os-installation
     ]
     body {
-        > Rujukan v5.0.7: §5.1
     }
 }

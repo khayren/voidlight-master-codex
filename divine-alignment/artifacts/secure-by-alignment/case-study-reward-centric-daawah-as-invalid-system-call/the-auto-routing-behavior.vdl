@@ -8,10 +8,8 @@ artifact the-auto-routing-behavior {
         prose {
             Ini bukan willpower. Ini **architecture behavior** dari single-target system.
 
-            ---
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.2.3
     }
 }

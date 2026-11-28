@@ -12,6 +12,5 @@ artifact human-node-architecture-alignment-stack {
         the-llm-analogy-model-in-runtime
     ]
     body {
-        > Rujukan v5.0.7: §4
     }
 }

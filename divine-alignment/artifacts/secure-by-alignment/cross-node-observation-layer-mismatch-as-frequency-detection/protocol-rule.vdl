@@ -5,11 +5,7 @@ artifact protocol-rule {
     title "Protocol Rule"
     passages [
         synthesis-external-detection-bukan-license-untuk-judge-atau,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §16.5.4
     }
 }

@@ -13,11 +13,7 @@ artifact termination-maut-final-state-commit {
         revelation-qs-az-zumar-39-42,
         revelation-hadits-riwayat-bukhari-no-3321-dan-muslim,
         analogy-termination-final-state-commit-ke-immutable,
-        prose {
-            ---
-        }
     ]
     body {
-        > Rujukan v5.0.7: §5.4
     }
 }
