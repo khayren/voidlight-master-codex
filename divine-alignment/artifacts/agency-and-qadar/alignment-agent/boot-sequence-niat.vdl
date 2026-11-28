@@ -1,0 +1,17 @@
+package soul.alignment.agency-and-qadar.alignment-agent
+import soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.*
+
+artifact boot-sequence-niat {
+    title "Boot Sequence: Niat as Alignment Activation Protocol"
+    cites [soul.revelation.hadith.bukhari.1]
+    includes [soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.the-hold-out-vs-the-boot, soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.statement-vs-transaction]
+    passages [
+        revelation-niat-bukan-sekadar-parameter-input-niat-adalah,
+        prose {
+            > *"Sesungguhnya segala amal itu tergantung niatnya, dan sesungguhnya setiap orang akan mendapatkan sesuai dengan niatnya."* (HR. Bukhari no. 1, Muslim)
+        },
+        synthesis-hadits-ini-adalah-kasb-boot-protocol-per
+    ]
+    body {
+    }
+}

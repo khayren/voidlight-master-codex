@@ -3,7 +3,6 @@ package soul.alignment.appendix
 artifact validation-tag-legend {
     title "VALIDATION TAG LEGEND"
     body {
-        > Rujukan v5.0.7: §D
 
         | Tag | Meaning | Usage |
         |-----|---------|-------|

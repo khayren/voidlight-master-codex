@@ -1,11 +1,12 @@
 package soul.human-os
+import soul.human-os.user-space.*
 
 artifact user-space {
     title "User Space: What the World Sees"
     includes [
-        soul.human-os.user-space.alaniyah, 
-        soul.human-os.user-space.sirr, 
-        soul.human-os.user-space.akhfa
+        alaniyah, 
+        sirr, 
+        akhfa
     ]
     body {
     }

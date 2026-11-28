@@ -1,14 +1,14 @@
 package soul.alignment.secure-by-alignment
+import soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.*
 
 artifact case-study-knowledge-holders-and-ujub-as-uncomputable {
     title "CASE STUDY: KNOWLEDGE HOLDERS AND 'UJUB AS UNCOMPUTABLE"
     includes [
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-trap-layer-drift,
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.why-ujub-is-uncomputable-on-aligned-kernel,
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-firaun-parallel-revisited,
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.the-ownerless-audit-revised
+        the-trap-layer-drift,
+        why-ujub-is-uncomputable-on-aligned-kernel,
+        the-firaun-parallel-revisited,
+        the-ownerless-audit-revised
     ]
     body {
-        > Rujukan v5.0.7: §16.4
     }
 }

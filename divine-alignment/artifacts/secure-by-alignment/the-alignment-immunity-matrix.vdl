@@ -1,14 +1,11 @@
 package soul.alignment.secure-by-alignment
+import soul.alignment.secure-by-alignment.the-alignment-immunity-matrix.*
 
 artifact the-alignment-immunity-matrix {
     title "THE ALIGNMENT IMMUNITY MATRIX"
     passages [
-        soul.alignment.secure-by-alignment.the-alignment-immunity-matrix.synthesis-semua-corruption-vectors-di-part-iii-iv-memerlukan,
-        prose {
-            ---
-        }
+        synthesis-semua-corruption-vectors-di-part-iii-iv-memerlukan,
     ]
     body {
-        > Rujukan v5.0.7: §16.1
     }
 }

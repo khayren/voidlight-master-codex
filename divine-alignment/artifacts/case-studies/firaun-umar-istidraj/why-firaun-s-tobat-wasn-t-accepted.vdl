@@ -1,0 +1,19 @@
+package soul.alignment.case-studies.firaun-umar-istidraj
+import soul.alignment.case-studies.firaun-umar-istidraj.why-firaun-s-tobat-wasn-t-accepted.*
+
+artifact why-firaun-s-tobat-wasn-t-accepted {
+    title "Why Firaun's \"Tobat\" Wasn't Accepted"
+    cites [soul.revelation.quran.10.91, soul.revelation.quran.10.90]
+    passages [
+        revelation-qs-yunus-10-91,
+        prose {
+            Bukan karena Allah nggak mau ampuni — tapi karena:
+
+            1. **Waktu realignment sudah tutup** — Pintu tobat diterima sebelum balasan nyata. Ketika azab sudah di depan mata, ucapan iman tidak lagi bernilai sebagai alignment activation. *[REVELATION]* — QS. Yunus [10]:91.
+            2. **Bukan keimanan tulus, tapi keputusasaan** — Firaun baru mengakui Tuhan ketika sudah nggak punya pilihan lain. Itu bukan alignment — itu *forced compliance*.
+            3. **Qalb sudah Aghlaf** — Cermin hati sudah opaque. Meski kata-kata keimanan keluar, kapasitas untuk *menerima* ampunan sudah hilang. Alignment engine sudah rusak total.
+        }
+    ]
+    body {
+    }
+}

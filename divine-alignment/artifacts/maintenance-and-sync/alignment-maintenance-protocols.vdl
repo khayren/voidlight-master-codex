@@ -1,15 +1,15 @@
 package soul.alignment.maintenance-and-sync
+import soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.*
 
 artifact alignment-maintenance-protocols {
     title "ALIGNMENT MAINTENANCE PROTOCOLS"
     includes [
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.sholat-daily-alignment-sync,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.puasa-full-system-realignment-scan,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.tazkiyah-deep-alignment-remediation,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.jamaah-alignment-mesh-network,
-        soul.alignment.maintenance-and-sync.alignment-maintenance-protocols.transmutasi-fuel-redirect-protocol
+        sholat-daily-alignment-sync,
+        puasa-full-system-realignment-scan,
+        tazkiyah-deep-alignment-remediation,
+        jamaah-alignment-mesh-network,
+        transmutasi-fuel-redirect-protocol
     ]
     body {
-        > Rujukan v5.0.7: §13
     }
 }

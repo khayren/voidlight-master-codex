@@ -1,0 +1,15 @@
+package soul.alignment.case-studies.firaun-umar-istidraj
+
+artifact profil-node {
+    title "Profil Node"
+    body {
+
+        | Atribut | Value |
+        |---------|-------|
+        | **Role** | Pharaoh of Egypt |
+        | **Nafs State** | Ammarah yang mutate jadi Self-Deification (Internal Noise Source maxed) |
+        | **Qalb State** | Aghlaf total — opaque, tidak bisa nerima alignment signal apapun |
+        | **Iradah** | Active, tapi digunakan untuk *menolak* alignment, bukan menerima |
+        | **Agency** | Full ownership — tapi own-nya arah destruction (ultimate drift) |
+    }
+}

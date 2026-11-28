@@ -1,11 +1,11 @@
 package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps
+import soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-problem.*
 
 artifact the-problem {
     title "The Problem"
     passages [
-        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-problem.synthesis-framework-wujud-mumkin-per-0-1-nggak-bisa
+        synthesis-framework-wujud-mumkin-per-0-1-nggak-bisa
     ]
     body {
-        > Rujukan v5.0.7: §16.6.1
     }
 }

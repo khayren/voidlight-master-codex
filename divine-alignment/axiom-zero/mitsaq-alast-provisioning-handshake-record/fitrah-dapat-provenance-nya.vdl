@@ -1,11 +1,11 @@
 package soul.axiom-zero.mitsaq-alast-provisioning-handshake-record
+import soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.fitrah-dapat-provenance-nya.*
 
 artifact fitrah-dapat-provenance-nya {
     title "Fitrah Dapat Provenance-nya"
     passages [
-        soul.axiom-zero.mitsaq-alast-provisioning-handshake-record.fitrah-dapat-provenance-nya.synthesis-v5-0-5-mendokumentasikan-fitrah-sebagai-default-alignm
+        synthesis-v5-0-5-mendokumentasikan-fitrah-sebagai-default-alignm
     ]
     body {
-        > Rujukan v5.0.7: §A
     }
 }

@@ -1,10 +1,11 @@
 package soul.human-os
+import soul.human-os.immutable-core.*
 
 artifact immutable-core {
     title "The Immutable Core: What Cannot Be Hacked"
     includes [
-        soul.human-os.immutable-core.as-sirr, 
-        soul.human-os.immutable-core.fitrah
+        as-sirr, 
+        fitrah
     ]
     body {
     }

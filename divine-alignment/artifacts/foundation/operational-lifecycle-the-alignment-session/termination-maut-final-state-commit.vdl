@@ -1,22 +1,19 @@
 package soul.alignment.foundation.operational-lifecycle-the-alignment-session
+import soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit.*
 
 artifact termination-maut-final-state-commit {
     title "Termination (Maut): Final State Commit"
     cites [soul.revelation.quran.39.42, soul.revelation.hadith.bukhari.595, soul.revelation.hadith.bukhari.7471, soul.revelation.hadith.bukhari.6320, soul.revelation.hadith.muslim.2714a]
     passages [
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit.revelation-revelation,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit.synthesis-proses-token-revocation-alignment-token-ruh-ditarik,
+        revelation-revelation,
+        synthesis-proses-token-revocation-alignment-token-ruh-ditarik,
         prose {
             Yang di-evaluate bukan "berapa banyak request yang sukses" — tapi **state of the Qalb at session end** (per 0.1: wujud mumkin, bukan shift ke wajib). Alignment adalah state operasional, bukan ontological upgrade.
         },
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit.revelation-qs-az-zumar-39-42,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit.revelation-hadits-riwayat-bukhari-no-3321-dan-muslim,
-        soul.alignment.foundation.operational-lifecycle-the-alignment-session.termination-maut-final-state-commit.analogy-termination-final-state-commit-ke-immutable,
-        prose {
-            ---
-        }
+        revelation-qs-az-zumar-39-42,
+        revelation-hadits-riwayat-bukhari-no-3321-dan-muslim,
+        analogy-termination-final-state-commit-ke-immutable,
     ]
     body {
-        > Rujukan v5.0.7: §5.4
     }
 }

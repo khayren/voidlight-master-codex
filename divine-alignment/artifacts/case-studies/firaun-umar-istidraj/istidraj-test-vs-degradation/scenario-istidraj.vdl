@@ -1,0 +1,16 @@
+package soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation
+import soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj.*
+
+artifact scenario-istidraj {
+    title "Scenario B: Istidraj (Degradation Path)"
+    cites [soul.revelation.quran.42.27]
+    passages [
+        synthesis-orang-miskin-yang-diberi-harta-response-lupa,
+        prose {
+            **Same event, different routing — based on Qalb response to nikmat.**
+        },
+        revelation-qs-asy-syura-42-27,
+    ]
+    body {
+    }
+}

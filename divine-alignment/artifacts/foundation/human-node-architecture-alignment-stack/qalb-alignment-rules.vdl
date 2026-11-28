@@ -1,9 +1,10 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack
+import soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-alignment-rules.*
 
 artifact qalb-alignment-rules {
     title "Qalb Alignment Rules"
     passages [
-        soul.alignment.foundation.human-node-architecture-alignment-stack.qalb-alignment-rules.synthesis-qalb-bukan-sekadar-firewall-yang-nge-block-malware,
+        synthesis-qalb-bukan-sekadar-firewall-yang-nge-block-malware,
         prose {
             | Rule | Tipe | Deskripsi |
             |---|---|---|
@@ -18,6 +19,5 @@ artifact qalb-alignment-rules {
         }
     ]
     body {
-        > Rujukan v5.0.7: §4.4
     }
 }

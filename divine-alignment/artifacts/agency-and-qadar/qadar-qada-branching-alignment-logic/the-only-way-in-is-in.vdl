@@ -1,17 +1,17 @@
 package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic
+import soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.the-only-way-in-is-in.*
 
 artifact the-only-way-in-is-in {
     title "The Only Way In Is In"
     cites [soul.revelation.quran.26.88-89]
     passages [
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.the-only-way-in-is-in.synthesis-pencarian-vertikal-kepada-allah-dengan-horizontal-tool,
+        synthesis-pencarian-vertikal-kepada-allah-dengan-horizontal-tool,
         prose {
             Horizontal tools (harta, jabatan, skill) bisa digunakan untuk *support* alignment — tapi tidak bisa *substitute* alignment. Orang kaya belum tentu aligned. Orang miskin belum tentu drifted.
         },
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.the-only-way-in-is-in.revelation-qs-asy-syu-ara-26-88-89,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.the-only-way-in-is-in.revelation-ayat-ini-bukan-harta-itu-jahat
+        revelation-qs-asy-syu-ara-26-88-89,
+        revelation-ayat-ini-bukan-harta-itu-jahat
     ]
     body {
-        > Rujukan v5.0.7: §7.2
     }
 }

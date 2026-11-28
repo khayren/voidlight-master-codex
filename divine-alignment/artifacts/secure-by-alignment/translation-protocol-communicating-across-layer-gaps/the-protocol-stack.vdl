@@ -3,7 +3,6 @@ package soul.alignment.secure-by-alignment.translation-protocol-communicating-ac
 artifact the-protocol-stack {
     title "The Protocol Stack"
     body {
-        > Rujukan v5.0.7: §16.6.2
 
         | Receiver State | Protocol | Jangan | Contekan |
         |--------------|----------|--------|----------|

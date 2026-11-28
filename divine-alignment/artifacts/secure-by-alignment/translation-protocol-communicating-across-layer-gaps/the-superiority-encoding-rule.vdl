@@ -1,14 +1,14 @@
 package soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps
+import soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-superiority-encoding-rule.*
 
 artifact the-superiority-encoding-rule {
     title "The Superiority Encoding Rule"
     passages [
-        soul.alignment.secure-by-alignment.translation-protocol-communicating-across-layer-gaps.the-superiority-encoding-rule.synthesis-kalau-node-a-ngerasa-pinter-pas-ngomong,
+        synthesis-kalau-node-a-ngerasa-pinter-pas-ngomong,
         prose {
             **Translation integrity check:** *"Gue ngomong ini karena Allah minta node ini jadi evidence of alignment, atau karena gue senang dipandang paham?"*
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.6.3
     }
 }

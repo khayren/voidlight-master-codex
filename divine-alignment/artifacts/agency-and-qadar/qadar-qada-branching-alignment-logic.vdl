@@ -1,13 +1,13 @@
 package soul.alignment.agency-and-qadar
+import soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.*
 
 artifact qadar-qada-branching-alignment-logic {
     title "QADAR & QADA — BRANCHING ALIGNMENT LOGIC"
     includes [
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.node-config-mu-allaq-ports-and-realized-path,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.the-only-way-in-is-in,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol
+        node-config-mu-allaq-ports-and-realized-path,
+        the-only-way-in-is-in,
+        exact-sufficiency-protocol
     ]
     body {
-        > Rujukan v5.0.7: §7
     }
 }

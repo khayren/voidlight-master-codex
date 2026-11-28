@@ -1,0 +1,16 @@
+package soul.alignment.case-studies
+import soul.alignment.case-studies.firaun-umar-istidraj.*
+
+artifact firaun-umar-istidraj {
+    title "CASE STUDIES: FIRAUN, UMAR, AND ISTIDRAJ — DRIFT, REALIGNMENT, AND DEGRADATION PATTERNS"
+    includes [
+        profil-node,
+        drift-timeline,
+        why-firaun-s-tobat-wasn-t-accepted,
+        firaun-as-diagnostic-tool,
+        contrast-umar-bin-khattab,
+        istidraj-test-vs-degradation
+    ]
+    body {
+    }
+}

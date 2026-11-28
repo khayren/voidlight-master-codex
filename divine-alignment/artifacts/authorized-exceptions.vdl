@@ -4,6 +4,5 @@ artifact authorized-exceptions {
     title "AUTHORIZED EXCEPTIONS"
     includes [soul.alignment.authorized-exceptions.advanced-understanding-the-boundaries-of-the-alignment-system, soul.alignment.authorized-exceptions.authorized-exceptions-dalam-qadar]
     body {
-        > Rujukan v5.0.7: Part VIII
     }
 }

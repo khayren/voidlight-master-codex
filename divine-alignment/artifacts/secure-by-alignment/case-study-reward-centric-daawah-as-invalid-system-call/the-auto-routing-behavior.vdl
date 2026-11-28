@@ -1,16 +1,15 @@
 package soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call
+import soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.the-auto-routing-behavior.*
 
 artifact the-auto-routing-behavior {
     title "The Auto-Routing Behavior"
     passages [
-        soul.alignment.secure-by-alignment.case-study-reward-centric-daawah-as-invalid-system-call.the-auto-routing-behavior.synthesis-wujud-mumkin-per-0-1-dengan-state-aligned,
+        synthesis-wujud-mumkin-per-0-1-dengan-state-aligned,
         prose {
             Ini bukan willpower. Ini **architecture behavior** dari single-target system.
 
-            ---
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.2.3
     }
 }

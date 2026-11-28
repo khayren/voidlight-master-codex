@@ -1,13 +1,13 @@
 package soul.alignment.foundation
+import soul.alignment.foundation.core-philosophy-divine-alignment.*
 
 artifact core-philosophy-divine-alignment {
     title "CORE PHILOSOPHY: DIVINE ALIGNMENT"
     includes [
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-central-problem-is-ontological-read-through-axiom-0,
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-alignment-stack,
-        soul.alignment.foundation.core-philosophy-divine-alignment.lauhul-mahfuzh-as-alignment-map
+        the-central-problem-is-ontological-read-through-axiom-0,
+        the-alignment-stack,
+        lauhul-mahfuzh-as-alignment-map
     ]
     body {
-        > Rujukan v5.0.7: §1
     }
 }

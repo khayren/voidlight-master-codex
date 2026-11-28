@@ -1,0 +1,14 @@
+package soul.alignment.case-studies.firaun-umar-istidraj
+import soul.alignment.case-studies.firaun-umar-istidraj.firaun-as-diagnostic-tool.*
+
+artifact firaun-as-diagnostic-tool {
+    title "Firaun as Diagnostic Tool"
+    passages [
+        synthesis-firaun-bukan-sekadar-orang-jahat-dia,
+        prose {
+            **Lesson:** Drift bisa di-detect dan di-interrupt di setiap checkpoint. Firaun adalah kasus di mana **zero intervention** terjadi — bukan karena nggak ada kesempatan, tapi karena **dia sendiri yang nolak setiap kesempatan realignment.**
+        }
+    ]
+    body {
+    }
+}

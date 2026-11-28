@@ -1,21 +1,19 @@
 package soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure
+import soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-stateless-aligned-node.*
 
 artifact the-stateless-aligned-node {
     title "The Stateless Aligned Node"
     passages [
-        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-stateless-aligned-node.analogy-drifted-node,
+        analogy-drifted-node,
         prose {
+            ```
             Aligned Node:
               Post (aksi) → Qalb filter → ALIGN/DROP → Output → No state persist
               State: Stateless (tiada attachment, tiada reinforcement loop — alignment maintained)
             ```
         },
-        soul.alignment.secure-by-alignment.case-study-social-media-as-non-existent-infrastructure.the-stateless-aligned-node.synthesis-node-aligned-nggak-perlu-rules-untuk-nggak,
-        prose {
-            ---
-        }
+        synthesis-node-aligned-nggak-perlu-rules-untuk-nggak
     ]
     body {
-        > Rujukan v5.0.7: §16.3.3
     }
 }

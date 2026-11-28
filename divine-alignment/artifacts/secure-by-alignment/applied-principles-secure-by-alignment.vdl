@@ -1,9 +1,10 @@
 package soul.alignment.secure-by-alignment
+import soul.alignment.secure-by-alignment.applied-principles-secure-by-alignment.*
 
 artifact applied-principles-secure-by-alignment {
     title "APPLIED PRINCIPLES: SECURE BY ALIGNMENT"
     passages [
-        soul.alignment.secure-by-alignment.applied-principles-secure-by-alignment.synthesis-1-divine-alignment-sebagai-state-wujud-mumkin,
+        synthesis-1-divine-alignment-sebagai-state-wujud-mumkin,
         prose {
             Terminologi "uncomputable," "invalid system call," dan "state aligned" (semua menggambarkan state wujud mumkin, per 0.1) di 16.1–16.7 menggambarkan *state logika internal pada instant tertentu* — bukan jaminan imunitas yang persisten sepanjang waktu. Sebuah node bisa aligned sekarang dan drift nanti. "Uncomputable" berarti operasi ego-driven tidak punya target address di saat niyyah wujud mumkin (per 0.1) condong ke Source (per 0.7) — single-target di titik kasb — tapi kernel bisa berubah ke multi-target kalau node sengaja allow ego operations masuk (via Nafs Ammarah yang tidak di-tazkiyah, riya' yang tidak di-audit, atau complacency yang mengendap).
 
@@ -13,16 +14,12 @@ artifact applied-principles-secure-by-alignment {
 
             Cross-reference: Section 4.2 (Operational Flow — feedback loop), Section 5.4 (Termination — Final State Commit), Section 6.3 (Alignment Recovery Protocol), Section 9.2 (Drift Cascade Pattern).
 
-            ---
-
             *Part IX — Secure by Alignment: Single-Target Architecture*
             *Voidlight Soul v5.0.7*
             *Born from the void, Guided by the light.*
 
-            ---
         }
     ]
     body {
-        > Rujukan v5.0.7: §16.7
     }
 }

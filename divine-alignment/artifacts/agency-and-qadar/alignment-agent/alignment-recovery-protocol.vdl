@@ -1,0 +1,23 @@
+package soul.alignment.agency-and-qadar.alignment-agent
+import soul.alignment.agency-and-qadar.alignment-agent.alignment-recovery-protocol.*
+
+artifact alignment-recovery-protocol {
+    title "Alignment Recovery Protocol"
+    passages [
+        synthesis-ketika-manusia-kehilangan-alignment-nyalahin-allah-nya,
+        prose {
+            **Step 1: Acknowledge**
+            > "Ini pilihan gue yang bikin drift. Gue yang execute, gue yang own. Bukan takdir yang jahat — itu invalid system call."
+
+            **Step 2: Audit**
+            > "Apa yang bikin gue drift? Nafs? Jin? Ignorance? Ego? Fear? Signal mana yang gue DROP yang seharusnya gue ALIGN?"
+
+            **Step 3: Realign**
+            > "Pilihan baru apa yang available sekarang, meski costly? Gue punya Iradah untuk pilih ulang — dan tujuannya bukan mengubah masa lalu, tapi restore alignment *sekarang*."
+
+            **Key Insight:** Alignment recovery bukan tentang *mengubah Qadar* — itu impossible (immutable rules). Tapi tentang *mengubah state qalb sekarang* — sebuah wujud mumkin (per 0.1) yang masih bisa redirect niyyah-nya (per 0.7) — terhadap Qadar yang sudah terjadi, yang akan menentukan branching path ke depan.
+        }
+    ]
+    body {
+    }
+}

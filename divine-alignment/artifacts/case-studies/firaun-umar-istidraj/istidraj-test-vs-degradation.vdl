@@ -1,0 +1,8 @@
+package soul.alignment.case-studies.firaun-umar-istidraj
+
+artifact istidraj-test-vs-degradation {
+    title "Istidraj: Nikmat as Alignment Test vs Degradation Path"
+    includes [soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-ujian-naik, soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-istidraj]
+    body {
+    }
+}

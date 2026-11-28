@@ -1,4 +1,5 @@
 package soul.axiom-zero
+import soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer.*
 
 artifact amr-sebagai-input-class-bukan-substance-transfer {
     title "Amr Sebagai Input Class, Bukan Substance Transfer"
@@ -9,9 +10,9 @@ artifact amr-sebagai-input-class-bukan-substance-transfer {
         soul.revelation.quran.30.30
     ]
     passages [
-        soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer.revelation-qs-al-isra-17-85,
-        soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer.revelation-qs-yasin-36-82,
-        soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer.synthesis-al-qur-an-konsisten-memisahkan-dua-register-proses-pen,
+        revelation-qs-al-isra-17-85,
+        revelation-qs-yasin-36-82,
+        synthesis-al-qur-an-konsisten-memisahkan-dua-register-proses-pen,
         prose {
             Firewall wajib di titik ini:
 
@@ -19,13 +20,9 @@ artifact amr-sebagai-input-class-bukan-substance-transfer {
 
             Menerima input dari suatu Source tidak membuat penerima inherit status ontologis Source tersebut. Command bisa datang dari yang Wajibul Wujud, tapi penerima Command tetap Mumkinul Wujud — tidak ada transfer status lewat proses penerimaan.
         },
-        soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer.revelation-qs-as-sajdah-32-7,
-        soul.axiom-zero.amr-sebagai-input-class-bukan-substance-transfer.analogy-kayak-thread-yang-menerima-signal-dari-kernel,
-        prose {
-            ---
-        }
+        revelation-qs-as-sajdah-32-7,
+        analogy-kayak-thread-yang-menerima-signal-dari-kernel,
     ]
     body {
-        > Rujukan v5.0.7: §0.3
     }
 }

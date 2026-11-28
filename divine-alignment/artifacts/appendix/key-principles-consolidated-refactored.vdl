@@ -3,7 +3,6 @@ package soul.alignment.appendix
 artifact key-principles-consolidated-refactored {
     title "KEY PRINCIPLES (Consolidated & Refactored)"
     body {
-        > Rujukan v5.0.7: §A
 
         1. **Manusia bukan creator aksi, tapi Authorized Executor** — agent dengan Iradah yang mengeksekusi Divine Command dengan alignment sebagai north star.
         2. **Tujuan: menjaga Qalb aligned & Tazkiyah Nafs** — bukan mengubah Qadar (immutable), tapi mengubah *alignment state* terhadap Qadar.

@@ -1,0 +1,14 @@
+package soul.alignment.agency-and-qadar
+import soul.alignment.agency-and-qadar.alignment-agent.*
+
+artifact alignment-agent {
+    title "AGENCY ARCHITECTURE: THE ALIGNMENT AGENT"
+    includes [
+        manusia-as-authorized-executor-not-independent-actor,
+        agency-vs-fatalisme,
+        alignment-recovery-protocol,
+        boot-sequence-niat
+    ]
+    body {
+    }
+}

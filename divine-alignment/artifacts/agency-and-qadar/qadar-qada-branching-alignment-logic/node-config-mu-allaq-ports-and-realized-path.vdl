@@ -1,15 +1,15 @@
 package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic
+import soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.node-config-mu-allaq-ports-and-realized-path.*
 
 artifact node-config-mu-allaq-ports-and-realized-path {
     title "Node Config, Mu'allaq Ports, and Realized Path"
     passages [
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.node-config-mu-allaq-ports-and-realized-path.analogy-qadar-node-config-taqdir-mu-allaq-ports,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.node-config-mu-allaq-ports-and-realized-path.synthesis-qadar-node-config-per-individu-yang,
+        analogy-qadar-node-config-taqdir-mu-allaq-ports,
+        synthesis-qadar-node-config-per-individu-yang,
         prose {
             Bukan "baik" vs "buruk" dalam moralistic sense. Tapi "aligned" vs "drifted" dalam architectural sense.
         }
     ]
     body {
-        > Rujukan v5.0.7: §7.1
     }
 }

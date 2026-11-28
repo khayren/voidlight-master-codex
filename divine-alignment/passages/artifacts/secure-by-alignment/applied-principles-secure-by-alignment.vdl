@@ -13,8 +13,6 @@ synthesis synthesis-1-divine-alignment-sebagai-state-wujud-mumkin {
         9. **Translation integrity (antara framework wujud mumkin, per 0.1, dan bahasa yang dipahami audiens) harus di-audit.** Kalau ada superiority encoding, itu bukan translation — itu kernel leak.
         10. **Secure by kasb (per 0.6) = tiada defense yang diperlukan terhadap ego attacks pada wujud mumkin (per 0.1).** Bukan karena node kuat, tapi karena arsitekturnya nggak punya vulnerability surface untuk ego.
 
-        ---
-
         > **Caveat: Aligned-kernel state adalah kondisi per-momen, bukan unlock permanen.**
     }
 }

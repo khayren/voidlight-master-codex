@@ -15,6 +15,5 @@ artifact nafs {
         It is **weight fine-tuning**.
         A gradual adjustment of the nafs through continuous training (dhikr, sabar, trials, tawbah) until toxic weights are pruned and aligned patterns dominate.
 
-        ---
     }
 }

@@ -1,0 +1,11 @@
+package soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation
+import soul.alignment.case-studies.firaun-umar-istidraj.istidraj-test-vs-degradation.scenario-ujian-naik.*
+
+artifact scenario-ujian-naik {
+    title "Scenario A: Ujian (Naik Tier Alignment)"
+    passages [
+        synthesis-orang-miskin-yang-diberi-harta-response-syukur
+    ]
+    body {
+    }
+}

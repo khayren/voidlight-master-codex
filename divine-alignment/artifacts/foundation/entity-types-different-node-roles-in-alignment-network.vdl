@@ -1,14 +1,14 @@
 package soul.alignment.foundation
+import soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.*
 
 artifact entity-types-different-node-roles-in-alignment-network {
     title "ENTITY TYPES — DIFFERENT NODE ROLES IN ALIGNMENT NETWORK"
     includes [
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.malaikat-immutable-background-service,
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.jin-parallel-user-node-different-vessel,
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.manusia-primary-user-node-alignment-training-mode,
-        soul.alignment.foundation.entity-types-different-node-roles-in-alignment-network.hewan-alam-non-user-nodes
+        malaikat-immutable-background-service,
+        jin-parallel-user-node-different-vessel,
+        manusia-primary-user-node-alignment-training-mode,
+        hewan-alam-non-user-nodes
     ]
     body {
-        > Rujukan v5.0.7: §3
     }
 }

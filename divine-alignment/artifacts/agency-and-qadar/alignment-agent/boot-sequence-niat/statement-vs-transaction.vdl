@@ -1,0 +1,16 @@
+package soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat
+import soul.alignment.agency-and-qadar.alignment-agent.boot-sequence-niat.statement-vs-transaction.*
+
+artifact statement-vs-transaction {
+    title "Alignment Statement vs Transactional Request"
+    passages [
+        synthesis-doa-setelah-boot-bukan-request-untuk-mengubah,
+        revelation-hadits-riwayat-bukhari-no-2272-juga-no,
+        prose {
+            **Key Insight:** Boot sequence nggak mengubah Qadar. Boot sequence mengubah **state node** — dari wujud mumkin yang complacent (per 0.2: sustain signal di-accept tapi tidak di-navigate) menjadi wujud mumkin yang active dalam kasb framework (per 0.6–0.7). Dan dari situ, branching path ke depan berubah karena Iradah sudah di-activate dengan alignment sebagai north star.
+
+        }
+    ]
+    body {
+    }
+}

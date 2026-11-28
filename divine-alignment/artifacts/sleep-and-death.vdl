@@ -4,6 +4,5 @@ artifact sleep-and-death {
     title "SLEEP, DEATH & AFTERLIFE"
     includes [soul.alignment.sleep-and-death.integration-of-all-layers-into-terminal-alignment-state, soul.alignment.sleep-and-death.sleep-death-alignment-finalization]
     body {
-        > Rujukan v5.0.7: Part VII
     }
 }

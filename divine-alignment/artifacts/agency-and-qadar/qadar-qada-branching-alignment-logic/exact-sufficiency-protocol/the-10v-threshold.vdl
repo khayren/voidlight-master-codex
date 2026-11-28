@@ -1,12 +1,12 @@
 package soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol
+import soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.*
 
 artifact the-10v-threshold {
     title "The 10V Threshold"
     cites [soul.revelation.quran.94.5-6]
     passages [
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.analogy-definition-the-10v-threshold-is-the,
+        analogy-definition-the-10v-threshold-is-the,
         prose {
-            ---
 
             **Case Study: The Fanbelt Failure (Lived Experience)**
 
@@ -17,8 +17,6 @@ artifact the-10v-threshold {
             Sepanjang perjalanan: monitor gauge tegangan aktif secara real time. Setiap turunan volt di-track. Setiap kilometer di-hitung. Ini adalah **maximum ikhtiar dalam mode continuous muhasabah** — bukan single decision point, tapi *ongoing calibration* antara agency (monitoring, reasoning) dan alignment (surrender outcome ke Allah). Tawakkal bukan "serahin sebelum berusaha" — tapi *"gue udah lakukan semua yang gue bisa, sekarang gue surrender hasilnya sambil tetap monitor."*
 
             Mesin mati persis saat tegangan mencapai **10V** — persis saat tiba di tujuan. Bukan 11V (masih ada margin). Bukan 9V (sudah mati di jalan). Persis **10V = critical minimum threshold**.
-
-            ---
 
             **Mapping ke Arsitektur Wujud Mumkin (per 0.1–0.2):**
 
@@ -44,15 +42,13 @@ artifact the-10v-threshold {
 
             Barakah dan 10V Threshold adalah **related tapi distinct**: Barakah adalah *efficiency multiplier*. 10V Threshold adalah *survival precision* — Exact Sufficiency dalam mode paling ekstrem: incomplete information, maximum ikhtiar, active tawakkal, dan *exact arrival*.
 
-            ---
         },
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.analogy-dalam-operational-terms-exact-sufficiency-berarti-node,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.revelation-qs-al-insyirah-94-5-6,
-        soul.alignment.agency-and-qadar.qadar-qada-branching-alignment-logic.exact-sufficiency-protocol.the-10v-threshold.revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan,
+        analogy-dalam-operational-terms-exact-sufficiency-berarti-node,
+        revelation-qs-al-insyirah-94-5-6,
+        revelation-satu-kesulitan-dua-kemudahan-tapi-kemudahan,
         prose {
             **Key Insight:** Exact Sufficiency adalah **anti-complacency mechanism** di dalam Qadar. Kalau node selalu punya cadangan "aman," node nggak pernah fully activate alignment. Exact sufficiency forces node ke **MVP mode** — minimum viable protocol, zero waste, full trust pada Source.
 
-            ---
         }
     ]
     body {

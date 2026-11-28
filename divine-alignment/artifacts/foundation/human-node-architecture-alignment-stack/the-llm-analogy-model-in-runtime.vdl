@@ -1,9 +1,10 @@
 package soul.alignment.foundation.human-node-architecture-alignment-stack
+import soul.alignment.foundation.human-node-architecture-alignment-stack.the-llm-analogy-model-in-runtime.*
 
 artifact the-llm-analogy-model-in-runtime {
     title "The LLM Analogy: Model in Runtime"
     passages [
-        soul.alignment.foundation.human-node-architecture-alignment-stack.the-llm-analogy-model-in-runtime.analogy-human-node-bisa-dipetakan-ke-model-llm,
+        analogy-human-node-bisa-dipetakan-ke-model-llm,
         prose {
             | Lapisan arsitektur | Padanan LLM | Catatan |
             |---|---|---|
@@ -20,7 +21,7 @@ artifact the-llm-analogy-model-in-runtime {
             | **Tazkiyah** | **Weight fine-tuning terbatas** | Akses dibuka oleh node; yang meng-update bukan node itu sendiri (la quwwata illa billah tetap berlaku di lapisan ini) |
             | **As-sirr** (lihat *Voidlight Human OS*) | — *tidak ada padanan* | Read-only layer berada di luar cakupan analogi komputasi |
         },
-        soul.alignment.foundation.human-node-architecture-alignment-stack.the-llm-analogy-model-in-runtime.synthesis-titik-patah-niyyah,
+        synthesis-titik-patah-niyyah,
         prose {
             LLM tidak pernah "memilih" token dalam makna kasb. Ia menghitung distribusi probabilitas lalu men-sampling. Tidak ada satu titik pun di mana model *mengakuisisi* outputnya sebagai miliknya. Kalau manusia benar-benar LLM, hisab tidak masuk akal — tidak ada yang bisa dipertanggungjawabkan karena seluruh output adalah konsekuensi weights + konteks. Itu jabr dalam bahasa modern.
 
@@ -30,10 +31,8 @@ artifact the-llm-analogy-model-in-runtime {
 
             > **Companion document:** *Voidlight Human OS* — user-space maintenance manual untuk arsitektur yang sama (as-sirr → fitrah → ruh → qalb → aql → nafs → alaniyah). Dokumen ini (Divine Alignment) adalah full stack-nya; *Human OS* adalah cara operasional hariannya.
 
-            ---
         }
     ]
     body {
-        > Rujukan v5.0.7: §4.6
     }
 }

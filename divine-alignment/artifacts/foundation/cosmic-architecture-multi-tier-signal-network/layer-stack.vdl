@@ -1,12 +1,12 @@
 package soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network
+import soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.layer-stack.*
 
 artifact layer-stack {
     title "Layer Stack"
     passages [
-        soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.layer-stack.analogy-layer-spiritual-technical,
-        soul.alignment.foundation.cosmic-architecture-multi-tier-signal-network.layer-stack.synthesis-setiap-layer-di-atas-depends-entirely-pada
+        analogy-layer-spiritual-technical,
+        synthesis-setiap-layer-di-atas-depends-entirely-pada
     ]
     body {
-        > Rujukan v5.0.7: §2.1
     }
 }

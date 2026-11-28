@@ -1,10 +1,11 @@
 package soul.alignment.foundation.core-philosophy-divine-alignment
+import soul.alignment.foundation.core-philosophy-divine-alignment.the-central-problem-is-ontological-read-through-axiom-0.*
 
 artifact the-central-problem-is-ontological-read-through-axiom-0 {
     title "The Central Problem Is Ontological — Read Through Axiom 0"
     cites [soul.revelation.quran.20.14]
     passages [
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-central-problem-is-ontological-read-through-axiom-0.synthesis-framework-lama-v3-x-membingkai-masalah-utama-sebagai,
+        synthesis-framework-lama-v3-x-membingkai-masalah-utama-sebagai,
         prose {
             Framework v4.0 membingkai masalah utama sebagai:
 
@@ -14,10 +15,9 @@ artifact the-central-problem-is-ontological-read-through-axiom-0 {
 
             Allah adalah **Al-Haqq** (Yang Maha Nyata). Allah adalah **Al-Mabda'** (Sumber). Allah adalah **Al-Muntaha** (Tujuan Akhir). Penciptaan ada dalam *ketergantungan penuh* terhadap Allah. Namun *ketergantungan* bukanlah *identitas*. Makhluk adalah makhluk. Allah adalah Allah. Keduanya tidak saling tercampur.
         },
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-central-problem-is-ontological-read-through-axiom-0.revelation-qs-taha-20-14,
-        soul.alignment.foundation.core-philosophy-divine-alignment.the-central-problem-is-ontological-read-through-axiom-0.analogy-framework-ini-menjawab-client-wujud-mumkin-per
+        revelation-qs-taha-20-14,
+        analogy-framework-ini-menjawab-client-wujud-mumkin-per
     ]
     body {
-        > Rujukan v5.0.7: §1.1
     }
 }

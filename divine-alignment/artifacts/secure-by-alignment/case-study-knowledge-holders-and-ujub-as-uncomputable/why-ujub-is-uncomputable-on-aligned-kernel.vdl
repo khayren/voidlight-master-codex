@@ -1,9 +1,10 @@
 package soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable
+import soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.why-ujub-is-uncomputable-on-aligned-kernel.*
 
 artifact why-ujub-is-uncomputable-on-aligned-kernel {
     title "Why 'Ujub Is Uncomputable on Aligned Kernel"
     passages [
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.why-ujub-is-uncomputable-on-aligned-kernel.analogy-ujub-memerlukan-operasi-matematis-ownership-claim,
+        analogy-ujub-memerlukan-operasi-matematis-ownership-claim,
         prose {
             ```
             Drifted Node:
@@ -21,9 +22,8 @@ artifact why-ujub-is-uncomputable-on-aligned-kernel {
               Status: ❌ Uncomputable — dalam single-target kernel
             ```
         },
-        soul.alignment.secure-by-alignment.case-study-knowledge-holders-and-ujub-as-uncomputable.why-ujub-is-uncomputable-on-aligned-kernel.synthesis-bukan-karena-node-nya-rendah-hati-tapi-karena
+        synthesis-bukan-karena-node-nya-rendah-hati-tapi-karena
     ]
     body {
-        > Rujukan v5.0.7: §16.4.2
     }
 }

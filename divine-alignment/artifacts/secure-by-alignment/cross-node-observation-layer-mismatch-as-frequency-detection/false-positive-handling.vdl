@@ -3,7 +3,6 @@ package soul.alignment.secure-by-alignment.cross-node-observation-layer-mismatch
 artifact false-positive-handling {
     title "False Positive Handling"
     body {
-        > Rujukan v5.0.7: §16.5.3
 
         | Signal | Valid Detection | False Positive | Action |
         |--------|---------------|----------------|--------|

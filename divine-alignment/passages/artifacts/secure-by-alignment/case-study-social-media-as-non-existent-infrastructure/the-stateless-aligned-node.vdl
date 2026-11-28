@@ -6,6 +6,7 @@ analogy analogy-drifted-node {
         Drifted Node:
           Post (aksi) → Ego attach → Butuh validation → Metrics masuk → Ego reinforced → Post lagi
           State: Stateful (ego state persist dan grow — drift accelerating)
+        ```
     }
 }
 
