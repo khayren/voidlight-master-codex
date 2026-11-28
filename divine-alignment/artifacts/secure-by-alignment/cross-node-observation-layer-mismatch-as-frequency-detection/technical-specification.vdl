@@ -6,6 +6,7 @@ artifact technical-specification {
     passages [
         analogy-node-a-kernel-aligned-single-target,
         prose {
+            ```
             Node B (Kernel Drifted — Multi-Target):
               Architecture: Multiple targets — "aku + Allah + dunia + reward" sebagai valid targets
               Filter: Selective — terima signal yang cocok ego, drop yang kontra

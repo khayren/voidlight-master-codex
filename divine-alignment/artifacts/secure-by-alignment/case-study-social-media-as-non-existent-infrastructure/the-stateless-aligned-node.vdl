@@ -6,15 +6,13 @@ artifact the-stateless-aligned-node {
     passages [
         analogy-drifted-node,
         prose {
+            ```
             Aligned Node:
               Post (aksi) → Qalb filter → ALIGN/DROP → Output → No state persist
               State: Stateless (tiada attachment, tiada reinforcement loop — alignment maintained)
             ```
         },
-        synthesis-node-aligned-nggak-perlu-rules-untuk-nggak,
-        prose {
-            ---
-        }
+        synthesis-node-aligned-nggak-perlu-rules-untuk-nggak
     ]
     body {
     }
